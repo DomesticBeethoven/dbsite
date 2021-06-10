@@ -6,7 +6,7 @@ description: A digital investigation into domestic music performance in the 19th
 
 # ! ! -- BASEURL SETTINGS -- ! !
 
-baseurl: "/dbmin"
+baseurl: "/dbsite"
 #baseurl: ""
 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
