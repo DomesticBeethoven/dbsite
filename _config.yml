@@ -9,7 +9,7 @@ description: A digital investigation into domestic music performance in the 19th
 baseurl: "/dbsite"
 #baseurl: ""
 
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://domestic-beethoven.eu"
 
 # github_username:  mss2221
 

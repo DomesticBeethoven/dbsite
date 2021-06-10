@@ -6,15 +6,17 @@ layout: home
 title: Home
 ---
 <style>
-body {color:white;}
+body {color:##1C3238;}
 </style>
 <!-- <body style="background-color:rgba(255,243,176,0.6)"></body> -->
-<body style="background-color:rgb(158,42,43)"></body>
+
+<!-- Red background:  -->
+<!-- <body style="background-color:rgb(158,42,43)"></body> -->
 
 
 
 ![Title Page: Beethoven 8 für Forte-Piano](assets/img/c93-3.jpg){:height="500px" width="660px"}
 
-# Beethoven in the House
+# **Beethoven in the House**
 
 ## A 21st century study of 19th century publishing.
