@@ -6,8 +6,8 @@ description: A digital investigation into domestic music performance in the 19th
 
 # ! ! -- BASEURL SETTINGS -- ! !
 
-baseurl: "/dbsite"
-#baseurl: ""
+#baseurl: "/dbsite"
+baseurl: ""
 
 url: "http://domestic-beethoven.eu"
 
