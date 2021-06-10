@@ -3,13 +3,13 @@ layout: page
 title: People
 permalink: /people/
 ---
-International team of experts:
+People:
 ---
 - person 1
 - person 2
 - person 3
 
-Beteiligte Institutionen:
+Institutions:
 ---
 - Uni 1
 - Uni 2
