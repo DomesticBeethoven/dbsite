@@ -38,8 +38,8 @@
 
 .sub-title {
   @include relative-font-size(1.5);
-  // font-family: "Cinzel", monospace;
-  color: #333333;
+  line-height: $base-line-height * $base-font-size * 1.75;
+  color: #494949;
   font-weight: bold;
   // font-style: italic;
 }
@@ -60,10 +60,10 @@
 
 
 .site-nav {
-  float: right;
-  line-height: $base-line-height * $base-font-size * 2.25;
-
-  .nav-trigger {
+    float: right;
+    font-weight: bold;
+    line-height: $base-line-height * $base-font-size * 2.25;
+    .nav-trigger {
       display: none;
   }
 }
