@@ -12,8 +12,9 @@
 //   border-bottom: 23px solid rgb(51,92,103);
 //   min-height: $spacing-unit * 1.865;
 .site-header {
-  border-top: 4px solid rgb(50,50,50);
-  border-bottom: 23px solid rgb(50,50,50);
+  //rgb(50,50,50);
+  border-top: 4px solid #00391E;
+  border-bottom: 23px solid #00391E;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
@@ -70,7 +71,7 @@
 
 .site-footer {
   // border-top:4px solid #9e2a2b;
-  border-top:4px solid #323232;
+  border-top:4px solid #00391E;
   padding: $spacing-unit 0;
 }
 

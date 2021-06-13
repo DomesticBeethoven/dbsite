@@ -7,9 +7,9 @@ style="background-color:#ffffff;">
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 <br/><br/><br/>
-  <div class="sub-title">
-    {{- site.description | escape -}}
-  </div>
+    <div class="sub-title">
+      {{- site.description | escape -}}
+    </div>
 
     {%- if page_paths -%}
       <nav class="site-nav">
@@ -34,5 +34,7 @@ style="background-color:#ffffff;">
         </div>
       </nav>
     {%- endif -%}
+
   </div>
+
 </header>
