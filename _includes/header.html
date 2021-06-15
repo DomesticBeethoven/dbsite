@@ -22,9 +22,8 @@ style="background-color:#ffffff;">
           </span>
         </label>
 
-        <!-- <div class="trigger" style="font-family:'Cinzel'">
-                                  style="font-family:Andale Mono, monospace" -->
-        <div class="trigger">
+
+        <div class="trigger" style="font-family:'Lato', monospace">
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
