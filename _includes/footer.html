@@ -11,18 +11,19 @@ style="background-color:rgb(256,256,256)";>
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
 
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
+      <div class="footer-col footer-col-1" style="font-family:Andale Mono, monospace">
         <ul class="contact-list">
-          <li class="p-name" style="font-family:Andale Mono, monospace">
+          <!-- <li class="p-name">
             {%- if site.author -%}
               {{ site.author | escape }}
             {%- else -%}
               {{ site.title | escape }}
             {%- endif -%}
+            </li> -->
+            <li style="font-family:Andale Mono, monospace">
+              <p>{{- site.description | escape -}}</p>
             </li>
-            {%- if site.email -%}
-            <li style="font-family:Andale Mono, monospace"><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
+
         </ul>
       </div>
 
@@ -31,10 +32,16 @@ style="background-color:rgb(256,256,256)";>
       </div>
 
       <div class="footer-col footer-col-3" style="font-family:Andale Mono, monospace">
-        <p>{{- site.description | escape -}}</p>
+        {%- if site.email -%}
+          <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+        {%- endif -%}
       </div>
-    </div>
 
+    </div>
+    <!-- <div  style="font-family:Andale Mono, monospace">
+      <p>This project is funded by the UK Arts and Humanities Research Council (AHRC), project reference <a href="https://gtr.ukri.org/projects?ref=AH%2FT01279X%2F1">AH/T01279X/1</a>
+        </p>
+      </div> -->
   </div>
 
 </footer>
