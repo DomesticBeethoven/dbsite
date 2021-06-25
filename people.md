@@ -17,6 +17,8 @@ People:
 
 #### **[Johannes Kepper](https://www.muwi-detmold-paderborn.de/personen/mitarbeiterinnen-und-mitarbeiter/dr-johannes-kepper)**
 
+#### **[Lisa Rosendahl](https://)**
+
 #### **[Mark Saccomano](https://www.muwi-detmold-paderborn.de/personen/mitarbeiterinnen-und-mitarbeiter/mark-saccomano-ma)**
 
 #### **[Andrew Hankison](https://)**  
@@ -40,4 +42,4 @@ The Beethoven-Haus is situated in the house of birth of the composer. It compris
 
 The University of Oxford e-Research Centre implements computational and informatics solutions in support of academia and industry. Through partnerships with the University of Oxford Faculty of Music, and beyond, its Digital Humanities team make significant contributions to digital musicology and music informatics through projects such as Transforming Musicology, FAST, Unlocking Musicology, and Digital Delius.
 
-#### **[Edirom  ViFE](https://)**
+#### **[Universität Paderborn](https://)**
