@@ -17,7 +17,7 @@ People:
 
 #### **[Johannes Kepper](https://www.muwi-detmold-paderborn.de/personen/mitarbeiterinnen-und-mitarbeiter/dr-johannes-kepper)**
 
-#### **[Lisa Rosendahl](https://)**
+#### **[Lisa Rosendahl](https://www.muwi-detmold-paderborn.de/en/personen/hilfskraefte/lisa-rosendahl)**
 
 #### **[Mark Saccomano](https://www.muwi-detmold-paderborn.de/personen/mitarbeiterinnen-und-mitarbeiter/mark-saccomano-ma)**
 
