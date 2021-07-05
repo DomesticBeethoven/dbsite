@@ -42,10 +42,14 @@
 #e53935
 #ff6f60
 #ab000d
-
-
-
  */
+
+
+ img[src*="#logo"] {
+    width:100px;
+    height:100px;
+ }
+
 /**
  * Links
  */
