@@ -26,7 +26,7 @@ People:
 
 ---
 ---
-<!-- <br/><br/> -->
+
 
 <br/>
 ### Institutions:
@@ -36,7 +36,7 @@ People:
 <!-- Beethoven-Haus Bonn, Forschungszentrum “Beethoven-Archiv” -->
 <!-- Beethoven-Haus Bonn, Research Centre “Beethoven-Archiv” -->
 
-The Beethoven-Haus is situated in the house of birth of the composer. It comprises a museum, a chamber concert hall and the Research Center “Beethoven-Archiv” with the richest and most diverse Beethoven collection worldwide a research library, the archive of the Beethoven-Haus Association and a publishing division. The research center is primarily responsible for the edition of Beethoven’s complete works (“Beethoven Werke”) and hosts moreover several third-party funded research projects. It contributes to the project with its Beethoven research expertise.
+The Beethoven-Haus is situated in the house of birth of the composer. It comprises a museum, a chamber concert hall, a research library, the Forschungszentrum “Beethoven-Archiv”—with the richest and most diverse Beethoven collection worldwide, a publishing division, and the archive of the Beethoven-Haus Association. The research center is primarily responsible for the edition of Beethoven’s complete works (“Beethoven Werke”) and hosts moreover several third-party funded research projects. It contributes its expertise in Beethoven research to the project.
 <br/><br/>
 #### **[University of Oxford e-Research Centre](https://www.oerc.ox.ac.uk/)**
 
