@@ -46,9 +46,22 @@
 
 
  img[src*="#logo"] {
-    width:100px;
-    height:100px;
+    width:250px;
+    height:117px;
  }
+
+
+  img[src*="#upb"] {
+     width:372px;
+     height:100px;
+     border: 7px solid #ffffff;
+  }
+
+  img[src*="#bh"] {
+     width:65%;
+     height:65%;
+     border: 8px solid #ffffff;
+  }
 
 /**
  * Links

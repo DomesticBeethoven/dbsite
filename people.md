@@ -36,13 +36,15 @@ People:
 <!-- Beethoven-Haus Bonn, Forschungszentrum “Beethoven-Archiv” -->
 <!-- Beethoven-Haus Bonn, Research Centre “Beethoven-Archiv” -->
 
+![BH logo](/dbsite/assets/img/logoBH.jpg#bh)
+
 The Beethoven-Haus is situated in the house of birth of the composer. It comprises a museum, a chamber concert hall, a research library, the Forschungszentrum “Beethoven-Archiv”—with the richest and most diverse Beethoven collection worldwide, a publishing division, and the archive of the Beethoven-Haus Association. The research center is primarily responsible for the edition of Beethoven’s complete works (“Beethoven Werke”) and hosts moreover several third-party funded research projects. It contributes its expertise in Beethoven research to the project.
 <br/><br/>
 
 
 #### **[University of Oxford e-Research Centre](https://www.oerc.ox.ac.uk/)**
 
-![OERC logo](/dbsite/assets/img/oerc100.jpg#logo)
+![OERC logo](/dbsite/assets/img/oerc2-250.png#logo)
 
 <!-- <img id="floated" src="/dbsite/assets/img/oerc100.jpg#logo"/> -->
 
@@ -50,3 +52,5 @@ The University of Oxford e-Research Centre implements computational and informat
 
 <br/><br/>
 #### **[Universität Paderborn](https://www.uni-paderborn.de/)**
+
+![UPB logo](/dbsite/assets/img/upbDe.jpg#upb)
