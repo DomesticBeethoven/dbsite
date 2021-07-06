@@ -1,0 +1,226 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bflc="http://id.loc.gov/ontologies/bflc/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+            <bf:Work rdf:about="http://id.loc.gov/resources/works/6136850">
+              <bflc:aap>Bach, Johann Sebastian, 1685-1750. Violin concerto in E major, S. 1042 [and] Violin concerto in A minor, S. 1041. Concerto for two violins in D minor, S. 1043</bflc:aap>
+              <bflc:aap-normalized>bachjohannsebastian16851750violinconcertoinemajors1042[and]violinconcertoinaminors1041concertofortwoviolinsindminors1043</bflc:aap-normalized>
+              <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Text"/>
+              <bf:language>
+                <bf:Language rdf:about="http://id.loc.gov/vocabulary/languages/zxx">
+	<rdfs:label>No linguistic content</rdfs:label>
+      </bf:Language>
+              </bf:language>
+              <bf:identifiedBy>
+                <bf:Lccn>
+                  <rdf:value>r  67001498 </rdf:value>
+                </bf:Lccn>
+              </bf:identifiedBy>
+              <bf:contribution>
+                <bf:Contribution>
+                  <rdf:type rdf:resource="http://id.loc.gov/ontologies/bflc/PrimaryContribution"/>
+                  <bf:agent>
+                    <bf:Agent rdf:about="http://id.loc.gov/rwo/agents/n79021425">
+	    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person" xmlns:streams="info:lc/streams#"/>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Bach, Johann Sebastian, 1685-1750.</rdfs:label>
+	    <madsrdf:isIdentifiedByAuthority rdf:resource="http://id.loc.gov/authorities/names/n79021425" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#"/>
+	  </bf:Agent>
+                  </bf:agent>
+                  <bf:role>
+                    <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb">
+	    <rdfs:label>Contributor</rdfs:label>
+	  </bf:Role>
+                  </bf:role>
+                </bf:Contribution>
+              </bf:contribution>
+              <bf:expressionOf>
+                <bf:Work rdf:about="http://id.loc.gov/resources/hubs/155ba06ad60678c195b2e9932f314a7e">
+	<bflc:aap>Bach, Johann Sebastian, 1685-1750. Concertos, violin &amp; string orchestra, S. 1041-1042</bflc:aap>
+	<bflc:aap-normalized>bachjohannsebastian16851750concertosviolin&amp;stringorchestras10411042</bflc:aap-normalized>
+	<bf:contribution>
+                    <bf:Contribution>
+                      <rdf:type rdf:resource="http://id.loc.gov/ontologies/bflc/PrimaryContribution" xmlns:streams="info:lc/streams#"/>
+                      <bf:agent>
+                        <bf:Agent>
+                          <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person" xmlns:streams="info:lc/streams#"/>
+                          <rdfs:label xmlns:streams="info:lc/streams#">Bach, Johann Sebastian, 1685-1750.</rdfs:label>
+                        </bf:Agent>
+                      </bf:agent>
+                      <bf:role>
+                        <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb"/>
+                      </bf:role>
+                    </bf:Contribution>
+                  </bf:contribution>
+	<rdfs:label xmlns:streams="info:lc/streams#">Concertos, violin &amp; string orchestra, S. 1041-1042. [from old catalog]</rdfs:label>
+	<bf:title>
+                    <bf:Title>
+                      <rdfs:label xmlns:streams="info:lc/streams#">Concertos, violin &amp; string orchestra, S. 1041-1042. [from old catalog]</rdfs:label>
+                      <bf:mainTitle xmlns:streams="info:lc/streams#">Concertos, violin &amp; string orchestra, S. 1041-1042. [from old catalog]</bf:mainTitle>
+                    </bf:Title>
+                  </bf:title>
+      </bf:Work>
+              </bf:expressionOf>
+              <rdfs:label>Violin concerto in E major, S. 1042 [and] Violin concerto in A minor, S. 1041. Concerto for two violins in D minor, S. 1043.</rdfs:label>
+              <bf:title>
+                <bf:Title>
+                  <rdfs:label>Violin concerto in E major, S. 1042 [and] Violin concerto in A minor, S. 1041. Concerto for two violins in D minor, S. 1043.</rdfs:label>
+                  <bf:mainTitle>Violin concerto in E major, S. 1042 [and] Violin concerto in A minor, S. 1041. Concerto for two violins in D minor, S. 1043.</bf:mainTitle>
+                </bf:Title>
+              </bf:title>
+              <bf:genreForm>
+                <bf:GenreForm>
+                  <rdfs:label xmlns:streams="info:lc/streams#">Sound recording</rdfs:label>
+                </bf:GenreForm>
+              </bf:genreForm>
+              <bf:subject>
+                <bf:Topic rdf:about="http://id.loc.gov/authorities/subjects/sh85030555">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic" xmlns:streams="info:lc/streams#"/>
+	<rdfs:label xmlns:streams="info:lc/streams#">Concertos (Violin with string orchestra)</rdfs:label>
+	<madsrdf:authoritativeLabel xmlns:streams="info:lc/streams#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">Concertos (Violin with string orchestra)</madsrdf:authoritativeLabel>
+	<madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects" xmlns:streams="info:lc/streams#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#"/>
+	<bflc:aap-normalized>concertos(violinwithstringorchestra)</bflc:aap-normalized>
+      </bf:Topic>
+              </bf:subject>
+              <bf:subject>
+                <bf:Topic rdf:about="http://id.loc.gov/authorities/subjects/sh85030569">
+	<rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#Topic" xmlns:streams="info:lc/streams#"/>
+	<rdfs:label xmlns:streams="info:lc/streams#">Concertos (Violins (2) with string orchestra)</rdfs:label>
+	<madsrdf:authoritativeLabel xmlns:streams="info:lc/streams#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#">Concertos (Violins (2) with string orchestra)</madsrdf:authoritativeLabel>
+	<madsrdf:isMemberOfMADSScheme rdf:resource="http://id.loc.gov/authorities/subjects" xmlns:streams="info:lc/streams#" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#"/>
+	<bflc:aap-normalized>concertos(violins(2)withstringorchestra)</bflc:aap-normalized>
+      </bf:Topic>
+              </bf:subject>
+              <bf:contribution>
+                <bf:Contribution>
+                  <bf:agent>
+                    <bf:Agent rdf:about="http://id.loc.gov/rwo/agents/n85072674">
+	    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person" xmlns:streams="info:lc/streams#"/>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Szeryng, Henryk.</rdfs:label>
+	    <madsrdf:isIdentifiedByAuthority rdf:resource="http://id.loc.gov/authorities/names/n85072674" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#"/>
+	  </bf:Agent>
+                  </bf:agent>
+                  <bf:role>
+                    <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb">
+	    <rdfs:label>Contributor</rdfs:label>
+	  </bf:Role>
+                  </bf:role>
+                </bf:Contribution>
+              </bf:contribution>
+              <bf:contribution>
+                <bf:Contribution>
+                  <bf:agent>
+                    <bf:Agent rdf:about="http://id.loc.gov/rwo/agents/no91014831">
+	    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person" xmlns:streams="info:lc/streams#"/>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Rybar, Peter, 1913-2002.</rdfs:label>
+	    <madsrdf:isIdentifiedByAuthority rdf:resource="http://id.loc.gov/authorities/names/no91014831" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#"/>
+	  </bf:Agent>
+                  </bf:agent>
+                  <bf:role>
+                    <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb">
+	    <rdfs:label>Contributor</rdfs:label>
+	  </bf:Role>
+                  </bf:role>
+                </bf:Contribution>
+              </bf:contribution>
+              <bf:contribution>
+                <bf:Contribution>
+                  <bf:agent>
+                    <bf:Agent rdf:about="http://id.loc.gov/rwo/agents/n83214384">
+	    <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Organization" xmlns:streams="info:lc/streams#"/>
+	    <rdfs:label xmlns:streams="info:lc/streams#">Musikkollegium Winterthur.</rdfs:label>
+	    <madsrdf:isIdentifiedByAuthority rdf:resource="http://id.loc.gov/authorities/names/n83214384" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#"/>
+	  </bf:Agent>
+                  </bf:agent>
+                  <bf:role>
+                    <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb">
+	    <rdfs:label>Contributor</rdfs:label>
+	  </bf:Role>
+                  </bf:role>
+                </bf:Contribution>
+              </bf:contribution>
+              <bf:hasPart>
+                <bf:Work rdf:about="http://id.loc.gov/resources/hubs/f1d5474fe9813283d424bec6ef52e725">
+	<bflc:aap>Bach, Johann Sebastian, 1685-1750. Concertos, violins (2), string orchestra, BWV 1043, D minor</bflc:aap>
+	<bflc:aap-normalized>bachjohannsebastian16851750concertosviolins(2)stringorchestrabwv1043dminor</bflc:aap-normalized>
+	<bf:contribution>
+                    <bf:Contribution>
+                      <bf:agent>
+                        <bf:Agent>
+                          <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Person" xmlns:streams="info:lc/streams#"/>
+                          <rdfs:label xmlns:streams="info:lc/streams#">Bach, Johann Sebastian, 1685-1750.</rdfs:label>
+                        </bf:Agent>
+                      </bf:agent>
+                      <bf:role>
+                        <bf:Role rdf:about="http://id.loc.gov/vocabulary/relators/ctb"/>
+                      </bf:role>
+                    </bf:Contribution>
+                  </bf:contribution>
+	<rdfs:label xmlns:streams="info:lc/streams#">Concertos, violins (2), string orchestra, BWV 1043, D minor.</rdfs:label>
+	<bf:title>
+                    <bf:Title>
+                      <rdfs:label xmlns:streams="info:lc/streams#">Concertos, violins (2), string orchestra, BWV 1043, D minor.</rdfs:label>
+                      <bf:mainTitle xmlns:streams="info:lc/streams#">Concertos, violins (2), string orchestra, BWV 1043, D minor.</bf:mainTitle>
+                    </bf:Title>
+                  </bf:title>
+	<bf:musicMedium xmlns:streams="info:lc/streams#">
+                    <bf:MusicMedium>
+                      <rdfs:label>violins (2), string orchestra</rdfs:label>
+                    </bf:MusicMedium>
+                  </bf:musicMedium>
+	<bf:musicKey xmlns:streams="info:lc/streams#">D minor</bf:musicKey>
+      </bf:Work>
+              </bf:hasPart>
+              <dcterms:isPartOf rdf:resource="http://id.loc.gov/resources/works"/>
+              <bf:hasInstance>
+      <bf:Instance rdf:about="http://id.loc.gov/resources/instances/6136850">
+	<bf:provisionActivityStatement xmlns:streams="info:lc/streams#">[n.p.]; Mercury SR 90466. [1967]</bf:provisionActivityStatement>
+      </bf:Instance>
+    </bf:hasInstance>
+              <bf:adminMetadata>
+                <bf:AdminMetadata>
+                  <bf:generationProcess>
+                    <bf:GenerationProcess>
+                      <rdfs:label>DLC marc2bibframe2 v1.6.0-SNAPSHOT</rdfs:label>
+                      <bf:generationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-01-03T23:56:51Z</bf:generationDate>
+                    </bf:GenerationProcess>
+                  </bf:generationProcess>
+                  <bf:status>
+                    <bf:Status>
+                      <rdfs:label>corrected or revised</rdfs:label>
+                      <bf:code>c</bf:code>
+                    </bf:Status>
+                  </bf:status>
+                  <bflc:encodingLevel>
+                    <bflc:EncodingLevel/>
+                  </bflc:encodingLevel>
+                  <bf:descriptionConventions>
+                    <bf:DescriptionConventions/>
+                  </bf:descriptionConventions>
+                  <bf:identifiedBy>
+                    <bf:Local>
+                      <rdf:value>6136850</rdf:value>
+                      <bf:assigner>
+                        <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc"/>
+                      </bf:assigner>
+                    </bf:Local>
+                  </bf:identifiedBy>
+                  <bf:changeDate rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-12-27T10:32:39</bf:changeDate>
+                  <bf:creationDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1986-06-10</bf:creationDate>
+                  <bf:source>
+                    <bf:Source rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+                      <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Agent"/>
+                      <rdfs:label>DLC</rdfs:label>
+                    </bf:Source>
+                  </bf:source>
+                  <bf:source>
+                    <bf:Source>
+                      <rdf:type rdf:resource="http://id.loc.gov/ontologies/bibframe/Agent"/>
+                      <rdfs:label>CarP</rdfs:label>
+                    </bf:Source>
+                  </bf:source>
+                  <bf:descriptionModifier>
+                    <bf:Agent rdf:about="http://id.loc.gov/vocabulary/organizations/dlc">
+                      <rdfs:label>DLC</rdfs:label>
+                    </bf:Agent>
+                  </bf:descriptionModifier>
+                </bf:AdminMetadata>
+              </bf:adminMetadata>
+            </bf:Work>
+          </rdf:RDF>

@@ -44,24 +44,24 @@
 #ab000d
  */
 
+ img[src*="#bh"] {
+    width:65%;
+    height:65%;
+    border: 8px solid #ffffff;
+ }
 
  img[src*="#logo"] {
     width:250px;
     height:117px;
  }
 
-
   img[src*="#upb"] {
-     width:372px;
-     height:100px;
+     width:100%;
+     height:100%;
      border: 7px solid #ffffff;
   }
 
-  img[src*="#bh"] {
-     width:65%;
-     height:65%;
-     border: 8px solid #ffffff;
-  }
+
 
 /**
  * Links
