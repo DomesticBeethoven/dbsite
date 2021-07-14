@@ -5,11 +5,11 @@ permalink: /people/
 ---
 People:
 ---
-#### **[Prof. Dr. Christine Siegert](https://www.beethoven.de/de/person/view/5706275094528000/Christine-Siegert)**
+#### **[Christine Siegert](https://www.beethoven.de/de/person/view/5706275094528000/Christine-Siegert)**
 
 #### **[Elisabete Shibata](https://www.beethoven.de/de/person/view/5745716106362880/Elisabete-Shibata)**
 
-#### **[Dr. Christin Heitmann](https://www.beethoven.de/de/person/view/5702167830724608/Christin-Heitmann)**  
+#### **[Christin Heitmann](https://www.beethoven.de/de/person/view/5702167830724608/Christin-Heitmann)**  
 
 #### **[Kevin Page](https://eng.ox.ac.uk/people/kevin-page/)**
 
@@ -55,6 +55,10 @@ The RISM Digital Center is part of the Répertoire International des Sources Mus
 The University of Oxford e-Research Centre implements computational and informatics solutions in support of academia and industry. Through partnerships with the University of Oxford Faculty of Music, and beyond, its Digital Humanities team make significant contributions to digital musicology and music informatics through projects such as Transforming Musicology, FAST, Unlocking Musicology, and Digital Delius.
 <br/><br/>
 
-#### **[Universität Paderborn](https://www.uni-paderborn.de/)**
+<span style="font-size:x-large; font-weight:bold;">[Paderborn University](https://www.uni-paderborn.de/)</span>
 
-![UPB logo](/dbsite/assets/img/upbDe.jpg#upb)
+<span style="font-size:large; font-weight:bold;">[The Center for Music, Edition, Media (ZenMEM)](https://zenmem.de/)</span>
+
+![UPB logo](/dbsite/assets/img/upb-eng.jpg#upb)
+
+The Center for Music, Edition, Media (ZenMEM) is one of Paderborn University’s international competence centers in the field of digital humanities. ZenMEM provides knowledge, methods, tools and infrastructure for digital musicology and beyond. ZenMEM is actively involved in the Music Encoding Initiative and is part of the German National Research Data Infrastructure program NFDI.
