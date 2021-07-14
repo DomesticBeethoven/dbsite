@@ -55,7 +55,9 @@ The RISM Digital Center is part of the Répertoire International des Sources Mus
 The University of Oxford e-Research Centre implements computational and informatics solutions in support of academia and industry. Through partnerships with the University of Oxford Faculty of Music, and beyond, its Digital Humanities team make significant contributions to digital musicology and music informatics through projects such as Transforming Musicology, FAST, Unlocking Musicology, and Digital Delius.
 <br/><br/>
 
-<span style="font-size:x-large; font-weight:bold;">[Paderborn University](https://www.uni-paderborn.de/)</span>
+<!-- <span style="font-size:x-large; font-weight:bold;">[Paderborn University](https://www.uni-paderborn.de/)</span> -->
+
+#### **[Paderborn University](https://www.uni-paderborn.de/)**
 
 <span style="font-size:large; font-weight:bold;">[The Center for Music, Edition, Media (ZenMEM)](https://zenmem.de/)</span>
 
