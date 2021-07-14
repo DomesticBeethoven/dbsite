@@ -5,11 +5,11 @@ permalink: /people/
 ---
 People:
 ---
-#### **[Christine Siegert](https://www.beethoven.de/de/person/view/5706275094528000/Christine-Siegert)**
+#### **[Prof. Dr. Christine Siegert](https://www.beethoven.de/de/person/view/5706275094528000/Christine-Siegert)**
 
 #### **[Elisabete Shibata](https://www.beethoven.de/de/person/view/5745716106362880/Elisabete-Shibata)**
 
-#### **[Christin Heitmann](https://www.beethoven.de/de/person/view/5702167830724608/Christin-Heitmann)**  
+#### **[Dr. Christin Heitmann](https://www.beethoven.de/de/person/view/5702167830724608/Christin-Heitmann)**  
 
 #### **[Kevin Page](https://eng.ox.ac.uk/people/kevin-page/)**
 
