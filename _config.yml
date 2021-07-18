@@ -4,6 +4,9 @@ tag: A Collaborative Digital Musicology Project
 email: email@domestic-beethoven.eu
 description:  Digital Studies of Domestic Music Arrangements
 
+
+# TODO: add project email address
+
 # ! ! -- BASEURL SETTINGS -- ! !
 
 baseurl: "/dbsite"
@@ -20,11 +23,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
-
-collections:
-    verovio:
-      output: true
-      permalink: /verovio/:path/
+# example of using a COLLECTION in jekyll
+#
+# collections:
+#     verovio:
+#       output: true
+#       permalink: /verovio/:path/
 
 
 # Exclude from processing.
