@@ -11,17 +11,17 @@ People:
 
 #### **[Dr. Christin Heitmann](https://www.beethoven.de/de/person/view/5702167830724608/Christin-Heitmann)**  
 
-#### **[Kevin Page](https://eng.ox.ac.uk/people/kevin-page/)**
+#### **[Dr. Kevin Page](https://eng.ox.ac.uk/people/kevin-page/)**
 
 #### **[David Lewis](https://eng.ox.ac.uk/people/david-lewis/)**
 
-#### **[Johannes Kepper](https://www.muwi-detmold-paderborn.de/personen/mitarbeiterinnen-und-mitarbeiter/dr-johannes-kepper)**
+#### **[Dr. Johannes Kepper](https://www.muwi-detmold-paderborn.de/personen/mitarbeiterinnen-und-mitarbeiter/dr-johannes-kepper)**
 
 #### **[Lisa Rosendahl](https://www.muwi-detmold-paderborn.de/en/personen/hilfskraefte/lisa-rosendahl)**
 
-#### **[Mark Saccomano](https://www.muwi-detmold-paderborn.de/personen/mitarbeiterinnen-und-mitarbeiter/mark-saccomano-ma)**
+#### **[Dr. Mark Saccomano](https://www.muwi-detmold-paderborn.de/personen/mitarbeiterinnen-und-mitarbeiter/mark-saccomano-ma)**
 
-#### **[Andrew Hankinson](https://rism.digital)**  
+#### **[Dr. Andrew Hankinson](https://rism.digital)**  
 <br/>
 
 ---
