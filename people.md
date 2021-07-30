@@ -5,23 +5,25 @@ permalink: /people/
 ---
 People:
 ---
-#### **[Prof. Dr. Christine Siegert](https://www.beethoven.de/de/person/view/5706275094528000/Christine-Siegert)**
 
-#### **[Elisabete Shibata](https://www.beethoven.de/de/person/view/5745716106362880/Elisabete-Shibata)**
+#### **[Dr. Andrew Hankinson](https://rism.digital)**  
 
 #### **[Dr. Christin Heitmann](https://www.beethoven.de/de/person/view/5702167830724608/Christin-Heitmann)**  
 
-#### **[Dr. Kevin Page](https://eng.ox.ac.uk/people/kevin-page/)**
+#### **[Dr. Johannes Kepper](https://www.muwi-detmold-paderborn.de/personen/mitarbeiterinnen-und-mitarbeiter/dr-johannes-kepper)**
 
 #### **[David Lewis](https://eng.ox.ac.uk/people/david-lewis/)**
 
-#### **[Dr. Johannes Kepper](https://www.muwi-detmold-paderborn.de/personen/mitarbeiterinnen-und-mitarbeiter/dr-johannes-kepper)**
+#### **[Dr. Kevin Page](https://eng.ox.ac.uk/people/kevin-page/)**
 
 #### **[Lisa Rosendahl](https://www.muwi-detmold-paderborn.de/en/personen/hilfskraefte/lisa-rosendahl)**
 
 #### **[Dr. Mark Saccomano](https://www.muwi-detmold-paderborn.de/personen/mitarbeiterinnen-und-mitarbeiter/mark-saccomano-ma)**
 
-#### **[Dr. Andrew Hankinson](https://rism.digital)**  
+#### **[Elisabete Shibata](https://www.beethoven.de/de/person/view/5745716106362880/Elisabete-Shibata)**
+
+#### **[Prof. Dr. Christine Siegert](https://www.beethoven.de/de/person/view/5706275094528000/Christine-Siegert)**
+
 <br/>
 
 ---
