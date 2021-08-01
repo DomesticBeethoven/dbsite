@@ -10,37 +10,51 @@ People:
     "color:#063d0c;
     font-weight:bold;
     font-size:125%;
-    line-height:2" >
+    line-height:1.5" >
+<p>
 <a href="https://rism.digital">Dr. Andrew Hankinson</a>
-<br/>
+</p>
 
+<p>
 <a href="https://www.beethoven.de/de/person/view/5702167830724608/Christin-Heitmann">Dr. Christin Heitmann</a>
-<br/>
+</p>
 
+<p>
 <a href="https://www.muwi-detmold-paderborn.de/personen/mitarbeiterinnen-und-mitarbeiter/dr-johannes-kepper">Dr. Johannes Kepper</a>
-<br/>
+</p>
 
+<p>
 <a href="https://eng.ox.ac.uk/people/david-lewis/">David Lewis</a>
-<br/>
+</p>
+
+<p>
 <a href="https://www.muwi-detmold-paderborn.de/personen/mitarbeiterinnen-und-mitarbeiter/dr-johannes-kepper">Dr. Johannes Kepper</a>
-<br/>
+</p>
 
+<p>
 <a href="https://eng.ox.ac.uk/people/kevin-page/">Dr. Kevin Page</a>
-<br/>
+</p>
+
+<p>
 <a href="https://www.muwi-detmold-paderborn.de/en/personen/hilfskraefte/lisa-rosendahl">Lisa Rosendahl</a>
-<br/>
+</p>
 
+<p>
 <a href="https://www.muwi-detmold-paderborn.de/personen/mitarbeiterinnen-und-mitarbeiter/mark-saccomano-ma">Dr. Mark Saccomano</a>
-<br/>
+</p>
 
-<a href="(https://www.beethoven.de/de/person/view/5745716106362880/Elisabete-Shibata">Elisabete Shibata</a>
-<br/>
+<p>
+<a href="https://www.beethoven.de/de/person/view/5745716106362880/Elisabete-Shibata">Elisabete Shibata</a>
+</p>
 
+<p>
 <a href="(https://www.beethoven.de/de/person/view/5706275094528000/Christine-Siegert">Prof. Dr. Christine Siegert</a>
+</p>
+
 <br/>
-<br/>
+
 </div>
-<p/>
+
 ---
 ---
 <p/>
