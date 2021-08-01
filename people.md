@@ -6,26 +6,41 @@ permalink: /people/
 People:
 ---
 
-#### **[Dr. Andrew Hankinson](https://rism.digital)**  
-
-#### **[Dr. Christin Heitmann](https://www.beethoven.de/de/person/view/5702167830724608/Christin-Heitmann)**  
-
-#### **[Dr. Johannes Kepper](https://www.muwi-detmold-paderborn.de/personen/mitarbeiterinnen-und-mitarbeiter/dr-johannes-kepper)**
-
-#### **[David Lewis](https://eng.ox.ac.uk/people/david-lewis/)**
-
-#### **[Dr. Kevin Page](https://eng.ox.ac.uk/people/kevin-page/)**
-
-#### **[Lisa Rosendahl](https://www.muwi-detmold-paderborn.de/en/personen/hilfskraefte/lisa-rosendahl)**
-
-#### **[Dr. Mark Saccomano](https://www.muwi-detmold-paderborn.de/personen/mitarbeiterinnen-und-mitarbeiter/mark-saccomano-ma)**
-
-#### **[Elisabete Shibata](https://www.beethoven.de/de/person/view/5745716106362880/Elisabete-Shibata)**
-
-#### **[Prof. Dr. Christine Siegert](https://www.beethoven.de/de/person/view/5706275094528000/Christine-Siegert)**
-
+<div style=
+    "color:#063d0c;
+    font-weight:bold;
+    font-size:125%;
+    line-height:2" >
+<a href="https://rism.digital">Dr. Andrew Hankinson</a>
 <br/>
 
+<a href="https://www.beethoven.de/de/person/view/5702167830724608/Christin-Heitmann">Dr. Christin Heitmann</a>
+<br/>
+
+<a href="https://www.muwi-detmold-paderborn.de/personen/mitarbeiterinnen-und-mitarbeiter/dr-johannes-kepper">Dr. Johannes Kepper</a>
+<br/>
+
+<a href="https://eng.ox.ac.uk/people/david-lewis/">David Lewis</a>
+<br/>
+<a href="https://www.muwi-detmold-paderborn.de/personen/mitarbeiterinnen-und-mitarbeiter/dr-johannes-kepper">Dr. Johannes Kepper</a>
+<br/>
+
+<a href="https://eng.ox.ac.uk/people/kevin-page/">Dr. Kevin Page</a>
+<br/>
+<a href="https://www.muwi-detmold-paderborn.de/en/personen/hilfskraefte/lisa-rosendahl">Lisa Rosendahl</a>
+<br/>
+
+<a href="https://www.muwi-detmold-paderborn.de/personen/mitarbeiterinnen-und-mitarbeiter/mark-saccomano-ma">Dr. Mark Saccomano</a>
+<br/>
+
+<a href="(https://www.beethoven.de/de/person/view/5745716106362880/Elisabete-Shibata">Elisabete Shibata</a>
+<br/>
+
+<a href="(https://www.beethoven.de/de/person/view/5706275094528000/Christine-Siegert">Prof. Dr. Christine Siegert</a>
+<br/>
+<br/>
+</div>
+<p/>
 ---
 ---
 <p/>
