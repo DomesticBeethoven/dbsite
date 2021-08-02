@@ -46,7 +46,7 @@ People:
 </p>
 
 <p>
-<a href="(https://www.beethoven.de/de/person/view/5706275094528000/Christine-Siegert">Prof. Dr. Christine Siegert</a>
+<a href="https://www.beethoven.de/de/person/view/5706275094528000/Christine-Siegert">Prof. Dr. Christine Siegert</a>
 </p>
 
 <br/>
