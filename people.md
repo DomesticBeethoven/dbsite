@@ -15,8 +15,9 @@ People:
 <a href="https://rism.digital">Dr. Andrew Hankinson</a>
 </p>
 
-<p>
-<a href="https://www.beethoven.de/de/person/view/5702167830724608/Christin-Heitmann">Dr. Christin Heitmann</a>
+<p style="line-height:1.0;" >
+<a href="https://www.beethoven.de/de/person/view/5702167830724608/Christin-Heitmann">Dr. Christin Heitmann</a><br/>
+<span style="color:black; font-weight:normal; font-size:80%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(October-November, 2020)</span>
 </p>
 
 <p>
@@ -28,15 +29,12 @@ People:
 </p>
 
 <p>
-<a href="https://www.muwi-detmold-paderborn.de/personen/mitarbeiterinnen-und-mitarbeiter/dr-johannes-kepper">Dr. Johannes Kepper</a>
-</p>
-
-<p>
 <a href="https://eng.ox.ac.uk/people/kevin-page/">Dr. Kevin Page</a>
 </p>
 
-<p>
-<a href="https://www.muwi-detmold-paderborn.de/en/personen/hilfskraefte/lisa-rosendahl">Lisa Rosendahl</a>
+<p style="line-height:1.0;">
+<a href="https://www.muwi-detmold-paderborn.de/en/personen/hilfskraefte/lisa-rosendahl">Lisa Rosendahl</a><br/>
+<span style="color:black; font-weight:normal; font-size:80%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Since April 2021)</span>
 </p>
 
 <p>
