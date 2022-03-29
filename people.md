@@ -12,7 +12,7 @@ People:
     font-size:125%;
     line-height:1.5" >
 <p>
-<a href="https://rism.digital">Dr. Andrew Hankinson</a>
+<a href="https://rism.digital">Dr. Andrew Hankinson </a><span style="font-weight:normal">(Co-investigator)</span>
 </p>
 
 <p style="line-height:1.0;" >
@@ -21,7 +21,7 @@ People:
 </p>
 
 <p>
-<a href="https://www.muwi-detmold-paderborn.de/personen/mitarbeiterinnen-und-mitarbeiter/dr-johannes-kepper">Dr. Johannes Kepper</a>
+<a href="https://www.muwi-detmold-paderborn.de/personen/mitarbeiterinnen-und-mitarbeiter/dr-johannes-kepper">Dr. Johannes Kepper </a><span style="font-weight:normal">(Principal Investigator, Germany)</span>
 </p>
 
 <p>
@@ -29,7 +29,7 @@ People:
 </p>
 
 <p>
-<a href="https://eng.ox.ac.uk/people/kevin-page/">Dr. Kevin Page</a>
+<a href="https://eng.ox.ac.uk/people/kevin-page/">Dr. Kevin Page </a><span style="font-weight:normal">(Principal Investigator, UK)</span>
 </p>
 
 <p style="line-height:1.0;">
@@ -46,7 +46,7 @@ People:
 </p>
 
 <p>
-<a href="https://www.beethoven.de/de/person/view/5706275094528000/Christine-Siegert">Prof. Dr. Christine Siegert</a>
+<a href="https://www.beethoven.de/de/person/view/5706275094528000/Christine-Siegert">Prof. Dr. Christine Siegert </a><span style="font-weight:normal">(Co-investigator)</span>
 </p>
 
 <br/>
