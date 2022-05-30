@@ -21,7 +21,7 @@
   position: relative;
 }
 .site-title {
-  @include relative-font-size(2.625);
+  @include relative-font-size(1.5);
   font-family: "Cinzel", serif;
   font-weight: 500;
   color: #1c3238;
@@ -88,7 +88,7 @@ a {
 }
 
 .sub-title {
-  @include relative-font-size(1.5);
+  @include relative-font-size(2.25);
   line-height: $base-line-height * $base-font-size * 1.75;
   color: #494949;
   font-weight: bold;

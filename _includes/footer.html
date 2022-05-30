@@ -2,7 +2,7 @@
 style="background-color:rgb(255,243,176)";> -->
 <footer class="site-footer h-card"
 
-  style="background-color:#d8d8d8"; 
+  style="background-color:#d8d8d8";
 >
 
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
@@ -12,7 +12,7 @@ style="background-color:rgb(255,243,176)";> -->
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
 
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1" style="font-family:Andale Mono, monospace">
+      <div class="footer-col footer-col-1" style="font-family: Cinzel, serif">
         <ul class="contact-list">
           <!-- <li class="p-name">
             {%- if site.author -%}
@@ -21,15 +21,16 @@ style="background-color:rgb(255,243,176)";> -->
               {{ site.title | escape }}
             {%- endif -%}
             </li> -->
-            <li style="font-family:Andale Mono, monospace">
+            <li style="font-family: Cinzel, serif">
               <p>{{- site.description | escape -}}</p>
             </li>
 
 
              {%- if site.email -%}
-              <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+          <div style="line-height:0.9"; >
+              <a class="u-email" style="font-family: Arial, Helvetica, sans-serif; color:#888888; font-style: italic;" href="mailto:{{ site.email }}">{{ site.email }}</a>
             {%- endif -%}
-
+          </div>
         </ul>
       </div>
 
@@ -37,7 +38,7 @@ style="background-color:rgb(255,243,176)";> -->
         {%- include social.html -%}
       </div>
 
-      <div class="footer-col footer-col-3" style="font-family:Andale Mono, monospace">
+      <div class="footer-col footer-col-3" style="font-family:Arial, Helvetica, sans-serif">
 
           <div style="line-height:0.9">
           <small>
