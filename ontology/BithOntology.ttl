@@ -1,10 +1,10 @@
 @prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dc:      <http://purl.org/dc/elements/1.1/> .
-@prefix dcterms:  <http://purl.org/dc/terms/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix event:   <http://purl.org/NET/c4dm/event.owl#> .
 @prefix foaf:    <http://xmlns.com/foaf/0.1/> .
 @prefix skos:    <https://www.w3.org/2009/08/skos-reference/skos#> .
-@prefix oa:      <"http://www.w3.org/ns/oa#"> .
+@prefix oa:      <http://www.w3.org/ns/oa#> .
 @prefix frbr:    <http://purl.org/vocab/frbr/core#> .
 
 bithTerms:MusicalIdea a rdfs:Class ;
@@ -18,7 +18,7 @@ bithTerms:MusicalMaterial a rdfs:Class ;
  	 rdfs:comment "An object which identifies two or more passages from different versions as parallel." .
 
 bithTerms:Extract a rdfs:Class ;
-   rdfs:subClassOf frbr:Manifestation ;
+   rdfs:subClassOf frbr:Expression ;
    rdfs:label "Extract" ;
  	 rdfs:comment "A portion of music, without regard to notation or performance, independent of media format." .
 
@@ -26,7 +26,6 @@ bithTerms:Selection ;
    rdfs:subClassOf frbr:Manifestation ;
    rdfs:label "Selection" ;
  	 rdfs:comment "A collection of UUIDs that comprise a single musical object, at any level, within a single resource." .
-
 
 bithTerms:AbsenceSelection a rdfs:Class ;
   rdfs:subClassOf bithTerms:Selection .
@@ -37,7 +36,6 @@ bithTerms:absenceQualifier a rdf:Property ;
 
 bithTerms:AbsenceQualification a rdfs:Class ;
   rdfs:domain bithTerms:absenceQualifier .
-
 
 bithTerms:observing a oa:motivation ;
   skos:broader oa:describing ;
