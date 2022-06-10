@@ -1,6 +1,7 @@
 ---
 layout: page
 title: People
+weight: 2
 permalink: /people/
 ---
 People:

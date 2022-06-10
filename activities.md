@@ -1,9 +1,10 @@
 ---
-layout: page
-title: Activities
+layout: default
+title: Research Activities
+weight: 4
 permalink: /activities/
 ---
-Activities
+Activities (coming soon...)
 ---
 
 <!-- <div style=
@@ -13,19 +14,10 @@ Activities
     line-height:1.5" > -->
 
 ### Arrangements of Beethoven's music
-  - date: Steiner
-  - date: Piano-Vocal
-  - date: more
 
-### Music for Home Use
-  - date: Beethoven
-  - date: Harmonicon
+### Music for the Home
 
 ### Digitization
-  - date: batch 1
-  - date: batch 2
-  - date: texts
+
 
 ### Digital Annotation Environment
-  - date: Prototype, select & write to pod
-  - date: Prototype, annotate & write to production 
