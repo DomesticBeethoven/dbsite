@@ -4,9 +4,6 @@ title: Dissemination
 weight: 3
 permalink: /dissemination/
 ---
-
-
-
 <!-- <div style=
     "color:#063d0c;
     font-weight:bold;

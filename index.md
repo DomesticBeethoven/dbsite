@@ -7,7 +7,6 @@ title: Home
 weight: 1
 ---
 
-
 <span
 style='font-size: 135%;
 font-style: italic;
