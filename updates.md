@@ -12,14 +12,14 @@ permalink: /updates/
     font-weight:bold;
     font-size:125%;
     line-height:1.5" > -->
-<table style="font-weight:bold">
+<table style="font-weight:bold;border:0px;color:#1c1c1c">
   <tr>
-    <td style="background-color:#C0E93C;">Arrangements of Beethoven's music</td>
-    <td style="background-color:#FF8B00;">Music for the Home</td>
+    <td style="background-color:#C0E93C;border:0px;">Arrangements of Beethoven's music</td>
+    <td style="background-color:#FF8B00;border:0px;">Music for the Home</td>
   </tr>
   <tr>
-    <td style="background-color:#77CFFF;">Digitization</td>
-    <td style="background-color:#D974C3;">Digital Annotation Environment</td>
+    <td style="background-color:#77CFFF;border:0px;">Digitization</td>
+    <td style="background-color:#D974C3;border:0px;">Digital Annotation Environment</td>
   </tr>
 </table>
 <p style="text-align: right" style="font-size:12px;">
