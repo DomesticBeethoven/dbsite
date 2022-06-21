@@ -2,7 +2,7 @@
 layout: post
 title:  "Ontology Design"
 date:   2022-06-15 09:33:48 +0200
-categories: annotation
+category: annotation
 ---
 <p>{{ page.date | date_to_string }}</p>
 ## __Modelling musical arrangements: Ontology design in lockdown__

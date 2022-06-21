@@ -21,11 +21,32 @@ layout: default
       {%- for post in site.posts -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <span class="post-meta" style="font-size:1.1em">{{ post.date | date: date_format }}</span>
         <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
+         {%- if post.category == "annotation" -%}
+           <span style="background-color:#ecc0e2;padding: 5px 8px;">annotation</span>
+           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
-          </a>
+           </a>
+         {%- endif -%}
+         {%- if post.category == "arrangements" -%}
+           <span style="background-color:#d6f082;padding: 5px 8px;">arrangements</span>
+           <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+           </a>
+         {%- endif -%}
+         {%- if post.category == "hausmusik" -%}
+           <span style="background-color:#ffac48;padding: 5px 8px;">home music</span>
+           <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+           </a>
+         {%- endif -%}
+         {%- if post.category == "digitization" -%}
+           <span style="background-color:#94d9fe;padding: 5px 8px;">digitization</span>
+           <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+           </a>
+         {%- endif -%}
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
