@@ -23,5 +23,4 @@ permalink: /updates/
   </tr>
 </table>
 ___
-
-<p style="text-align: right" style="font-size:12px;"/>
+<br/>
