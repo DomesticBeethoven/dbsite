@@ -25,8 +25,6 @@ permalink: /dissemination/
 
 ### __Publications__
 
-"A Model for Annotating Musical Versions and Arrangements across Multiple Documents and Media." David Lewis, et al. Digital Libraries for Musicology (DLfM), 2022.
-
 “Beethoven in the House: Digital Studies of Domestic Music Arrangements.” Kevin R. Page, Johannes Kepper, Christine Siegert, Andrew Hankinson, and David Lewis. Proceedings of the Music Encoding Conference 2021, pp.117-123, 2022. [doi:10.17613/389b-xx73](https://doi.org/10.17613/389b-xx73)
 
 ### __Posters__
