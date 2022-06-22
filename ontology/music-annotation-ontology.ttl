@@ -6,21 +6,22 @@
 @prefix skos:    <https://www.w3.org/2009/08/skos-reference/skos#> .
 @prefix oa:      <http://www.w3.org/ns/oa#> .
 @prefix frbr:    <http://purl.org/vocab/frbr/core#> .
+@prefix mao:     <http://music-annotation-ontology>
 
 bithTerms:MusicalIdea a rdfs:Class ;
    rdfs:subClassOf frbr:Work .
    rdfs:label "MusicalIdea" ;
-   rdfs:comment "Similar to frbr:work, a MusicalIdea is highest abstraction of "
+   rdfs:comment "Analogous to frbr:work, but on a local level, as an element of a larger piece. An abstract entity that refers to the musical thought behind a musical structure, especially a recurring one.
 
 bithTerms:MusicalMaterial a rdfs:Class ;
    rdfs:subClassOf frbr:Expression ;
    rdfs:label "MusicalMaterial" ;
- 	 rdfs:comment "An object which identifies two or more passages from different versions as parallel." .
+ 	 rdfs:comment "The musical concept behind a musical Extract, independent of its various expressions in different arrangements or recordings (or, in a variation set, within a single variation)." The realization of a MusicalIdea.
 
 bithTerms:Extract a rdfs:Class ;
    rdfs:subClassOf frbr:Expression ;
    rdfs:label "Extract" ;
- 	 rdfs:comment "A portion of music, without regard to notation or performance, independent of media format." .
+ 	 rdfs:comment "A portion of music, independent of its manifestation in a particular edition, or its realization in any individual performance or media format." .
 
 bithTerms:Selection ;
    rdfs:subClassOf frbr:Manifestation ;
@@ -28,7 +29,8 @@ bithTerms:Selection ;
  	 rdfs:comment "A collection of UUIDs that comprise a single musical object, at any level, within a single resource." .
 
 bithTerms:AbsenceSelection a rdfs:Class ;
-  rdfs:subClassOf bithTerms:Selection .
+  rdfs:subClassOf bithTerms:Selection ;
+  rdfs:comment "A point marker that combines with an AbsenceQualification value (e.g., "before") to indicate the location of an addition or abridgment relative to another version of the same work".
 
 bithTerms:absenceQualifier a rdf:Property ;
   rdfs:domain bithTerms:absenceSelection ;
@@ -41,10 +43,16 @@ bithTerms:observing a oa:motivation ;
   skos:broader oa:describing ;
   skos:prefLabel "observing" ;
   rdfs:label "observing" ;
-  rdfs:comment "making an observation (rather than a comment), often for purposes of comparison" .
+  rdfs:comment "A type of annotation making an observation (rather than a comment), often for purposes of comparison" .
 
-  bithTerms:comparing a oa:motivation ;
-    skos:broader oa:describing ;
-    skos:prefLabel "comparing" ;
-    rdfs:label "comparing" ;
-    rdfs:comment "making a comparison of two or more versions or Extracts" .
+bithTerms:comparing a oa:motivation ;
+  skos:broader oa:describing ;
+  skos:prefLabel "comparing" ;
+  rdfs:label "comparing" ;
+  rdfs:comment "A type of annotation that makes a comparison of two or more versions or Extracts, often for purposes of scholarly commentary" .
+
+bithTerms:commenting a oa:motivation ;
+  skos:prefLabel "commenting" ;
+  rdfs:label "commenting" ;
+  rdfs:comment "A type of annotation that makes a comment on musical structure or another annotation, often used to enrich Observation descriptions with historical background and analytical reflections informed by academic research. Includes pointers to external sources and references" .
+
