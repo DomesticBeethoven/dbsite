@@ -1,4 +1,5 @@
 @prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix dc:      <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix event:   <http://purl.org/NET/c4dm/event.owl#> .
@@ -6,52 +7,52 @@
 @prefix skos:    <https://www.w3.org/2009/08/skos-reference/skos#> .
 @prefix oa:      <http://www.w3.org/ns/oa#> .
 @prefix frbr:    <http://purl.org/vocab/frbr/core#> .
-@prefix mao:     <https://raw.githubusercontent.com/DomesticBeethoven/dbsite/gh-pages/ontology/music-annotation-ontology.ttl>
+@prefix mAnnot:     <https://raw.githubusercontent.com/DomesticBeethoven/dbsite/gh-pages/ontology/music-annotation-ontology.ttl> .
 
-mao:MusicalIdea a rdfs:Class ;
-   rdfs:subClassOf frbr:Work .
+mAnnot:MusicalIdea a rdfs:Class ;
+   rdfs:subClassOf frbr:Work ;
    rdfs:label "MusicalIdea" ;
-   rdfs:comment "Analogous to frbr:work, but on a local level, as an element of a larger piece. An abstract entity that refers to the musical thought behind a musical structure, especially a recurring one.
+   rdfs:comment "Analogous to frbr:work, but on a local level, as an element of a larger piece. An abstract entity that refers to the musical thought behind a musical structure, especially a recurring one." .
 
-mao:MusicalMaterial a rdfs:Class ;
+mAnnot:MusicalMaterial a rdfs:Class ;
    rdfs:subClassOf frbr:Expression ;
    rdfs:label "MusicalMaterial" ;
- 	 rdfs:comment "The musical concept behind a musical Extract, independent of its various expressions in different arrangements or recordings (or, in a variation set, within a single variation)." The realization of a MusicalIdea.
+ 	 rdfs:comment "The musical concept behind a musical Extract, independent of its various expressions in different arrangements or recordings (or, in a variation set, within a single variation). The realization of a MusicalIdea." .
 
-mao:Extract a rdfs:Class ;
+mAnnot:Extract a rdfs:Class ;
    rdfs:subClassOf frbr:Expression ;
    rdfs:label "Extract" ;
  	 rdfs:comment "A portion of music, independent of its manifestation in a particular edition, or its realization in any individual performance or media format." .
 
-mao:Selection ;
+mAnnot:Selection a rdfs:Class ;
    rdfs:subClassOf frbr:Manifestation ;
    rdfs:label "Selection" ;
  	 rdfs:comment "A collection of UUIDs that comprise a single musical object, at any level, within a single resource." .
 
-mao:AbsenceSelection a rdfs:Class ;
-  rdfs:subClassOf mao:Selection ;
-  rdfs:comment "A point marker that combines with an AbsenceQualification value (e.g., "before") to indicate the location of an addition or abridgment relative to another version of the same work".
+mAnnot:AbsenceSelection a rdfs:Class ;
+  rdfs:subClassOf mAnnot:Selection ;
+  rdfs:comment "A point marker that combines with an AbsenceQualification value (e.g., 'before') to indicate the location of an addition or abridgment relative to another version of the same work" .
 
-mao:absenceQualifier a rdf:Property ;
-  rdfs:domain mao:absenceSelection ;
-  rdfs:range mao:AbsenceQualification .
+mAnnot:absenceQualifier a rdf:Property ;
+  rdfs:domain mAnnot:absenceSelection ;
+  rdfs:range mAnnot:AbsenceQualification .
 
-mao:AbsenceQualification a rdfs:Class ;
-  rdfs:domain mao:absenceQualifier .
+mAnnot:AbsenceQualification a rdfs:Class ;
+  rdfs:domain mAnnot:absenceQualifier .
 
-mao:observing a oa:motivation ;
+mAnnot:observing a oa:motivation ;
   skos:broader oa:describing ;
   skos:prefLabel "observing" ;
   rdfs:label "observing" ;
   rdfs:comment "A type of annotation making an observation (rather than a comment), often for purposes of comparison" .
 
-mao:comparing a oa:motivation ;
+mAnnot:comparing a oa:motivation ;
   skos:broader oa:describing ;
   skos:prefLabel "comparing" ;
   rdfs:label "comparing" ;
   rdfs:comment "A type of annotation that makes a comparison of two or more versions or Extracts, often for purposes of scholarly commentary" .
 
-mao:commenting a oa:motivation ;
+mAnnot:commenting a oa:motivation ;
   skos:prefLabel "commenting" ;
   rdfs:label "commenting" ;
   rdfs:comment "A type of annotation that makes a comment on musical structure or another annotation, often used to enrich Observation descriptions with historical background and analytical reflections informed by academic research. Includes pointers to external sources and references" .
