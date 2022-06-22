@@ -48,14 +48,3 @@ bithTerms:observing a oa:motivation ;
     skos:prefLabel "comparing" ;
     rdfs:label "comparing" ;
     rdfs:comment "making a comparison of two or more versions or Extracts" .
-
-
-
-
-Version ontology
-
---------
-
-https://domestic-beethoven.eu/ontologies/musical-object-layer#MusicalMaterial
-
-https://github.com/motools/musicontology/blob/master/rdf/musicontology.n3
