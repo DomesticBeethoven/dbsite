@@ -152,8 +152,8 @@ td {
 }
 
 .footer-heading {
-  @include relative-font-size(1.125);
+  @include relative-font-size(1.0);
   margin-bottom: $spacing-unit / 2;
   font-family: "Cinzel", serif;
-  color:black;
+  color: dimgrey;
 }
