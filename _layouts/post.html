@@ -2,6 +2,54 @@
 layout: default
 ---
 
+
+    <!-- <h2 class="post-list-heading">{{ page.list_title | default: "default blog header" }}</h2> -->
+    <!-- <h2 class="post-list-heading">Research Updates</h2> -->
+
+        <h3>
+         {%- if page.category == "annotation" -%}
+           <!-- <span style="background-color:#ecc0e2;padding: 5px 8px;">annotation</span>
+           <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+           </a> -->
+           <table style="font-weight:bold;font-size:0.8em;border:0px;padding:0">
+             <tr>
+               <td style="background-color:#FF8B00;border:0px;width:5px;text-align:left">
+                 Digital Annotation Environment
+               </td>
+             </tr>
+           </table>
+         {%- endif -%}
+         {%- if page.category == "arrangements" -%}
+         <table style="font-weight:bold;font-size:0.8em;border:0px;padding:0">
+           <tr>
+             <td style="background-color:#C0E93C;border:0px;width:5px;text-align:left">
+               Arrangements of Beethoven's music
+             </td>
+           </tr>
+         </table>
+         {%- endif -%}
+         {%- if page.category == "hausmusik" -%}
+         <table style="font-weight:bold;font-size:0.8em;border:0px;padding:0">
+           <tr>
+             <td style="background-color:#D974C3;border:0px;width:5px;text-align:left">
+               Music for the Home
+             </td>
+           </tr>
+         </table>
+         {%- endif -%}
+         {%- if page.category == "digitization" -%}
+         <table style="font-weight:bold;font-size:0.8em;border:0px;padding:0">
+           <tr>
+             <td style="background-color:#77CFFF;border:0px;width:5px;text-align:left">
+               Digitization
+             </td>
+           </tr>
+         </table>
+         {%- endif -%}
+        </h3>
+
+
 {{ content }}
 
 {%- include blog_button.html -%}

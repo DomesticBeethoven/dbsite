@@ -12,15 +12,38 @@ permalink: /updates/
     font-weight:bold;
     font-size:125%;
     line-height:1.5" > -->
-<table style="font-weight:bold;font-size: 1.5em;24;border:0px;color:#1c1c1c">
+<!-- <table style="font-weight:bold;font-size:0.8em;border:0px;">
   <tr>
-    <td style="background-color:#C0E93C;border:0px;">Arrangements of Beethoven's music</td>
-    <td style="background-color:#FF8B00;border:0px;">Music for the Home</td>
+    <td style="background-color:#C0E93C;border:0px;width:5px;"/>
+    <td style="border:0px;text-align:left;">Arrangements of Beethoven's music</td>
+    <td style="background-color:#D974C3;border:0px;width:5px;"/>
+    <td style="border:0px;text-align:left;">Music for the Home</td>
   </tr>
+  <tr style="background-color:#ffffff">
+    <td style="background-color:#FF8B00;border:0px;width:5px;"/>
+    <td style="border:0px;text-align:left;">Digital Annotation Environment</td>
+    <td style="background-color:#77CFFF;border:0px;width:5px;"/>
+    <td style="border:0px;text-align:left;">Digitization</td>
+  </tr>
+</table> -->
+<table style="font-weight:bold;font-size:0.9em;border:0px;">
   <tr>
-    <td style="background-color:#77CFFF;border:0px;">Digitization</td>
-    <td style="background-color:#D974C3;border:0px;">Digital Annotation Environment</td>
+    <td style="background-color:#C0E93C;border:0px;width:5px;"/>
+    <td style="border:0px;text-align:left;">Arrangements of Beethoven's music</td>
+    <td style="background-color:#D974C3;border:0px;width:5px;"/>
+    <td style="border:0px;text-align:left;">Music for the Home</td>
   </tr>
 </table>
+<table style="font-weight:bold;font-size:0.9em;border:0px;">
+  <tr style="background-color:#ffffff">
+    <td style="background-color:#FF8B00;border:0px;width:5px;"/>
+    <td style="border:0px;text-align:left;">Digital Annotation Environment</td>
+    <td style="background-color:#77CFFF;border:0px;width:5px;"/>
+    <td style="border:0px;text-align:left;">Digitization</td>
+  </tr>
+</table>
+
+
+
 ___
 <br/>
