@@ -16,11 +16,11 @@ permalink: /updates/
   <tr>
     <td style="background-color:#C0E93C;border:0px;width:5px;"/>
     <td style="border:0px;text-align:left;">Arrangements of Beethoven's music</td>
-    <td style="background-color:#D974C3;border:0px;width:5px;"/>
+    <td style="background-color:#e195d1;border:0px;width:5px;"/>
     <td style="border:0px;text-align:left;">Music for the Home</td>
   </tr>
   <tr style="background-color:#ffffff">
-    <td style="background-color:#FF8B00;border:0px;width:5px;"/>
+    <td style="background-color:#ffa437;border:0px;width:5px;"/>
     <td style="border:0px;text-align:left;">Digital Annotation Environment</td>
     <td style="background-color:#77CFFF;border:0px;width:5px;"/>
     <td style="border:0px;text-align:left;">Digitization</td>
@@ -30,13 +30,13 @@ permalink: /updates/
   <tr>
     <td style="background-color:#C0E93C;border:0px;width:5px;"/>
     <td style="border:0px;text-align:left;">Arrangements of Beethoven's music</td>
-    <td style="background-color:#D974C3;border:0px;width:5px;"/>
+    <td style="background-color:#e195d1;border:0px;width:5px;"/>
     <td style="border:0px;text-align:left;">Music for the Home</td>
   </tr>
 </table>
 <table style="font-weight:bold;font-size:0.9em;border:0px;">
   <tr style="background-color:#ffffff">
-    <td style="background-color:#FF8B00;border:0px;width:5px;"/>
+    <td style="background-color:#ffa437;border:0px;width:5px;"/>
     <td style="border:0px;text-align:left;">Digital Annotation Environment</td>
     <td style="background-color:#77CFFF;border:0px;width:5px;"/>
     <td style="border:0px;text-align:left;">Digitization</td>

@@ -23,7 +23,7 @@ layout: default
         <span class="post-meta" style="font-size:1.1em">{{ post.date | date: date_format }}</span>
         <h4>
          {%- if post.category == "annotation" -%}
-           <span style="background-color:#FF8B00;padding: 5px 6px;">annotation</span>
+           <span style="background-color:#ffa437;padding: 5px 6px;">annotation</span>
            <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
            </a>
@@ -35,7 +35,7 @@ layout: default
            </a>
          {%- endif -%}
          {%- if post.category == "hausmusik" -%}
-           <span style="background-color:#D974C3;padding: 5px 6px;">home music</span>
+           <span style="background-color:#e195d1;padding: 5px 6px;">home music</span>
            <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
            </a>
