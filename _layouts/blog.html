@@ -23,25 +23,25 @@ layout: default
         <span class="post-meta" style="font-size:1.1em">{{ post.date | date: date_format }}</span>
         <h4>
          {%- if post.category == "annotation" -%}
-           <span style="background-color:#ffa437;padding: 5px 6px;">annotation</span>
+           <span style="font-weight:bold;color:#D98D30;">annotation</span>
            <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
            </a>
          {%- endif -%}
          {%- if post.category == "arrangements" -%}
-           <span style="background-color:#C0E93C;padding: 5px 6px;">arrangements</span>
+           <span style="font-weight:bold;color:#6c8223;background-color=#EAEAEA;">arrangements</span>
            <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
            </a>
          {%- endif -%}
          {%- if post.category == "hausmusik" -%}
-           <span style="background-color:#e195d195;padding: 5px 6px;">home music</span>
+           <span style="font-weight:bold;color:#ad1a66;">home music</span>
            <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
            </a>
          {%- endif -%}
          {%- if post.category == "digitization" -%}
-           <span style="background-color:#77CFFF;padding: 5px 6px;">digitization</span>
+           <span style="font-weight:bold;color:#516d8a;">digitization</span>
            <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
            </a>
