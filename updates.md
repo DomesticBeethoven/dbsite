@@ -29,7 +29,7 @@ permalink: /updates/
 <table style="font-weight:bold;font-size:0.9em;border:0px;">
   <tr>
     <td style="background-color:#5A950F;border:0px;width:5px;"/>
-    <td style="border:0px;text-align:left;color:#6c8223">Arrangements of Beethoven's music</td>
+    <td style="border:0px;text-align:left;color:#11590e">Arrangements of Beethoven's music</td>
     <td style="background-color:#c46a93;border:0px;width:5px;"/>
     <td style="border:0px;color:#c91c76;text-align:left;">Music for the Home</td>
   </tr>
@@ -39,7 +39,7 @@ permalink: /updates/
     <td style="background-color:#e89a46;border:0px;width:5px;"/>
     <td style="border:0px;text-align:left;color:#D98D30;">Digital Annotation Environment</td>
     <td style="background-color:#4f89a8;border:0px;width:5px;"/>
-    <td style="border:0px;color:#516d8a;text-align:left;">Digitization</td>
+    <td style="border:0px;color:#287b9e;text-align:left;">Digitization</td>
   </tr>
 </table>
 
