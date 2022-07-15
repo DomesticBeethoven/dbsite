@@ -12,7 +12,7 @@ permalink: /dissemination/
 
 ### __Presentations__
 
-[“The Unkown Beethoven: Studying Domestic Arrangments of Symphonic Works with Digital Tools."](/assets/docs/SaarbrueckenPresentation.pdf) Christine Siegert and Mark Saccomano. Geisteswissenschaften und Informatik im Dialog: Aktuelle Perspektiven der Digital Humanities (Lecture Series), Fachrichtung Musikwissenschaft der Universität des Saarlandes / Trier Center for Digital Humanities der Universität Trier, January 17, 2022.
+[“The Unknown Beethoven: Studying Domestic Arrangments of Symphonic Works with Digital Tools."](/assets/docs/SaarbrueckenPresentation.pdf) Christine Siegert and Mark Saccomano. Geisteswissenschaften und Informatik im Dialog: Aktuelle Perspektiven der Digital Humanities (Lecture Series), Fachrichtung Musikwissenschaft der Universität des Saarlandes / Trier Center for Digital Humanities der Universität Trier, January 17, 2022.
 
 ["Beethoven Arrangements: Can Digital Approaches Widen Our Investigative Reach?"](/assets/docs/Page-GfM2021-slides.pdf) Kevin Page and David Lewis. Paper presented at XVII. Internationaler Kongress der Gesellschaft für Musikforschung (GfM), Bonn, September 28, 2021.
 
