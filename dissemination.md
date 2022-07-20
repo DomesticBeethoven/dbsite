@@ -12,7 +12,11 @@ permalink: /dissemination/
 
 ### __Presentations__
 
-["Klaviertrio- und Vokalbearbeitungen des Allegrettos von Beethovens Siebter Symphonie: Analyse symphonischer Metamorphosen mithilfe digitaler Werkzeuge."](/assets/docs/2022.07.16LR-ES.pdf) Elisabete Shibata and Lisa Rosendahl. Understanding Beethoven: Musicology and Computer Science in Dialogue, Koblenz, July 16, 2022.
+<!--
+with the link to the slides
+["Klaviertrio- und Vokalbearbeitungen des Allegrettos von Beethovens Siebter Symphonie: Analyse symphonischer Metamorphosen mithilfe digitaler Werkzeuge."](/assets/docs/2022.07.16LR-ES.pdf) Elisabete Shibata and Lisa Rosendahl. Understanding Beethoven: Musicology and Computer Science in Dialogue, Koblenz, July 16, 2022. -->
+"Klaviertrio- und Vokalbearbeitungen des Allegrettos von Beethovens Siebter Symphonie: Analyse symphonischer Metamorphosen mithilfe digitaler Werkzeuge." Elisabete Shibata and Lisa Rosendahl. Understanding Beethoven: Musicology and Computer Science in Dialogue, Koblenz, July 16, 2022.
+
 
 [“The Unknown Beethoven: Studying Domestic Arrangments of Symphonic Works with Digital Tools."](/assets/docs/SaarbrueckenPresentation.pdf) Christine Siegert and Mark Saccomano. Geisteswissenschaften und Informatik im Dialog: Aktuelle Perspektiven der Digital Humanities (Lecture Series), Fachrichtung Musikwissenschaft der Universität des Saarlandes / Trier Center for Digital Humanities der Universität Trier, January 17, 2022.
 
