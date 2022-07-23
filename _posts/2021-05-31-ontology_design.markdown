@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ontology Design"
-date:   2022-06-15 09:33:48 +0200
+date:   2021-05-31 09:33:48 +0200
 category: annotation
 ---
 <p>{{ page.date | date_to_string }}</p>
