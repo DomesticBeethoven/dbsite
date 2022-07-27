@@ -12,6 +12,7 @@ permalink: /dissemination/
 
 ### __Presentations__
 
+["Modeling Music for Musicologists: A Linked Open Data Approach."](/assets/docs/DH2022slides.pdf) Mark Saccomano, Elisabete Shibata, David Lewis, Andrew Hankinson, Kevin Page. Digital Humanities 2022, Tokyo, 27 July 2022.
 
 ["Beethoven in the House: Annotating Digital Sources to Contextualise Musicology Studies."](/assets/docs/Page-IAML2022-slides.pdf) Kevin R. Page, Andrew Hankinson, Elisabete Shibata, and Mark Saccomano. IAML Congress 2022, Prague, 25 July 2022.
 <!--
@@ -37,7 +38,7 @@ with the link to the slides
 
 ### __Posters__
 
-[“A New Conceptual Model for Musical Sources and Musicological Studies.”](/assets/docs/MEC2022_Poster.pdf) Elisabete Shibata, David Lewis, Mark Saccomano, Andrew Hankison, Johannes Kepper, Kevin Page. Poster presented at Music Encoding Conference (MEC) 2022, Halifax, May 2022.
+[“A New Conceptual Model for Musical Sources and Musicological Studies.”](/assets/docs/MEC2022_Poster.pdf) Elisabete Shibata, David Lewis, Mark Saccomano, Andrew Hankinson, Johannes Kepper, Kevin Page. Poster presented at Music Encoding Conference (MEC) 2022, Halifax, May 2022.
 
 
 
