@@ -15,9 +15,6 @@ permalink: /dissemination/
 ["Modeling Music for Musicologists: A Linked Open Data Approach."](/assets/docs/DH2022slides.pdf){:target="_blank"} Mark Saccomano, Elisabete Shibata, David Lewis, Andrew Hankinson, Kevin Page. Digital Humanities 2022, Tokyo, 27 July 2022.
 
 ["Beethoven in the House: Annotating Digital Sources to Contextualise Musicology Studies."](/assets/docs/Page-IAML2022-slides.pdf){:target="_blank"} Kevin R. Page, Andrew Hankinson, Elisabete Shibata, and Mark Saccomano. IAML Congress 2022, Prague, 25 July 2022.
-<!--
-with the link to the slides
-["Klaviertrio- und Vokalbearbeitungen des Allegrettos von Beethovens Siebter Symphonie: Analyse symphonischer Metamorphosen mithilfe digitaler Werkzeuge."](/assets/docs/2022.07.16LR-ES.pdf) Elisabete Shibata and Lisa Rosendahl. Understanding Beethoven: Musicology and Computer Science in Dialogue, Koblenz, July 16, 2022. -->
 
 "Klaviertrio- und Vokalbearbeitungen des Allegrettos von Beethovens Siebter Symphonie: Analyse symphonischer Metamorphosen mithilfe digitaler Werkzeuge." Elisabete Shibata and Lisa Rosendahl. Understanding Beethoven: Musicology and Computer Science in Dialogue, Koblenz, 16 July 2022.
 
