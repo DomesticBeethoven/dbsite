@@ -16,7 +16,7 @@ permalink: /dissemination/
 
 ["Beethoven in the House: Annotating Digital Sources to Contextualise Musicology Studies."](/assets/docs/Page-IAML2022-slides.pdf){:target="_blank"} Kevin R. Page, Andrew Hankinson, Elisabete Shibata, and Mark Saccomano. IAML Congress 2022, Prague, 25 July 2022.
 
-["Klaviertrio- und Vokalbearbeitungen des Allegrettos von Beethovens Siebter Symphonie: Analyse symphonischer Metamorphosen mithilfe digitaler Werkzeuge."](/assets/docs/2022.07.16LR-ES-Koblenz.pdf){:target="_blank"})Elisabete Shibata and Lisa Rosendahl. Understanding Beethoven: Musicology and Computer Science in Dialogue, Koblenz, 16 July 2022.
+["Klaviertrio- und Vokalbearbeitungen des Allegrettos von Beethovens Siebter Symphonie: Analyse symphonischer Metamorphosen mithilfe digitaler Werkzeuge."](/assets/docs/2022.07.16LR-ES-Koblenz.pdf){:target="_blank"} Elisabete Shibata and Lisa Rosendahl. Understanding Beethoven: Musicology and Computer Science in Dialogue, Koblenz, 16 July 2022.
 
 
 [“The Unknown Beethoven: Studying Domestic Arrangments of Symphonic Works with Digital Tools."](/assets/docs/SaarbrueckenPresentation.pdf){:target="_blank"} Christine Siegert and Mark Saccomano. Geisteswissenschaften und Informatik im Dialog: Aktuelle Perspektiven der Digital Humanities (Lecture Series), Fachrichtung Musikwissenschaft der Universität des Saarlandes / Trier Center for Digital Humanities der Universität Trier, 17 January 2022.
