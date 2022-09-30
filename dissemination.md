@@ -32,6 +32,11 @@ Documentation for the Beethoven in the House __[Music Annotation model](/assets/
 
 “Using Digital Tools to Analyze Domestic Arrangements of Beethoven’s Symphonies: Refining the Concept of the Musical Work.” Mark Saccomano. Forschungskolloquium, Musikwissenschaftliches Seminar der Universität Paderborn und der Hochschule für Musik Detmold, 27 October 2020.
 
+### __Panels__
+
+ "Beethoven in the House." Jahrestagung der Gesellschaft für Musikforschung (GfM Tagung 2022), Berlin, September 28 – October 1, 2022.
+
+“Beethoven’s Large Scale Works outside the Concert Hall: Towards a Digital Representation of Domestic Arrangements.” Roundtable. 21st Quinquennial Congress of the International Musicological Society, (IMS 2022), Athens, August 2022.
 
 ### __Publications__
 
