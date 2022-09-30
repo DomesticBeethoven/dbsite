@@ -34,9 +34,10 @@ Documentation for the Beethoven in the House __[Music Annotation model](/assets/
 
 ### __Panels__
 
- "Beethoven in the House." Jahrestagung der Gesellschaft für Musikforschung (GfM Tagung 2022), Berlin, September 28 – October 1, 2022.
+ "Beethoven in the House." Research project presentation. Jahrestagung der Gesellschaft für Musikforschung (GfM Tagung 2022), Berlin, September 28 – October 1, 2022.
 
 “Beethoven’s Large Scale Works outside the Concert Hall: Towards a Digital Representation of Domestic Arrangements.” Roundtable. 21st Quinquennial Congress of the International Musicological Society, (IMS 2022), Athens, August 2022.
+
 
 ### __Publications__
 
@@ -47,13 +48,3 @@ Documentation for the Beethoven in the House __[Music Annotation model](/assets/
 ### __Posters__
 
 [“A New Conceptual Model for Musical Sources and Musicological Studies.”](/assets/docs/MEC2022_Poster.pdf){:target="_blank"} Elisabete Shibata, David Lewis, Mark Saccomano, Andrew Hankinson, Johannes Kepper, Kevin Page. Poster presented at Music Encoding Conference (MEC) 2022, Halifax, May 2022.
-
-
-
-<!--
-“Modeling Music for Musicologists: A Linked Open Data Approach.” Mark Saccomano, Elisabete Shibata, David Lewis, Andrew Hankinson, Kevin Page. Paper presented at Digital Humanities 2022 (DH2022), Tokyo, July 2022.
-
-“Beethoven’s Large Scale Works outside the Concert Hall: Towards a Digital Representation of Domestic Arrangements.” Roundtable. 21st Quinquennial Congress of the International Musicological Society, (IMS 2022), Athens, August 2022.
-
-"Beethoven in the House." Christine Siegert, et al., Paper presented at Jahrestagung der Gesellschaft für Musikforschung (GfM), Berlin, September, 2022.
--->
