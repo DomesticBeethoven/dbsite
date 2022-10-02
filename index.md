@@ -12,7 +12,7 @@ style='font-size: 135%;
 font-style: italic;
 font-weight: bold;
 line-height: 0.8'>
-Beethoven in the House
+Beethoven in the Housezzzzz
 </span>
 encompasses two novel and complementary studies into domestic music arrangements of the 19th Century, a digital research environment which will be co-developed alongside the studies, and the innovative application of digital musicology methods within this environment.
 
