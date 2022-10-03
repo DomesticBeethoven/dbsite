@@ -9,9 +9,9 @@ category: digitization
 
 The first batch of arrangements from the Bodleian Library collection have been scanned and are now available online.
 
-Hidden in the Bodleian's vast collection of printed music, these are arrangements that were poorly cataloged and neglected for decades. Although some may dismiss these arrangements as derivative, for us they serve as primary sources that pull back a curtain on 19th-century musical life in the private sphere. In addition, they reveal an authentic 19th-century musical vernacular, as reflected in the choices made by arrangers in adapting these works for the home.
+These are arrangements that were hidden in the Bodleian's vast collection of printed music, poorly cataloged and neglected for decades. Although some may dismiss these arrangements as derivative, for us they serve as primary sources that pull back a curtain on 19th-century musical life in the private sphere. In addition, they reveal an authentic 19th-century musical vernacular, as reflected in the choices made by arrangers in adapting these works for the home.
 
-Our project has allocated resources for researching the collection at the Bodleian and choosing especially representative, or especially remarkable, arrangements for digitization. After examining the scores, we provide additional cataloging information to the Bodleian librarians before online publication, thus increasing public access to the materials.
+Our project has allocated resources for researching the collection at the Bodleian and choosing especially representative, or especially remarkable, arrangements for digitization. After examining the scores, we provide additional cataloging information to the Bodleian librarians before online publication, thus increasing their accessibility.
 
 Check out the high resolution scans of Op. 93, 3rd Movement here:
 <br/>
