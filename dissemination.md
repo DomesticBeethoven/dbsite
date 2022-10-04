@@ -34,7 +34,7 @@ Documentation for the Beethoven in the House __[Music Annotation model](/assets/
 
 ### __Panels__
 
- "Beethoven in the House." Research project presentation. Jahrestagung der Gesellschaft für Musikforschung (GfM Tagung 2022), Berlin, September 28 – October 1, 2022.
+ "Beethoven in the House." Research project presentation. Jahrestagung der Gesellschaft für Musikforschung (GfM Tagung 2022), Berlin, September 28 – October&nbsp;1, 2022.
 
 “Beethoven’s Large Scale Works outside the Concert Hall: Towards a Digital Representation of Domestic Arrangements.” Roundtable. 21st Quinquennial Congress of the International Musicological Society, (IMS 2022), Athens, August 22-26, 2022.
 
