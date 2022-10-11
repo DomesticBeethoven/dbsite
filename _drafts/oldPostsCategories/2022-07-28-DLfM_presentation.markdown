@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A model for annotating musical versions and arrangements across multiple documents and media"
+title:  "DLfM Presentation"
 date:   2022-07-28 09:33:48 +0200
 category: hausmusik
 ---

@@ -23,7 +23,7 @@ layout: default
         <span class="post-meta" style="font-size:1.1em">{{ post.date | date: date_format }}</span>
         <h4>
          {%- if post.category == "annotation" -%}
-           <span style="font-weight:bold;color:#D98D30;">annotation</span>
+           <span style="font-weight:bold;color:#287b9e;">annotation</span>
            <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
            </a>
@@ -41,10 +41,10 @@ layout: default
            </a>
          {%- endif -%}
          {%- if post.category == "digitization" -%}
-           <span style="font-weight:bold;color:#287b9e;">digitization</span>
-           <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-           </a>
+           <!-- <span style="font-weight:bold;color:#287b9e;">digitization</span> -->
+           <!-- <a class="post-link" href="{{ post.url | relative_url }}"> -->
+            <!-- {{ post.title | escape }} -->
+           <!-- </a> -->
          {%- endif -%}
         </h4>
         {%- if site.show_excerpts -%}

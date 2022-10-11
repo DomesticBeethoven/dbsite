@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Modelling musical arrangements: Ontology design in lockdown"
+title:  "Ontology Design"
 date:   2021-05-31 09:33:48 +0200
 category: annotation
 ---

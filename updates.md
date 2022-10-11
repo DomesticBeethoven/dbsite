@@ -36,14 +36,11 @@ permalink: /updates/
 </table>
 <table style="font-weight:bold;font-size:0.9em;border:0px;">
   <tr style="background-color:#ffffff">
-    <td style="background-color:#e89a46;border:0px;width:5px;"/>
-    <td style="border:0px;text-align:left;color:#D98D30;">Digital Annotation Environment</td>
-    <td style="background-color:#4f89a8;border:0px;width:5px;"/>
-    <td style="border:0px;color:#287b9e;text-align:left;">Digitization</td>
+    <td style="background-color:#287b9e;border:0px;width:5px;"/>
+    <td style="border:0px;text-align:left;color:#287b9e;">Digital Annotation Environment</td>
+    <td style="background-color:#ffffff;border:0px;width:5px;"/>
+    <td style="border:0px;color:#ffffff;text-align:left;">Digitization</td>
   </tr>
 </table>
-
-
-
 ___
 <br/>

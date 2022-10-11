@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Beethoven Arrangements: Can digital approaches widen our investigative reach?"
+title:  "GfM Presentation"
 date:   2021-10-01 09:33:48 +0200
 category: hausmusik
 ---

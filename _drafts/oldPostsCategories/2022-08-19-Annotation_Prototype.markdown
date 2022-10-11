@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unleashing the Model: Developing a Prototype for Comparing Remote Resources"
+title:  "Annotation Prototype"
 date:   2022-08-19 09:33:48 +0200
 category: annotation
 ---

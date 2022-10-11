@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Modeling Music for Musicologists: A Linked Open Data Approach"
+title:  "DH2022 Presentation"
 date:   2022-07-27 09:33:48 +0200
 category: annotation
 ---
