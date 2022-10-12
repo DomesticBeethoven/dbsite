@@ -11,7 +11,7 @@ permalink: /dissemination/
     line-height:1.5" > -->
 ### __Documentation__
 
-Documentation for the Beethoven in the House __[Music Annotation model](/assets/docs/BitHModelDocumentation_v0.2.pdf){:target="_blank"}__.
+Documentation for the Beethoven in the House __[Music Annotation model](/assets/docs/BitHModelDocumentation_v0.2.1.pdf){:target="_blank"}__.
 
 ### __Presentations__
 
