@@ -25,12 +25,12 @@ Check out the high resolution scans of Op. 93, 3rd Movement here:
 <br/>
 <br/>
 
-* Piano - two hands (Smallwood), ca. 1880: [Mus. Instr. IV, 103 (10)](https://digital.bodleian.ox.ac.uk/objects/60fc39aa-d390-48cb-b4ae-06d067002c87/){:target="_blank"}
+* [Piano - two hands (Smallwood), ca. 1880: Mus. Instr. IV, 103 (10)](https://digital.bodleian.ox.ac.uk/objects/60fc39aa-d390-48cb-b4ae-06d067002c87/){:target="_blank"}
 
-* Piano - two hands (West), ca. 1880: [Mus. Instr. IV, 103 (11)](https://digital.bodleian.ox.ac.uk/objects/bd1b512b-eec1-4ea3-8176-7c274a1fedec/){:target="_blank"}
+* [Piano - two hands (West), ca. 1880: Mus. Instr. IV, 103 (11)](https://digital.bodleian.ox.ac.uk/objects/bd1b512b-eec1-4ea3-8176-7c274a1fedec/){:target="_blank"}
 
-* Piano - four hands (Hermann), ca. 1877: [Mus. 122 c.168 (8)](https://digital.bodleian.ox.ac.uk/objects/644ee314-14a2-4006-9fe6-80eea1258a17/){:target="_blank"}
+* [Piano - four hands (Hermann), ca. 1877: Mus. 122 c.168 (8)](https://digital.bodleian.ox.ac.uk/objects/644ee314-14a2-4006-9fe6-80eea1258a17/){:target="_blank"}
 
-* Piano - four hands (Watts), ca. 1830: [(W) Tyson Mus. 1025 (2)](https://digital.bodleian.ox.ac.uk/objects/fd6b91da-b3df-4564-b807-650c495d82f6/){:target="_blank"}
+* [Piano - four hands (Watts), ca. 1830: (W) Tyson Mus. 1025 (2)](https://digital.bodleian.ox.ac.uk/objects/fd6b91da-b3df-4564-b807-650c495d82f6/){:target="_blank"}
 
-* Septett - [double bass part] (Crouch), 1821: [(W) Tyson Mus. 119](https://digital.bodleian.ox.ac.uk/objects/47e1e8c8-51f7-4ce1-a3da-39ec0d33850a/){:target="_blank"}
+* [Septett - double bass part (Crouch), 1821: (W) Tyson Mus. 119](https://digital.bodleian.ox.ac.uk/objects/47e1e8c8-51f7-4ce1-a3da-39ec0d33850a/){:target="_blank"}
