@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Beethoven Arrangements"
-full_title: "GfM 2022 -- Beethoven Arrangements: Can digital approaches widen our investigative reach?"
+title:  "GfM 2021"
+full_title: "GfM 2021 -- Beethoven Arrangements: Can digital approaches widen our investigative reach?"
 date:   2021-10-01 09:33:48 +0200
 category: hausmusik
 excerpt_separator: <!--more-->

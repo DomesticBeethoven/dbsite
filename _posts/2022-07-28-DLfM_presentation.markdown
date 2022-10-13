@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DLfM 2022"
-full_title: "A model for annotating musical versions and arrangements across multiple documents and media"
+full_title: "DLfM 2022 -- A model for annotating musical versions and arrangements across multiple documents and media"
 date:   2022-07-28 09:33:48 +0200
 category: hausmusik
 excerpt_separator: <!--more-->
