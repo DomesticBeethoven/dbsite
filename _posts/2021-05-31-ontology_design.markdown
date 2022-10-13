@@ -1,13 +1,18 @@
 ---
 layout: post
-title:  "Modelling musical arrangements: Ontology design in lockdown"
+title: "Ontology design"
+full_title: "Modelling musical arrangements: Ontology design in lockdown"
 date:   2021-05-31 09:33:48 +0200
 category: annotation
+excerpt_separator: <!--more-->
 ---
-<p>{{ page.date | date_to_string }}</p>
-## __Modelling musical arrangements: Ontology design in lockdown__
+## __{{ page.full_title }}__
 
-Before we can build tools to support scholarly research on arrangements and help capture and publish that research, we need to agree on how it, and the various musical arrangements that are used as evidence, should be represented digitally. Musical scores themselves will be stored using the Music Encoding Initiative’s MEI format, which is a standard that is particularly good for scholarly editions.
+Before we can build tools to support scholarly research on arrangements and help capture and publish that research, we need to agree on how it, and the various musical arrangements that are used as evidence, should be represented digitally.
+
+<!--more-->
+
+Musical scores themselves will be stored using the Music Encoding Initiative’s MEI format, which is a standard that is particularly good for scholarly editions.
 
 Not all scores will be fully edited, though, and not all observations will point to scores, and our tools – and therefore our representation of the data – must support other types of evidence, particularly images, along with audio and video recordings. Our observations will have to be stored digitally, credited to us, and will point to parts of scores or media resources.
 

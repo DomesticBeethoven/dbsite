@@ -10,49 +10,52 @@ layout: default
   {%- endif -%} -->
   {%- include head.html -%}
 
-
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
+
     <!-- <h2 class="post-list-heading">{{ page.list_title | default: "default blog header" }}</h2> -->
     <!-- <h2 class="post-list-heading">Research Updates</h2> -->
     <ul class="post-list">
       {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta" style="font-size:1.1em">{{ post.date | date: date_format }}</span>
+
+    <li>
+    <span class="post-meta" style="font-size:1.1em">{{ post.date | date_to_string }}</span>
+<!-- colored category tags -->
         <h4>
-         {%- if post.category == "annotation" -%}
-           <span style="font-weight:bold;color:#287b9e;">annotation</span>
-           <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-           </a>
-         {%- endif -%}
-         {%- if post.category == "arrangements" -%}
-           <span style="font-weight:bold;color:#11590e;background-color=#EAEAEA;">arrangements</span>
-           <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-           </a>
-         {%- endif -%}
-         {%- if post.category == "hausmusik" -%}
-           <span style="font-weight:bold;color:#c91c76;">home music</span>
-           <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-           </a>
-         {%- endif -%}
-         {%- if post.category == "digitization" -%}
-           <!-- <span style="font-weight:bold;color:#287b9e;">digitization</span> -->
-           <!-- <a class="post-link" href="{{ post.url | relative_url }}"> -->
-            <!-- {{ post.title | escape }} -->
-           <!-- </a> -->
-         {%- endif -%}
+           {%- if post.category == "annotation" -%}
+             <span style="font-weight:bold;font-size:1.1em;color:#287b9e;">annotation</span>
+           {%- endif -%}
+           {%- if post.category == "arrangements" -%}
+             <span style="font-weight:bold;font-size:1.1em;color:#11590e;background-color=#EAEAEA;">arrangements</span>
+           {%- endif -%}
+           {%- if post.category == "hausmusik" -%}
+             <span style="font-weight:bold;font-size:1.1em;color:#c91c76;">home music</span>
+           {%- endif -%}
+           {%- if post.category == "digitization" -%}
+              <span style="font-weight:bold;font-size:1.1em;color:#D98D30;">digitization</span>
+           {%- endif -%}
         </h4>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
+
+
+
+        <p>{{ post.excerpt }}</p>
+
+        {% if post.content contains site.excerpt_separator %}
+
+
+
+          <a href="{{ site.baseurl }}{{ post.url }}" style="font-weight:bold">
+              Read more
+          </a>
+        {% endif %}
+
+        <p style="">________</p>
       </li>
+
       {%- endfor -%}
     </ul>
+
   {%- endif -%}
 
 </div>

@@ -1,13 +1,16 @@
 ---
 layout: post
-title:  "Unleashing the Model: Developing a Prototype for Comparing Remote Resources"
+title:  "Unleashing the Model"
+full_title: "Unleashing the Model: Developing a Prototype for Comparing Remote Resources"
 date:   2022-08-19 09:33:48 +0200
 category: annotation
+excerpt_separator: <!--more-->
 ---
-<p>{{ page.date | date_to_string }}</p>
 ## __Unleashing the Model: Developing a Prototype for Comparing Remote Resources__
 
 Armed with a new model for comparing different versions of the same musical work, we went to work on creating a prototype for a web application that would allow us to identify, label, and comment upon digitized works held in remote repositories.
+
+<!--more-->
 
 Our goals for this prototype were fairly simple, but each step involved multiple consultations among the researchers regarding musicological needs and technical feasibility within the scope of the project. Only by having the musicological and technical components of the project in sync could the model be properly tested, and the application evaluated for suitability.
 
