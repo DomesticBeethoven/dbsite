@@ -48,3 +48,7 @@ Documentation for the Beethoven in the House __[Music Annotation model](/assets/
 ### __Posters__
 
 [“A New Conceptual Model for Musical Sources and Musicological Studies.”](/assets/docs/MEC2022_Poster.pdf){:target="_blank"} Elisabete Shibata, David Lewis, Mark Saccomano, Andrew Hankinson, Johannes Kepper, Kevin Page. Poster presented at Music Encoding Conference (MEC) 2022, Halifax, May 19-22, 2022.
+
+### __Press__
+
+Rembert Unterstell. ["Ode an das Werk." _forschung: Das Magazin der Deutschen Forschungsgemeinschaft_](/assets/docs/Ode_an_das_werk.pdf), January 2020.
