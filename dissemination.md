@@ -51,4 +51,4 @@ Documentation for the Beethoven in the House __[Music Annotation model](/assets/
 
 ### __Press__
 
-Rembert Unterstell. ["Ode an das Werk." _forschung: Das Magazin der Deutschen Forschungsgemeinschaft_](/assets/docs/Ode_an_das_werk.pdf), January 2020.
+Rembert Unterstell. ["Ode an das Werk." _forschung: Das Magazin der Deutschen Forschungsgemeinschaft_](/assets/docs/Ode_an_das_Werk.pdf), January 2020.
