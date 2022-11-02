@@ -1,5 +1,5 @@
 @prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix dc:      <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix event:   <http://purl.org/NET/c4dm/event.owl#> .
@@ -7,7 +7,7 @@
 @prefix skos:    <https://www.w3.org/2009/08/skos-reference/skos#> .
 @prefix oa:      <http://www.w3.org/ns/oa#> .
 @prefix frbr:    <http://purl.org/vocab/frbr/core#> .
-@prefix mAnnot:     <https://raw.githubusercontent.com/DomesticBeethoven/dbsite/gh-pages/ontology/music-annotation-ontology.ttl> .
+@prefix mAnnot:  <https://raw.githubusercontent.com/DomesticBeethoven/dbsite/gh-pages/ontology/music-annotation-ontology.ttl> .
 
 mAnnot:MusicalIdea a rdfs:Class ;
    rdfs:subClassOf frbr:Work ;
@@ -29,7 +29,17 @@ mAnnot:Selection a rdfs:Class ;
    rdfs:label "Selection" ;
  	 rdfs:comment "A collection of UUIDs that comprise a single musical object, at any level, within a single resource." .
 
-mAnnot:AbsenceSelection a rdfs:Class ;
+ mAnnot:setting a rdf:Property ;
+   rdfs:domain mAnnot:Extract ;
+   rddfs:range mAnnot:Selection ;
+   rdfs:comment "A setting of an Extract. The relationship that holds between an Extract and the individual Selections that comprise it. Similar to frbr:manifestation, but designed especially for this extended FRBR class. ".
+
+mAnnot:settingOf a rdf:Property ;
+   rdfs:domain mAnnot:Selection ;
+   rdfs:range mAnnot:Extract ;
+   rdfs:comment "The Extract that the Selection is a setting of. Similar to frbr:manifestationOf, but designed especially for this extended FRBR class.".
+
+mAnnot:absenceSelection a rdfs:Class ;
   rdfs:subClassOf mAnnot:Selection ;
   rdfs:comment "A point marker that combines with an AbsenceQualification value (e.g., 'before') to indicate the location of an addition or abridgment relative to another version of the same work" .
 
@@ -37,7 +47,7 @@ mAnnot:absenceQualifier a rdf:Property ;
   rdfs:domain mAnnot:absenceSelection ;
   rdfs:range mAnnot:AbsenceQualification .
 
-mAnnot:AbsenceQualification a rdfs:Class ;
+mAnnot:absenceQualification a rdfs:Class ;
   rdfs:domain mAnnot:absenceQualifier .
 
 mAnnot:observing a oa:motivation ;
