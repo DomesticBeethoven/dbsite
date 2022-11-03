@@ -31,7 +31,7 @@ mAnnot:Selection a rdfs:Class ;
 
  mAnnot:setting a rdf:Property ;
    rdfs:domain mAnnot:Extract ;
-   rddfs:range mAnnot:Selection ;
+   rdfs:range mAnnot:Selection ;
    rdfs:comment "A setting of an Extract. The relationship that holds between an Extract and the individual Selections that comprise it. Similar to frbr:manifestation, but designed especially for this extended FRBR class. ".
 
 mAnnot:settingOf a rdf:Property ;
