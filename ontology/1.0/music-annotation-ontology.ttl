@@ -9,6 +9,7 @@
 @prefix frbr:    <http://purl.org/vocab/frbr/core#> .
 @prefix mAnnot:  <https://raw.githubusercontent.com/DomesticBeethoven/dbsite/gh-pages/ontology/music-annotation-ontology.ttl> .
 
+
 mAnnot:MusicalIdea a rdfs:Class ;
    rdfs:subClassOf frbr:Work ;
    rdfs:label "MusicalIdea" ;
