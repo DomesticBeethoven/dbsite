@@ -13,6 +13,8 @@ permalink: /dissemination/
 
 Documentation for the Beethoven in the House __[Music Annotation model](/assets/docs/BitHModelDocumentation_v0.2.1.pdf){:target="_blank"}__.
 
+Documentation for the Domestic Beethoven __[Selective Encoding Protocol](/assets/docs/BitHSelectiveEncoding.pdf){:target="_blank"}__ for MEI.
+
 ### __Presentations__
 
 ["Modeling Music for Musicologists: A Linked Open Data Approach."](/assets/docs/DH2022slides.pdf){:target="_blank"} Mark Saccomano, Elisabete Shibata, David Lewis, Andrew Hankinson, Kevin Page. Digital Humanities 2022, Tokyo, July&nbsp;<nobr>25-29</nobr>,&nbsp;2022.
