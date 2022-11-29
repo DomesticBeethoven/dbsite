@@ -13,7 +13,7 @@ permalink: /dissemination/
 
 Documentation for the Beethoven in the House __[Music Annotation model](/assets/docs/BitHModelDocumentation_v0.2.1.pdf){:target="_blank"}__.
 
-Documentation for the Domestic Beethoven __[Selective Encoding Protocol](/assets/docs/BitHSelectiveEncoding.pdf){:target="_blank"}__ for MEI.
+<!-- Documentation for the Domestic Beethoven __[Selective Encoding Protocol](/assets/docs/BitHSelectiveEncoding.pdf){:target="_blank"}__ for MEI. -->
 
 ### __Presentations__
 
