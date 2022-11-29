@@ -9,6 +9,13 @@ permalink: /dissemination/
     font-weight:bold;
     font-size:125%;
     line-height:1.5" > -->
+### __Prototype__
+
+__[https://tool.domestic-beethoven.eu](https://tool.domestic-beethoven.eu){:target="_blank"}__
+
+(Note that a personal Solid pod -- available free from [SolidCommunity](https://solidcommunity.net/){:target="_blank"} –- is required for use.)
+
+
 ### __Documentation__
 
 Documentation for the Beethoven in the House __[Music Annotation model](/assets/docs/BitHModelDocumentation_v0.2.1.pdf){:target="_blank"}__.
