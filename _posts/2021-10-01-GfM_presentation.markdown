@@ -7,8 +7,6 @@ category: hausmusik
 excerpt_separator: <!--more-->
 ---
 
-## __{{ page.full_title }}__
-
 The annual conference of the Gesellschaft für Musikforschung (GfM) was this year given the theme _Muskwissenschaft nach Beethoven_ (‘Musicology after Beethoven’). Held in Bonn just after our first in-person full project meeting, it gave us the perfect opportunity to present our goals and our work so far.
 
 <!--more-->

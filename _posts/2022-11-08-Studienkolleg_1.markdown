@@ -6,7 +6,6 @@ date:   2022-09-08 09:33:48 +0200
 category: hausmusik
 excerpt_separator: <!--more-->
 ---
-## __{{ page.full_title }}__
 
 For several years, the Beethoven-Haus in Bonn has run an annual four-day Studienkolleg (summer school) and this year, with the help of the Beethoven in the House project, the theme was _Beethoven-Bearbeitungen und ihre digitale Darstellung_ (‘Beethoven arrangements and their digital representation’).
 <!--more-->
@@ -16,6 +15,8 @@ While participants had the opportunity to handle physical scores, including firs
 
 Participants at the Studienkolleg were introduced to our [new annotation tool](https://tool.domestic-beethoven.eu/){:target="_blank"}, using it to select and encode Beethoven extracts themselves and provide their own digital annotations. The tool had been pre-configured to include the facsimile, digital edition and metadata for all the arrangements the participants considered. At the end of the 4-day program, students presented their findings on the arrangements.
 
+<a href="/assets/img/studentUsingAppEdit.jpg">
 ![Student using annotator app ](/assets/img/studentUsingAppEdit.jpg){:height="300px" width="300px"}
+</a>
 
 The workshop session resulted in valuable feedback for the development team on issues of usability and practicability, and were followed up with more formal interview sessions. The results of these will inform our continuing development of the tool’s interface and functionality.

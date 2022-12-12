@@ -7,8 +7,6 @@ category: annotation
 excerpt_separator: <!--more-->
 ---
 
-## __{{ page.full_title }}__
-
 In anticipation of our team presentation and article for the [Digital Libraries for Musicology (DLfM)](https://dl.acm.org/doi/10.1145/3543882.3543891){:target="_blank"} conference this summer, Mark presented the current state of the project's data model at the international [Digital Humanities (DH2022)](https://dh2022.adho.org/) conference (hosted in Tokyo, but fully online).
 
 <!--more-->

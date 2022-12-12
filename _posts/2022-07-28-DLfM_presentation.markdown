@@ -7,8 +7,6 @@ category: hausmusik
 excerpt_separator: <!--more-->
 ---
 
-## __{{ page.full_title }}__
-
 The international conference on Digital Libraries for Musicology (DLfM) was this year run in association with the annual congress of the International Association of Music Librarians (IAML) in Prague.
 
 <!--more-->

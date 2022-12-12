@@ -6,7 +6,6 @@ date:   2021-05-31 09:33:48 +0200
 category: annotation
 excerpt_separator: <!--more-->
 ---
-## __{{ page.full_title }}__
 
 Before we can build tools to support scholarly research on arrangements and help capture and publish that research, we need to agree on how it, and the various musical arrangements that are used as evidence, should be represented digitally.
 

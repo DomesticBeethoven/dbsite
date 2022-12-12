@@ -7,8 +7,6 @@ category: digitization
 excerpt_separator: <!--more-->
 ---
 
-## __{{ page.full_title }}__
-
 The first batch of arrangements from the Bodleian Library collection have been scanned and are now available online.
 
 <!--more-->

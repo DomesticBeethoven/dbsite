@@ -6,7 +6,6 @@ date:   2022-08-19 09:33:48 +0200
 category: annotation
 excerpt_separator: <!--more-->
 ---
-## __Unleashing the Model: Developing a Prototype for Comparing Remote Resources__
 
 Armed with a new model for comparing different versions of the same musical work, we went to work on creating a prototype for a web application that would allow us to identify, label, and comment upon digitized works held in remote repositories.
 

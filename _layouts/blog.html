@@ -38,19 +38,20 @@ layout: default
         </h4>
 
 
-
-        <p>{{ post.excerpt }}</p>
+<a class="post-link" style="font-weight:bold;color:#004006" href="{{ post.url | relative_url }}">
+        {{ post.full_title }}
+</a>
 
         {% if post.content contains site.excerpt_separator %}
 
-
+        <p>{{ post.excerpt }}</p>
 
           <a href="{{ site.baseurl }}{{ post.url }}" style="font-weight:bold">
               Read more
           </a>
         {% endif %}
 
-        <p style="">________</p>
+        <p style="">____________</p>
       </li>
 
       {%- endfor -%}
