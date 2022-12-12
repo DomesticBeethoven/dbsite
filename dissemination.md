@@ -11,9 +11,9 @@ permalink: /dissemination/
     line-height:1.5" > -->
 ### __Prototype__
 
-__[https://tool.domestic-beethoven.eu](https://tool.domestic-beethoven.eu){:target="_blank"}__
+Try it here &nbsp;⋅⋅⋅ >> &nbsp;  __[https://tool.domestic-beethoven.eu](https://tool.domestic-beethoven.eu){:target="_blank"}__
 
-(Note that a personal Solid pod — available free from [SolidCommunity](https://solidcommunity.net/){:target="_blank"} — is required for use.)
+<sup>_Note that a personal Solid pod — available free from_ <span style="text-decoration: underline;">[SolidCommunity](https://solidcommunity.net/){:target="_blank"}</span> _— is required for use._</sup>
 
 
 ### __Documentation__
