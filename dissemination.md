@@ -13,7 +13,7 @@ permalink: /dissemination/
 
 __[https://tool.domestic-beethoven.eu](https://tool.domestic-beethoven.eu){:target="_blank"}__
 
-(Note that a personal Solid pod -- available free from [SolidCommunity](https://solidcommunity.net/){:target="_blank"} –- is required for use.)
+(Note that a personal Solid pod — available free from [SolidCommunity](https://solidcommunity.net/){:target="_blank"} — is required for use.)
 
 
 ### __Documentation__
