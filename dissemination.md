@@ -24,16 +24,17 @@ Documentation for the Beethoven in the House __[Music Annotation model](/assets/
 
 ### __Presentations__
 
+“Beethoven in the House." Christine Siegert, Andrew Hankinson, Johannes Kepper, David Lewis, Kevin Page, Lisa Rosendahl, Mark Saccomano, and Elisabete Shibata. Jahrestagung der Gesellschaft für Musikforschung, “Nach der Norm: Musikwissenschaft im 21. Jahrhundert,” Berlin, September 28-October 1, 2022.
+
 ["Modeling Music for Musicologists: A Linked Open Data Approach."](/assets/docs/DH2022slides.pdf){:target="_blank"} Mark Saccomano, Elisabete Shibata, David Lewis, Andrew Hankinson, Kevin Page. Digital Humanities 2022, Tokyo, July&nbsp;<nobr>25-29</nobr>,&nbsp;2022.
 
 ["Beethoven in the House: Annotating Digital Sources to Contextualise Musicology Studies."](/assets/docs/Page-IAML2022-slides.pdf){:target="_blank"} Kevin R. Page, Andrew Hankinson, Elisabete Shibata, and Mark Saccomano. IAML Congress 2022, Prague, July&nbsp;24-29, 2022.
 
 ["Klaviertrio- und Vokalbearbeitungen des Allegrettos von Beethovens Siebter Symphonie: Analyse symphonischer Metamorphosen mithilfe digitaler Werkzeuge."](/assets/docs/2022.07.16LR-ES-Koblenz.pdf){:target="_blank"} Elisabete Shibata and Lisa Rosendahl. Understanding Beethoven: Musicology and Computer Science in Dialogue, Koblenz, July 14-16, 2022.
 
-
 [“The Unknown Beethoven: Studying Domestic Arrangments of Symphonic Works with Digital Tools."](/assets/docs/SaarbrueckenPresentation.pdf){:target="_blank"} Christine Siegert and Mark Saccomano. Geisteswissenschaften und Informatik im Dialog: Aktuelle Perspektiven der Digital Humanities (Lecture Series), Fachrichtung Musikwissenschaft der Universität des Saarlandes / Trier Center for Digital Humanities der Universität Trier, January 17, 2022.
 
-["Beethoven Arrangements: Can Digital Approaches Widen Our Investigative Reach?"](/assets/docs/Page-GfM2021-slides.pdf){:target="_blank"} Kevin Page and David Lewis. Paper presented at XVII. Internationaler Kongress der Gesellschaft für Musikforschung (GfM), Bonn, September 28-October 1, 2021.
+["Beethoven Arrangements: Can Digital Approaches Widen Our Investigative Reach?"](/assets/docs/Page-GfM2021-slides.pdf){:target="_blank"} Kevin Page and David Lewis. XVII. Internationaler Kongress der Gesellschaft für Musikforschung, "Musikwissenschaft nach Beethoven," Bonn, September 28-October 1, 2021.
 
 “Digital Musicology: An Interdisciplinary Perspective.” Kevin Page. Digital Humanities at Oxford, July&nbsp;12-15, 2021.
 
