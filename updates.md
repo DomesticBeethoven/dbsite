@@ -4,7 +4,8 @@ title: Research Updates
 weight: 4
 permalink: /updates/
 ---
-# Research Updates
+# {{ page.title }}
+
 <table style="font-weight:bold;font-size:0.9em;border:0px;">
   <tr>
     <td style="background-color:#5A950F;border:0px;width:5px;"/>

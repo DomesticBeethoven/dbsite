@@ -4,7 +4,7 @@ title: People
 weight: 2
 permalink: /people/
 ---
-People:
+{{ page.title }}
 ---
 
 <div style=

@@ -4,11 +4,7 @@ title: Dissemination
 weight: 3
 permalink: /dissemination/
 ---
-<!-- <div style=
-    "color:#063d0c;
-    font-weight:bold;
-    font-size:125%;
-    line-height:1.5" > -->
+
 ### __Prototype__
 
 Try it here &nbsp;⋅⋅⋅ >> &nbsp;  __[https://tool.domestic-beethoven.eu](https://tool.domestic-beethoven.eu){:target="_blank"}__
