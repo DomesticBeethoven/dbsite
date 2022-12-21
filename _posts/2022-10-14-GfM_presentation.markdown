@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GfM 2022"
-full_title: "GfM 2022 -- Project Presentation in Berlin"
+full_title: "GfM 2022 — Project Presentation in Berlin"
 date:   2022-10-01 09:33:48 +0200
 category: annotation
 excerpt_separator: <!--more-->
