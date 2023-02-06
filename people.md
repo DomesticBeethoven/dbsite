@@ -34,7 +34,7 @@ permalink: /people/
 </p>
 
 <p style="line-height:1.0;">
-<a href="https://www.muwi-detmold-paderborn.de/en/personen/hilfskraefte/lisa-rosendahl">Lisa Rosendahl</a><br/>
+<a href="https://www.beethoven.de/de/person/view/5193685029355520/Lisa-Rosendahl">Lisa Rosendahl</a><br/>
 <span style="color:#063d0c; font-weight:normal; font-size:80%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Since April 2021)</span>
 </p>
 
