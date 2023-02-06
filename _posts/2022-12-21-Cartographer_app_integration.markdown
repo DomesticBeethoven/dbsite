@@ -13,5 +13,5 @@ For use in project encodings, Edirom adapted their Optical Music Recognition (OM
 The Cartographer app has already been successfully utilized in preparations for the annual Beethoven-Haus __*[Studienkolleg](https://domestic-beethoven.eu/hausmusik/2022/09/08/Studienkolleg_1.html){:target="_blank"}*__, where the students were given selective encodings of _Wellingtons Sieg_ to analyze and edit digitally. The __*[Beethoven in the House Annotator](https://domestic-beethoven.eu/annotation/2022/08/19/Annotation_Prototype.html){:target="_blank"}*__ app uses files produced by Cartographer to retrieve the source IIIF image and display it with measure numbers added. This makes the annotation and comparison way easier, since scholars can pull up the relevant portion of the score directly, rather than having to count out the measures themselves.
 
 <a href="/assets/img/ScreenShotCartographerApp.png">
-![Detecting measures with the Cartographer App ](/assets/img/ScreenShotCartographerApp.png){:height="430px" width="300px"}
+![Detecting measures with the Cartographer App ](/assets/img/ScreenShotCartographerApp.png)
 </a>
