@@ -3,18 +3,30 @@ layout: page
 title: Dissemination
 weight: 3
 permalink: /dissemination/
+vimeoId: 780308332
 ---
 
 ### __Prototype__
 
-Try it here &nbsp;⋅⋅⋅ >> &nbsp;  __[https://tool.domestic-beethoven.eu](https://tool.domestic-beethoven.eu){:target="_blank"}__
+See the annotation tool in action &nbsp;⋅⋅⋅ >> &nbsp;  __[https://tool.domestic-beethoven.eu](https://vimeo.com/780308332){:target="_blank"}__
+
+Try it yourself here &nbsp;⋅⋅⋅ >> &nbsp;  __[https://tool.domestic-beethoven.eu](https://tool.domestic-beethoven.eu){:target="_blank"}__
 
 <sup>_Note that a personal Solid pod — available free from_ <span style="text-decoration: underline;">[SolidCommunity](https://solidcommunity.net/){:target="_blank"}</span> _— is required for use._</sup>
-
 
 ### __Documentation__
 
 Documentation for the Beethoven in the House __[Music Annotation model](/assets/docs/BitHModelDocumentation_v0.2.1.pdf){:target="_blank"}__.
+
+
+### __Publications__
+
+"A model for annotating musical versions and arrangements across multiple documents and media." David Lewis, Elisabete Shibata, Mark Saccomano, Lisa Rosendahl, Johannes Kepper, Andrew Hankinson, Christine Siegert, and Kevin Page. 2022. _9th International Conference on Digital Libraries for Musicology_ (DLfM2022). Association for Computing Machinery, New York, 10–18. [doi:10.1145/3543882.3543891](https://doi.org/10.1145/3543882.3543891){:target="_blank"}
+
+“Beethoven in the House: Digital Studies of Domestic Music Arrangements.” Kevin R. Page, Johannes Kepper, Christine Siegert, Andrew Hankinson, and David Lewis. Proceedings of the Music Encoding Conference 2021, pp.117-123, 2022. [doi:10.17613/389b-xx73](https://doi.org/10.17613/389b-xx73){:target="_blank"}
+
+
+
 
 <!-- Documentation for the Domestic Beethoven __[Selective Encoding Protocol](/assets/docs/BitHSelectiveEncoding.pdf){:target="_blank"}__ for MEI. -->
 
@@ -44,12 +56,6 @@ Documentation for the Beethoven in the House __[Music Annotation model](/assets/
 
 “Beethoven’s Large Scale Works outside the Concert Hall: Towards a Digital Representation of Domestic Arrangements.” Roundtable. 21st Quinquennial Congress of the International Musicological Society, (IMS 2022), Athens, August 22-26, 2022.
 
-
-### __Publications__
-
-"A model for annotating musical versions and arrangements across multiple documents and media." David Lewis, Elisabete Shibata, Mark Saccomano, Lisa Rosendahl, Johannes Kepper, Andrew Hankinson, Christine Siegert, and Kevin Page. 2022. _9th International Conference on Digital Libraries for Musicology_ (DLfM2022). Association for Computing Machinery, New York, 10–18. [doi:10.1145/3543882.3543891](https://doi.org/10.1145/3543882.3543891){:target="_blank"}
-
-“Beethoven in the House: Digital Studies of Domestic Music Arrangements.” Kevin R. Page, Johannes Kepper, Christine Siegert, Andrew Hankinson, and David Lewis. Proceedings of the Music Encoding Conference 2021, pp.117-123, 2022. [doi:10.17613/389b-xx73](https://doi.org/10.17613/389b-xx73){:target="_blank"}
 
 ### __Posters__
 
