@@ -32,6 +32,8 @@ Documentation for the Beethoven in the House __[Music Annotation model](/assets/
 
 ### __Presentations__
 
+"Kammermusikbearbeitungen als Geschäft: Beethovens Symphonien im Verlag C. F. Peters." Lisa Rosendahl. Geschäftsdaten als Quelle für die Musikwissenschaft. Repertoire- und Verlagsforschung mit der Musikverlagsdatenbank (mvdb), Leipzig, March 9-10, 2023.
+
 “Beethoven in the House." Christine Siegert, Andrew Hankinson, Johannes Kepper, David Lewis, Kevin Page, Lisa Rosendahl, Mark Saccomano, and Elisabete Shibata. Jahrestagung der Gesellschaft für Musikforschung, “Nach der Norm: Musikwissenschaft im 21. Jahrhundert,” Berlin, September 28-October 1, 2022.
 
 ["Modeling Music for Musicologists: A Linked Open Data Approach."](/assets/docs/DH2022slides.pdf){:target="_blank"} Mark Saccomano, Elisabete Shibata, David Lewis, Andrew Hankinson, Kevin Page. Digital Humanities 2022, Tokyo, July&nbsp;<nobr>25-29</nobr>,&nbsp;2022.
