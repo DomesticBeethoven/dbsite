@@ -65,4 +65,8 @@ Documentation for the Beethoven in the House __[Music Annotation model](/assets/
 
 ### __Press__
 
-Rembert Unterstell. ["Ode an das Werk." _forschung: Das Magazin der Deutschen Forschungsgemeinschaft_](/assets/docs/Ode_an_das_Werk.pdf), January 2020.
+Elisabete Shibata und Lisa Rosendahl. ["Vielfältige Verwandlung - Bearbeitungen des _Allegrettos_ der Siebten Symphonie" _Appassionato № 49 - Verwandlungen - Transformations_](/assets/docs/Appassionato_49.pdf){:target="_blank"}, November 2022.
+
+Richard Sänger and Elisabete Shibata. ["Beethoven-Bearbeitungen im Zentrum - Klanginstallation „Inside Beethoven!“ und neues Forschungsprojekt „Beethoven in the House“." _Appassionato № 45 - Aussichten_](/assets/docs/Appassionato_45.pdf){:target="_blank"}, November 2020.
+
+Rembert Unterstell. ["Ode an das Werk." _forschung: Das Magazin der Deutschen Forschungsgemeinschaft_](/assets/docs/Ode_an_das_Werk.pdf){:target="_blank"}, January 2020.
