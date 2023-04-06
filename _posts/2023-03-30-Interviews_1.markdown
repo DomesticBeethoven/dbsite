@@ -13,4 +13,4 @@ In the weeks following the [Beethoven-Studienkolleg](https://domestic-beethoven.
 
 The interviews revealed that the tool has potential for a broad range of uses besides the original purpose of comparing arrangements, and the overall design was in general favourably rated.
 
-At the project’s meeting in Oxford in December 2022, the team discussed ways to make the tool better and the new features that students and researchers would like to see. These discussions were used to decide what issues to prioritize for version 2 of the app.
+At the project’s meeting in Oxford in December 2022, the team discussed ways to make the tool better and the new features that students and researchers would like to see. These discussions were used to decide what issues to prioritize for [version 2 of the app](https://domestic-beethoven.eu/annotation/2023/03/09/Annotator_Version_2.html).
