@@ -1,0 +1,16 @@
+---
+layout: post
+title: "MEC 2022"
+full_title: "MEC 2022 — A New Conceptual Model for Musical Sources and Musicological Studies"
+date:   2022-07-30 12:28:48 +0200
+category: annotation
+excerpt_separator: <!--more-->
+---
+
+The model developed by the project team to connect musicological annotations to digitized sources was first unveiled at the [Music Encoding Conference 2022](https://music-encoding.org/conference/2022/) in Halifax.
+
+<!--more-->
+
+Elisabete presented a poster showing how the need to compare sources – a common activity in musicological research – in a digital environment requires the creation of structures to relate and uniquely reference musical elements. The model design was based on several use cases surveyed in the course of the project and takes into consideration the various media formats of origin materials, such as notated music in an MEI encoding, digitized images of scores, and audio and video recordings.
+
+![Poster: A New Conceptual Model](/assets/img/poster_NewModel.jpg){:height="430px" width="300px"}
