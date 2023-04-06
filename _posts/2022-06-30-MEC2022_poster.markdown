@@ -2,7 +2,7 @@
 layout: post
 title: "MEC 2022"
 full_title: "MEC 2022 — A New Conceptual Model for Musical Sources and Musicological Studies"
-date:   2022-07-30 12:28:48 +0200
+date:   2022-06-30 12:28:48 +0200
 category: annotation
 excerpt_separator: <!--more-->
 ---
