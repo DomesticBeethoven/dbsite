@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interviews — 1st Round"
-full_title: "_Annotator_: 1st Round of User Evaluation"
+full_title: "<i>Annotator</i>: 1st Round of User Evaluation"
 date:   2023-03-30 12:52:33 +0200
 category: annotation
 excerpt_separator: <!--more-->
