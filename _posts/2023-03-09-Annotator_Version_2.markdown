@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Version 2.0 released"
-full_title: "Domestic Beethoven Annotator App v2.0 Released"
+full_title: "Beethoven in the House Annotator App v2.0 Released"
 date:   2023-03-09 09:33:48 +0200
 category: annotation
 excerpt_separator: <!--more-->
