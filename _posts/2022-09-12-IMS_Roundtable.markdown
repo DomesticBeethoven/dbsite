@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IMS 2022"
-full_title: "IMS 2022 – Beethoven’s Large Scale Works outside the Concert Hall: Towards a Digital Representation of Domestic Arrangements"
+full_title: "IMS 2022 — Beethoven’s Large Scale Works outside the Concert Hall: Towards a Digital Representation of Domestic Arrangements"
 date:   2022-09-12 12:45:45 +0200
 category: hausmusik
 excerpt_separator: <!--more-->
