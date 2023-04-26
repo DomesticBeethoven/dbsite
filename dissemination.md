@@ -21,7 +21,7 @@ Documentation for the Beethoven in the House __[Music Annotation model](/assets/
 
 ### __Publications__
 
-["A model for annotating musical versions and arrangements across multiple documents and media.""](https://doi.org/10.1145/3543882.3543891){:target="_blank"}" David Lewis, Elisabete Shibata, Mark Saccomano, Lisa Rosendahl, Johannes Kepper, Andrew Hankinson, Christine Siegert, and Kevin Page. 2022. _9th International Conference on Digital Libraries for Musicology_ (DLfM2022). Association for Computing Machinery, New York, 10–18. [doi:10.1145/3543882.3543891](https://doi.org/10.1145/3543882.3543891){:target="_blank"}
+["A model for annotating musical versions and arrangements across multiple documents and media."](https://doi.org/10.1145/3543882.3543891){:target="_blank"} David Lewis, Elisabete Shibata, Mark Saccomano, Lisa Rosendahl, Johannes Kepper, Andrew Hankinson, Christine Siegert, and Kevin Page. 2022. _9th International Conference on Digital Libraries for Musicology_ (DLfM2022). Association for Computing Machinery, New York, 10–18. [doi:10.1145/3543882.3543891](https://doi.org/10.1145/3543882.3543891){:target="_blank"}
 
 [“Beethoven in the House: Digital Studies of Domestic Music Arrangements.”](https://doi.org/10.17613/389b-xx73){:target="_blank"} Kevin R. Page, Johannes Kepper, Christine Siegert, Andrew Hankinson, and David Lewis. Proceedings of the Music Encoding Conference 2021, pp.117-123, 2022. [doi:10.17613/389b-xx73](https://doi.org/10.17613/389b-xx73){:target="_blank"}
 
