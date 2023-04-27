@@ -8,11 +8,11 @@ vimeoId: 780308332
 
 ### __Prototype__
 
-See the annotation tool in action &nbsp;⋅⋅⋅ >> &nbsp;  __[https://tool.domestic-beethoven.eu](https://vimeo.com/780308332){:target="_blank"}__
+See the annotation tool in action &nbsp;⋅⋅⋅ >> &nbsp; __[Prototype screencast](https://vimeo.com/780308332){:target="_blank"}__
 
 Try it yourself here &nbsp;⋅⋅⋅ >> &nbsp;  __[https://tool.domestic-beethoven.eu](https://tool.domestic-beethoven.eu){:target="_blank"}__
 
-<sup>_Note that a personal Solid pod — available free from_ <span style="text-decoration: underline;">[SolidCommunity](https://solidcommunity.net/){:target="_blank"}</span> _— is required for use._</sup>
+<!-- <sup>_Note that a personal Solid pod — available free from_ <span style="text-decoration: underline;">[SolidCommunity](https://solidcommunity.net/){:target="_blank"}</span> _— is required for use._</sup> -->
 
 ### __Documentation__
 
