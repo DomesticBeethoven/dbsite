@@ -8,7 +8,7 @@ permalink: /people/
 ---
 
 <div style=
-    "color:#063d0c;
+    "color:#00b5713;
     font-weight:bold;
     font-size:125%;
     line-height:1.5" >
@@ -18,7 +18,7 @@ permalink: /people/
 
 <p style="line-height:1.0;" >
 <a href="https://www.beethoven.de/de/person/view/5702167830724608/Christin-Heitmann">Dr. Christin Heitmann</a><br/>
-<span style="color:#063d0c; font-weight:normal; font-size:80%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(October-November, 2020)</span>
+<span style="font-weight:normal; font-size:80%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(October-November, 2020)</span>
 </p>
 
 <p>
@@ -35,7 +35,7 @@ permalink: /people/
 
 <p style="line-height:1.0;">
 <a href="https://www.beethoven.de/de/person/view/5193685029355520/Lisa-Rosendahl">Lisa Rosendahl</a><br/>
-<span style="color:#063d0c; font-weight:normal; font-size:80%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Since April 2021)</span>
+<span style="font-weight:normal; font-size:80%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Since April 2021)</span>
 </p>
 
 <p>

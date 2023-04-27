@@ -6,7 +6,7 @@ layout: default
 title: Home
 weight: 1
 ---
-
+<p>
 <span
 style='font-size: 135%;
 font-style: italic;
@@ -14,9 +14,26 @@ font-weight: bold;
 line-height: 0.8'>
 Beethoven in the House
 </span>
-encompasses two novel and complementary studies into domestic music arrangements of the 19th Century, a digital research environment which will be co-developed alongside the studies, and the innovative application of digital musicology methods within this environment.
+encompasses two novel and complementary studies into domestic music arrangements of the 19th Century, a digital research environment which will be co-developed alongside the studies, and the innovative application of digital musicology methods within this environment.</p>
+---
+<br/>
+<section class="hero"   style='
+
+  font-weight: 500;
+  color: #1c3238;
+  margin-bottom: 0;'>
 
 
+<!-- <img src="" alt="image"> -->
+<div class="overlay"></div><!--/.overlay-->
+
+<h2>The Beethoven in the House <a href="./annotapp" style='font-weight: bold;'>Prototype App</a> for Annotating Music Arrangements</h2>
+<p>Description text</p>
+<br/>
+</section>
+
+---
+<br/>
 Performance of music in the home was the means by which most works were received before the advent of audio recordings and broadcasts, yet the notation sources that form our primary record of this culture have not been the subject of comprehensive or methodical study. Choices made by arrangers adapting music for domestic consumption-of instrumentation, abbreviation, or simplification-reflect the musical life of the 19th-century, and can inform our understanding alongside contemporary accounts such as newspapers, adverts, and diaries.
 
 

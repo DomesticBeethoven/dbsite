@@ -18,11 +18,10 @@ $text-color:       #111 !default;
 // $background-color: #f8f8f8 !default;
 $background-color: #ffffff !default;
 
-
-//$brand-color:      #2a7ae2 !default;
-//$brand-color:      #063d0c !default; 0d7819
-$brand-color:      #063d0c !default;
-//$brand-color:      #0d7819 !default;
+//previous $brand-color:      #063d0c !default;
+$brand-color:      #0b5713 !default;
+//alternate $brand-color:      #0d7819 !default;
+//alternate $brand-color:      #2a7ae2 !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;

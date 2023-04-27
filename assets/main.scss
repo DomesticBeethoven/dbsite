@@ -34,8 +34,7 @@
 
   &,
   &:visited {
-    color: #063d0c;
-//      color: red;
+    color: #0b5713;
   }
 }
 
@@ -67,12 +66,18 @@
 /**
  * Links
  */
+
+/**
+* old Color
+// color: #063d0c
+*/
+
 a {
-  color: #063d0c;
+  color: #0b5713;
   text-decoration: none;
 
   &:visited {
-    color: #063d0c;
+    color: #0b5713;
   }
 
   &:hover {

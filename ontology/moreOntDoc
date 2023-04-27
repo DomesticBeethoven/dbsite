@@ -1,0 +1,39 @@
+Open Biological and Biomedical Ontology Foundry
+Community development of interoperable ontologies for the biological sciences
+
+
+http://obofoundry.org/principles/fp-009-users.html
+
+
+
+
+usages:
+- user: http://www.informatics.jax.org/disease (link to group)
+  description: MGI disease model annotations use DO (description of group)
+  examples:
+   - url: http://www.informatics.jax.org/disease/DOID:4123 (link to specific example)
+     description: Human genes and mouse homology associated with nail diseases (description of specific example)
+http://obofoundry.org/principles/fp-009-users.html
+
+
+The primary IRI for an OBO Library IRI MUST have the following format: https://purl.obolibrary.org/obo/$namespace.owl
+
+Note: To conform with OBO Foundry Principle 2, the ontology IRI MUST resolve to the ontology file, not a landing page.
+
+Additionally, each ontology SHOULD have an owl:versionInfo statement. When this is stated, it MUST correspond to the version Info.
+
+For a given version of an ontology, the ontology should be accessible at the following URL, where ‘idspace’ is replaced by the IDSPACE in lower case:
+OWL: http://purl.obolibrary.org/obo/idspace/YYYY-MM-DD/idspace.owl
+
+
+Maintenance Control Lists
+
+An access control list is a list of registered users, groups, or both, that is associated with one and only one PURL, domain, or partial redirect.
+Access control lists ARE ATTRIBUTES of a PURL, domain, or partial redirect.
+Maintenance control lists
+are created for PURLs, domains, and partial redirects
+allow their members to edit the PURL's, domain's, or partial redirect's other access control lists
+members are called maintainers of the PURL, domain, or partial redirect
+
+
+https://www.nist.gov/system/files/documents/2021/10/14/nist-ai-rfi-cubrc_inc_002.pdf
