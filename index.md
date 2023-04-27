@@ -28,7 +28,7 @@ encompasses two novel and complementary studies into domestic music arrangements
 <div class="overlay"></div><!--/.overlay-->
 
 <h2>The Beethoven in the House <a href="./annotapp" style='font-weight: bold;'>Prototype App</a> for Annotating Music Arrangements</h2>
-<p>Description text</p>
+<!-- <p>Description text</p> -->
 <br/>
 </section>
 
