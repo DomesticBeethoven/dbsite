@@ -18,7 +18,7 @@ Try it yourself here &nbsp;⋅⋅⋅ >> &nbsp;  __[https://tool.domestic-beethov
 
 Documentation for the Beethoven in the House __[Music Annotation model](/assets/docs/BitHModelDocumentation_v0.2.1.pdf){:target="_blank"}__.
 
-Documentation for creating  __[Selective Encodings (doi: 10.5281/zenodo.7870625)](/https://doi.org/10.5281/zenodo.7870625){:target="_blank"}__, supporting an incremental approach to digitization and transcription so that researchers can transcribe only the music they need, rather than entire scores.
+Documentation for creating  __[Selective Encodings (doi: 10.5281/zenodo.7870625)](https://doi.org/10.5281/zenodo.7870625){:target="_blank"}__, supporting an incremental approach to digitization and transcription so that researchers can transcribe only the music they need, rather than entire scores.
 
 ### __Publications__
 
