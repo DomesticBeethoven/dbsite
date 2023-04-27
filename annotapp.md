@@ -20,7 +20,7 @@ __The Beethoven in the House Annotator App__ is a web-based application that pro
 This tool is a proof of concept for writing editorial annotations as Linked Open Data, bringing together the Oxford e-Research Centre's[Music Encoding and Linked Data (MELD)](https://meld.web.ox.ac.uk/){:target="_blank"} platform and the [Edirom Virtual Research Network (ViFE)](https://www.edirom.de/){:target="_blank"} at Paderborn University.
 
 
-Significantly for this project, by displaying arrangements side-by-side, the app facilitates the identification of parallel passages in different versions of the same work. What is of particular significance for this project, the [data model developed by the project](assets/docs/BitHModelDocumentation_v0.2.1.pdf){:target="_blank"} allows such parallel passages to be linked and annotated as two manifestations of the <i>same musical material</i>.
+Significantly for this project, by displaying arrangements side-by-side, the app facilitates the identification of parallel passages in different versions of the same work. [The data model developed by the project](assets/docs/BitHModelDocumentation_v0.2.1.pdf){:target="_blank"} allows such parallel passages to be linked and annotated as two manifestations of the <i>same musical material</i>.
 
 Once works are selected and loaded into the display pane, a musicologist can point and click on individual notes and measures, or click and drag to select larger regions, whether the resource is a facsimile image or a rendered score encoding.
 
