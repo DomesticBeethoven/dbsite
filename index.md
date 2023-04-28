@@ -16,7 +16,7 @@ Beethoven in the House
 </span>
 encompasses two novel and complementary studies into domestic music arrangements of the 19th Century, a digital research environment which will be co-developed alongside the studies, and the innovative application of digital musicology methods within this environment.</p>
 ---
-<br/>
+
 <section class="hero"   style='
 
   font-weight: 500;
@@ -26,10 +26,13 @@ encompasses two novel and complementary studies into domestic music arrangements
 
 <!-- <img src="" alt="image"> -->
 <div class="overlay"></div><!--/.overlay-->
-
-<h2>The Beethoven in the House <a href="./annotapp" style='font-weight: bold;'>Prototype App</a> for Annotating Music Arrangements</h2>
+<div style="background-color:#fafffa;" >
+<br/>
+<h2 style="padding-top: 25px;padding-left: 50px;padding-bottom: 20px;padding-right:30px;">Try the Beethoven in the House <a href="https://tool.domestic-beethoven.eu" style='font-weight: bold;'>Prototype App</a> for Annotating Music Arrangements</h2>
+<h3 align=center>More info under the <b><a href="./annotapp">prototype tab</a></b></h3>
 <!-- <p>Description text</p> -->
 <br/>
+</div>
 </section>
 
 ---
