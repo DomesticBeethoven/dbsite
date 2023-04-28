@@ -67,15 +67,13 @@
  * Links
  */
 
-/** 04520d
+/**
 * old Color
 // color: #063d0c
-
-color picker https://www.crispedge.com/color/e1ede1/
 */
 
 a {
-  color: #04520d;
+  color: #0b5713;
   text-decoration: none;
 
   &:visited {
@@ -162,5 +160,5 @@ td {
   @include relative-font-size(1.0);
   margin-bottom: $spacing-unit / 2;
   font-family: "Cinzel", serif;
-  color: #414141;
+  color: dimgrey;
 }
