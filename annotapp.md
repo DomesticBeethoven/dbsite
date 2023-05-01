@@ -6,11 +6,14 @@ permalink: /annotapp/
 ---
 __The Beethoven in the House Annotator App__ is a web-based application that provides support for storing, sharing, and publishing musical commentary along with the exact fragments of the digital resources they reference.
 
-* __*To try the prototype yourself, go to   [https://tool.domestic-beethoven.eu](https://tool.domestic-beethoven.eu){:target="_blank"}*__
+* <b>To try out the prototype yourself, go to   <span style="text-decoration:underline;"><i>[https://tool.domestic-beethoven.eu](https://tool.domestic-beethoven.eu){:target="_blank"}</i></span></b>
 
- * Read more about the __[design and use of the app](./annotapp)__.
+ <!-- * Read more about the __[design and use of the app](./    )__. -->
 
-This tool is a proof of concept for writing editorial annotations as Linked Open Data, combining the Oxford e-Research Centre's [Music Encoding and Linked Data (MELD)](https://meld.web.ox.ac.uk/){:target="_blank"} platform with tools developed by the [Edirom Virtual Research Network (ViFE)](https://www.edirom.de/){:target="_blank"} at Paderborn University.
+This tool is a proof of concept for writing editorial annotations as Linked Data, combining the Oxford e-Research Centre's [Music Encoding and Linked Data (MELD)](https://meld.web.ox.ac.uk/){:target="_blank"} platform with tools developed by the [Edirom Virtual Research Network (ViFE)](https://www.edirom.de/){:target="_blank"} at Paderborn University.
+
+![Annotator Pane of Version 2.0](/assets/img/selectionMode.png){:width="65%" style="float: left; display:block;  padding-right: 1em;"}
+![Annotator Pane of Version 2.0](/assets/img/annotatorMode.png){:width="65%" style="float: left; display:block;  padding-right: 1em;"}
 
 By displaying arrangements side-by-side, the app facilitates the identification of parallel passages in different versions of the same work. [The data model developed by the project](assets/docs/BitHModelDocumentation_v0.2.1.pdf){:target="_blank"} allows such parallel passages to be linked and annotated as two manifestations of the <i>same musical material</i>.
 
