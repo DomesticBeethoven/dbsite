@@ -28,7 +28,7 @@ background-image: "./assets/img/ludwig.jpt"
 <div class="overlay"></div><!--/.overlay-->
 <div style="background-color:#fafffa;" >
 <br/>
-<h2 style="padding-top: 25px;padding-left: 50px;padding-bottom: 20px;padding-right:30px; text-align: center">&#8681;&nbsp;&nbsp;<i>Try out the </i>&nbsp;&nbsp;&#8681;<br/><a href="https://tool.domestic-beethoven.eu" style="font-weight: normal; decoration: underline; font-size: 1.5em;">Beethoven in the House <b>Prototype App</b></a><br/><i>for annotating music arrangements</i></h2>
+<h2 style="padding-top: 25px;padding-left: 50px;padding-bottom: 20px;padding-right:30px; text-align: center">&#8681;&nbsp;&nbsp;<i>Try out the </i>&nbsp;&nbsp;&#8681;<br/><a href="https://tool.domestic-beethoven.eu" target="_blank" style="font-weight: normal; decoration: underline; font-size: 1.5em;">Beethoven in the House <b>Prototype App</b></a><br/><i>for annotating music arrangements</i></h2>
 <!-- <p>Description text</p> -->
 <br/>
 </div>
