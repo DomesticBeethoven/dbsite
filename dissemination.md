@@ -33,7 +33,11 @@ Documentation for creating  __[Selective Encodings (doi: 10.5281/zenodo.7870625)
 
 ### __Presentations__
 
+"Klavier- und Kammermusik als Lied. Zur Praxis der Vertextung am Beispiel Ludwig van Beethovens." Christine Siegert. Following the Lieder. Formen Praktiken und Potenziale einer dynamischen Gattung (Lecture Series), Universität Bonn, Universität Siegen and Universität Marburg, May 2, 2023.
+
 "Kammermusikbearbeitungen als Geschäft: Beethovens Symphonien im Verlag C. F. Peters." Lisa Rosendahl. Geschäftsdaten als Quelle für die Musikwissenschaft. Repertoire- und Verlagsforschung mit der Musikverlagsdatenbank (mvdb), Leipzig, March 9-10, 2023.
+
+“Piano Sonatas as Chamber Works – The Beethoven Case.” Christine Siegert. Chamber Scenes: Musical Space, Medium, and Genre c. 1800, Ira F. Brilliant Center for Beethoven Studies, San José, February 16-18, 2023.
 
 “Beethoven in the House." Christine Siegert, Andrew Hankinson, Johannes Kepper, David Lewis, Kevin Page, Lisa Rosendahl, Mark Saccomano, and Elisabete Shibata. Jahrestagung der Gesellschaft für Musikforschung, “Nach der Norm: Musikwissenschaft im 21. Jahrhundert,” Berlin, September 28-October 1, 2022.
 
