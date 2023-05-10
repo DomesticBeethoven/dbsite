@@ -22,7 +22,7 @@ Documentation for creating  __[Selective Encodings (doi: 10.5281/zenodo.7870625)
 
 ### __Publications__
 
-Franz Gerhard Wegeler, "Die Klage". Das Adagio aus Beethovens Klaviersonate op. 2 Nr. 1 aus Bonner Sicht. Christine Siegert. Ed. Beate Angelika Kraus. Jahresgaben des Vereins Beethoven-Haus, 38, Bonn 2022.
+"Franz Gerhard Wegeler, _Die Klage_. Das Adagio aus Beethovens Klaviersonate op. 2 Nr. 1 aus Bonner Sicht." Christine Siegert. Ed. Beate Angelika Kraus. Jahresgaben des Vereins Beethoven-Haus, 38, Bonn 2022.
 
 ["A model for annotating musical versions and arrangements across multiple documents and media."](https://doi.org/10.1145/3543882.3543891){:target="_blank"} David Lewis, Elisabete Shibata, Mark Saccomano, Lisa Rosendahl, Johannes Kepper, Andrew Hankinson, Christine Siegert, and Kevin Page. 2022. _9th International Conference on Digital Libraries for Musicology_ (DLfM2022). Association for Computing Machinery, New York, 10–18. [doi:10.1145/3543882.3543891](https://doi.org/10.1145/3543882.3543891){:target="_blank"}
 
@@ -40,6 +40,8 @@ Franz Gerhard Wegeler, "Die Klage". Das Adagio aus Beethovens Klaviersonate op. 
 "Kammermusikbearbeitungen als Geschäft: Beethovens Symphonien im Verlag C. F. Peters." Lisa Rosendahl. Geschäftsdaten als Quelle für die Musikwissenschaft. Repertoire- und Verlagsforschung mit der Musikverlagsdatenbank (mvdb), Leipzig, March 9-10, 2023.
 
 “Piano Sonatas as Chamber Works – The Beethoven Case.” Christine Siegert. Chamber Scenes: Musical Space, Medium, and Genre c. 1800 (Conference), Ira F. Brillian Center for Beethoven Studies, San José State University, February 16-18, 2023.
+
+"Vom Wandel der Werke: Bearbeitungen von Beethovens Klaviersonaten im 19. Jahrhundert." Christine Siegert. Beethoven Piano Club, Bonn, Januar 30, 2023.
 
 “Beethoven in the House." Christine Siegert, Andrew Hankinson, Johannes Kepper, David Lewis, Kevin Page, Lisa Rosendahl, Mark Saccomano, and Elisabete Shibata. Jahrestagung der Gesellschaft für Musikforschung, “Nach der Norm: Musikwissenschaft im 21. Jahrhundert,” Berlin, September 28-October 1, 2022.
 
