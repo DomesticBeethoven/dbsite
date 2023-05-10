@@ -41,7 +41,7 @@ Documentation for creating  __[Selective Encodings (doi: 10.5281/zenodo.7870625)
 
 “Piano Sonatas as Chamber Works – The Beethoven Case.” Christine Siegert. Chamber Scenes: Musical Space, Medium, and Genre c. 1800 (Conference), Ira F. Brillian Center for Beethoven Studies, San José State University, February 16-18, 2023.
 
-"Vom Wandel der Werke: Bearbeitungen von Beethovens Klaviersonaten im 19. Jahrhundert." Christine Siegert. Beethoven Piano Club, Bonn, Januar 30, 2023.
+"Vom Wandel der Werke: Bearbeitungen von Beethovens Klaviersonaten im 19. Jahrhundert." Christine Siegert. Beethoven Piano Club, Bonn, January 30, 2023.
 
 “Beethoven in the House." Christine Siegert, Andrew Hankinson, Johannes Kepper, David Lewis, Kevin Page, Lisa Rosendahl, Mark Saccomano, and Elisabete Shibata. Jahrestagung der Gesellschaft für Musikforschung, “Nach der Norm: Musikwissenschaft im 21. Jahrhundert,” Berlin, September 28-October 1, 2022.
 
