@@ -7,7 +7,7 @@
 @prefix skos:    <https://www.w3.org/2009/08/skos-reference/skos#> .
 @prefix oa:      <http://www.w3.org/ns/oa#> .
 @prefix frbr:    <http://purl.org/vocab/frbr/core#> .
-@prefix mAnnot:  <https://raw.githubusercontent.com/DomesticBeethoven/dbsite/gh-pages/ontology/music-annotation-ontology.ttl> .
+@prefix mAnnot:  <> .
 
 
 mAnnot:MusicalIdea a rdfs:Class ;
