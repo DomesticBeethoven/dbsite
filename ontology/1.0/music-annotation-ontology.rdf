@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:event="http://purl.org/NET/c4dm/event.owl#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:frbr="http://purl.org/vocab/frbr/core#" xmlns:mAnnot="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttl" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="https://www.w3.org/2009/08/skos-reference/skos#">
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlMusicalIdea">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlMusicalIdea">
+    <rdfs:subClassOf rdf:resource="http://purl.org/vocab/frbr/core#Work"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlMusicalIdea">
+    <rdfs:label>MusicalIdea</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlMusicalIdea">
+    <rdfs:comment>Analogous to frbr:work, but on a local level, as an element of a larger piece. An abstract entity that refers to the musical thought behind a musical structure, especially a recurring one.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlMusicalMaterial">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlMusicalMaterial">
+    <rdfs:subClassOf rdf:resource="http://purl.org/vocab/frbr/core#Expression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlMusicalMaterial">
+    <rdfs:label>MusicalMaterial</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlMusicalMaterial">
+    <rdfs:comment>The musical concept behind a musical Extract, independent of its various expressions in different arrangements or recordings (or, in a variation set, within a single variation). The realization of a MusicalIdea.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlExtract">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlExtract">
+    <rdfs:subClassOf rdf:resource="http://purl.org/vocab/frbr/core#Expression"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlExtract">
+    <rdfs:label>Extract</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlExtract">
+    <rdfs:comment>A portion of music, independent of its manifestation in a particular edition, or its realization in any individual performance or media format.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlSelection">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlSelection">
+    <rdfs:subClassOf rdf:resource="http://purl.org/vocab/frbr/core#Manifestation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlSelection">
+    <rdfs:label>Selection</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlSelection">
+    <rdfs:comment>A collection of UUIDs that comprise a single musical object, at any level, within a single resource.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlsetting">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlsetting">
+    <rdfs:domain rdf:resource="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlMusicalMaterial"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlsetting">
+    <rdfs:range rdf:resource="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlExtract"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlsetting">
+    <rdfs:comment>A setting of MusicalMaterial in an Extract. </rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlsettingOf">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlsettingOf">
+    <rdfs:domain rdf:resource="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlExtract"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlsettingOf">
+    <rdfs:range rdf:resource="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlMusicalMaterial"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlsettingOf">
+    <rdfs:comment>The MusicalMaterial that this Extract is a setting of. Inverse of setting.</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlabsenceSelection">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlabsenceSelection">
+    <rdfs:subClassOf rdf:resource="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlSelection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlabsenceSelection">
+    <rdfs:comment>A point marker that combines with an AbsenceQualification value (e.g., 'before') to indicate the location of an addition or abridgment relative to another version of the same work</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlabsenceQualifier">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlabsenceQualifier">
+    <rdfs:domain rdf:resource="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlabsenceSelection"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlabsenceQualifier">
+    <rdfs:range rdf:resource="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlAbsenceQualification"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlabsenceQualification">
+    <rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlabsenceQualification">
+    <rdfs:domain rdf:resource="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlabsenceQualifier"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlobserving">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#motivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlobserving">
+    <skos:broader rdf:resource="http://www.w3.org/ns/oa#describing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlobserving">
+    <skos:prefLabel>observing</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlobserving">
+    <rdfs:label>observing</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlobserving">
+    <rdfs:comment>A type of annotation making an observation (rather than a comment), often for purposes of comparison</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlcomparing">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#motivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlcomparing">
+    <skos:broader rdf:resource="http://www.w3.org/ns/oa#describing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlcomparing">
+    <skos:prefLabel>comparing</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlcomparing">
+    <rdfs:label>comparing</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlcomparing">
+    <rdfs:comment>A type of annotation that makes a comparison of two or more versions or Extracts, often for purposes of scholarly commentary</rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlcommenting">
+    <rdf:type rdf:resource="http://www.w3.org/ns/oa#motivation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlcommenting">
+    <skos:prefLabel>commenting</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlcommenting">
+    <rdfs:label>commenting</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlcommenting">
+    <rdfs:comment>A type of annotation that makes a comment on musical structure or another annotation, often used to enrich Observation descriptions with historical background and analytical reflections informed by academic research. Includes pointers to external sources and references</rdfs:comment>
+  </rdf:Description>
+</rdf:RDF>

@@ -11,35 +11,35 @@
 
 
 mAnnot:MusicalIdea a rdfs:Class ;
-   rdfs:subClassOf frbr:Work ;
-   rdfs:label "MusicalIdea" ;
-   rdfs:comment "Analogous to frbr:work, but on a local level, as an element of a larger piece. An abstract entity that refers to the musical thought behind a musical structure, especially a recurring one." .
+  rdfs:subClassOf frbr:Work ;
+  rdfs:label "MusicalIdea" ;
+  rdfs:comment "Analogous to frbr:work, but on a local level, as an element of a larger piece. An abstract entity that refers to the musical thought behind a musical structure, especially a recurring one." .
 
 mAnnot:MusicalMaterial a rdfs:Class ;
-   rdfs:subClassOf frbr:Expression ;
-   rdfs:label "MusicalMaterial" ;
- 	 rdfs:comment "The musical concept behind a musical Extract, independent of its various expressions in different arrangements or recordings (or, in a variation set, within a single variation). The realization of a MusicalIdea." .
+  rdfs:subClassOf frbr:Expression ;
+  rdfs:label "MusicalMaterial" ;
+ 	rdfs:comment "The musical concept behind a musical Extract, independent of its various expressions in different arrangements or recordings (or, in a variation set, within a single variation). The realization of a MusicalIdea." .
 
 mAnnot:Extract a rdfs:Class ;
-   rdfs:subClassOf frbr:Expression ;
-   rdfs:label "Extract" ;
- 	 rdfs:comment "A portion of music, independent of its manifestation in a particular edition, or its realization in any individual performance or media format." .
-
+  rdfs:subClassOf frbr:Expression ;
+  rdfs:label "Extract" ;
+ 	rdfs:comment "A portion of music, independent of its manifestation in a particular edition, or its realization in any individual performance or media format." .
+   
 mAnnot:Selection a rdfs:Class ;
-   rdfs:subClassOf frbr:Manifestation ;
-   rdfs:label "Selection" ;
- 	 rdfs:comment "A collection of UUIDs that comprise a single musical object, at any level, within a single resource." .
+  rdfs:subClassOf frbr:Manifestation ;
+  rdfs:label "Selection" ;
+ 	rdfs:comment "A collection of UUIDs that comprise a single musical object, at any level, within a single resource." .
 
- mAnnot:setting a rdf:Property ;
-   rdfs:domain mAnnot:Extract ;
-   rdfs:range mAnnot:Selection ;
-   rdfs:comment "A setting of an Extract. The relationship that holds between an Extract and the individual Selections that comprise it. Similar to frbr:manifestation, but designed especially for this extended FRBR class. ".
+mAnnot:setting a rdf:Property ;
+  rdfs:domain mAnnot:MusicalMaterial ;
+  rdfs:range mAnnot:Extract ;
+  rdfs:comment "A setting of MusicalMaterial in an Extract. " .
 
 mAnnot:settingOf a rdf:Property ;
-   rdfs:domain mAnnot:Selection ;
-   rdfs:range mAnnot:Extract ;
-   rdfs:comment "The Extract that the Selection is a setting of. Similar to frbr:manifestationOf, but designed especially for this extended FRBR class.".
-
+  rdfs:domain mAnnot:Extract ;
+  rdfs:range mAnnot:MusicalMaterial ;
+  rdfs:comment "The MusicalMaterial that this Extract is a setting of. Inverse of setting." .
+  
 mAnnot:absenceSelection a rdfs:Class ;
   rdfs:subClassOf mAnnot:Selection ;
   rdfs:comment "A point marker that combines with an AbsenceQualification value (e.g., 'before') to indicate the location of an addition or abridgment relative to another version of the same work" .
