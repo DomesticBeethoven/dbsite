@@ -6,7 +6,6 @@ layout: default
 title: Home
 weight: 1
 ---
-<p>
 <span
 style='font-size: 135%;
 font-style: italic;
@@ -14,8 +13,10 @@ font-weight: bold;
 line-height: 0.8'>
 Beethoven in the House
 </span>
-encompasses two novel and complementary studies into domestic music arrangements of the 19th Century, a digital research environment which will be co-developed alongside the studies, and the innovative application of digital musicology methods within this environment.</p>
+encompasses two novel and complementary studies into domestic music arrangements of the 19th Century, a __[digital research environment](annotapp/)__ which will be co-developed alongside the studies, and the innovative application of digital musicology methods within this environment.
+
 ---
+
 <section class="hero" style='
 background-image: "./assets/img/ludwig.jpt"
   font-weight: 500;
@@ -24,17 +25,16 @@ background-image: "./assets/img/ludwig.jpt"
   margin-bottom: 0;'>
 
 
-<!-- <img src="" alt="image"> -->
-<div class="overlay"></div><!--/.overlay-->
+
+<div class="overlay"></div> <!--/.overlay-->
+<!--
 <div style="background-color:#fafffa;" >
 <br/>
 <h2 style="padding-top: 25px;padding-left: 50px;padding-bottom: 20px;padding-right:30px; text-align: center">&#8681;&nbsp;&nbsp;<i>Try out the </i>&nbsp;&nbsp;&#8681;<br/><a href="https://tool.domestic-beethoven.eu" target="_blank" style="font-weight: normal; decoration: underline; font-size: 1.5em;">Beethoven in the House <b>Prototype App</b></a><br/><i>for annotating music arrangements</i></h2>
-<!-- <p>Description text</p> -->
 <br/>
 </div>
 </section>
-
----
+-->
 <br/>
 Performance of music in the home was the means by which most works were received before the advent of audio recordings and broadcasts, yet the notation sources that form our primary record of this culture have not been the subject of comprehensive or methodical study. Choices made by arrangers adapting music for domestic consumption-of instrumentation, abbreviation, or simplification-reflect the musical life of the 19th-century, and can inform our understanding alongside contemporary accounts such as newspapers, adverts, and diaries.
 
