@@ -37,6 +37,8 @@ Documentation for creating  __[Selective Encodings (doi: 10.5281/zenodo.7870625)
 
 ### __Presentations__
 
+["Selective Encoding: Reducing the Burden of Transcription for Digital Musicologists."](https://teimec2023.uni-paderborn.de/contributions/137.html){:target="_blank"} Mark Saccomano, Lisa Rosendahl, David Lewis, Andrew Hankinson, Johannes Kepper, Kevin Page, Elisabete Shibata. Encoding Cultures: Joint MEC and TEI Conference 2023, Paderborn, Germany, September 4-8, 2023.
+
 "Klavier- und Kammermusik als Lied. Zur Praxis der Vertextung am Beispiel Ludwig van Beethovens." Christine Siegert. Following the Lieder. Formen Praktiken und Potenziale einer dynamischen Gattung (Lecture Series), Universität Bonn, Universität Siegen and Universität Marburg, May 2, 2023.
 
 "Kammermusikbearbeitungen als Geschäft: Beethovens Symphonien im Verlag C. F. Peters." Lisa Rosendahl. Geschäftsdaten als Quelle für die Musikwissenschaft. Repertoire- und Verlagsforschung mit der Musikverlagsdatenbank (mvdb), Leipzig, March 9-10, 2023.
