@@ -22,6 +22,10 @@ Documentation for creating  __[Selective Encodings (doi: 10.5281/zenodo.7870625)
 
 ### __Publications__
 
+["Supporting musicological investigations with information retrieval tools: an iterative approach to data collection."](https://archives.ismir.net/ismir2023/paper/000094.pdf) 
+David Lewis, Elisabete Shibata, Andrew Hankinson, Johannes Kepper, Kevin R. Page, Lisa Rosendahl, Mark Saccomano, Christine Siegert, 
+Proceedings of the 24th International Society for Music Information Retrieval Conference, Milan, 2023.
+
 "A New Conceptual Model for Musical Sources and Musicological Studies." Elisabete Shibata, David Lewis, Mark Saccomano, Andrew Hankinson, Johannes Kepper, and Kevin Page. 2023. Music Encoding Conference Proceedings 2022, pp.145-150, 2023. [doi:10.17613/8p2c-1q77](https://doi.org/10.17613/8p2c-1q77){:target="_blank"}
 
 "Franz Gerhard Wegeler, _Die Klage_. Das Adagio aus Beethovens Klaviersonate op. 2 Nr. 1 aus Bonner Sicht." Christine Siegert. Ed. Beate Angelika Kraus. Jahresgaben des Vereins Beethoven-Haus, 38, Bonn 2022.
