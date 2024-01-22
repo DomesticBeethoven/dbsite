@@ -22,18 +22,18 @@ Documentation for creating  __[Selective Encodings (doi: 10.5281/zenodo.7870625)
 
 ### __Publications__
 
-["Supporting musicological investigations with information retrieval tools: an iterative approach to data collection."](https://archives.ismir.net/ismir2023/paper/000094.pdf) 
-David Lewis, Elisabete Shibata, Andrew Hankinson, Johannes Kepper, Kevin R. Page, Lisa Rosendahl, Mark Saccomano, Christine Siegert, 
+["Supporting musicological investigations with information retrieval tools: an iterative approach to data collection."](https://archives.ismir.net/ismir2023/paper/000094.pdf){:target="_blank"}
+David Lewis, Elisabete Shibata, Andrew Hankinson, Johannes Kepper, Kevin R. Page, Lisa Rosendahl, Mark Saccomano, Christine Siegert,
 Proceedings of the 24th International Society for Music Information Retrieval Conference, Milan, 2023.
 
-"A New Conceptual Model for Musical Sources and Musicological Studies." Elisabete Shibata, David Lewis, Mark Saccomano, Andrew Hankinson, Johannes Kepper, and Kevin Page. 2023. Music Encoding Conference Proceedings 2022, pp.145-150, 2023. [doi:10.17613/8p2c-1q77](https://doi.org/10.17613/8p2c-1q77){:target="_blank"}
+["A New Conceptual Model for Musical Sources and Musicological Studies."](https://doi.org/10.17613/8p2c-1q77){:target="_blank"} Elisabete Shibata, David Lewis, Mark Saccomano, Andrew Hankinson, Johannes Kepper, and Kevin Page. 2023. Music Encoding Conference Proceedings 2022, pp.145-150, 2023. [doi:10.17613/8p2c-1q77](https://doi.org/10.17613/8p2c-1q77){:target="_blank"}
 
 "Franz Gerhard Wegeler, _Die Klage_. Das Adagio aus Beethovens Klaviersonate op. 2 Nr. 1 aus Bonner Sicht." Christine Siegert. Ed. Beate Angelika Kraus. Jahresgaben des Vereins Beethoven-Haus, 38, Bonn 2022.
 
 ["A model for annotating musical versions and arrangements across multiple documents and media."](https://doi.org/10.1145/3543882.3543891){:target="_blank"} David Lewis, Elisabete Shibata, Mark Saccomano, Lisa Rosendahl, Johannes Kepper, Andrew Hankinson, Christine Siegert, and Kevin Page. 2022. _9th International Conference on Digital Libraries for Musicology_ (DLfM2022). Association for Computing Machinery, New York, 10–18. [doi:10.1145/3543882.3543891](https://doi.org/10.1145/3543882.3543891){:target="_blank"}
 
-"Beethoven in the House: Digital Studies of Domestic Music Arrangements." Kevin R. Page, Johannes Kepper, Christine Siegert, Andrew Hankinson, and David Lewis. Music Encoding Conference Proceedings 2021, pp.117-123, 2022. [doi:10.17613/389b-xx73](https://doi.org/10.17613/389b-xx73){:target="_blank"}
-
+["Beethoven in the House: Digital Studies of Domestic Music Arrangements."](https://doi.org/10.17613/389b-xx73){:target="_blank"} Kevin R. Page, Johannes Kepper, Christine Siegert, Andrew Hankinson, and David Lewis. Music Encoding Conference Proceedings 2021, pp.117-123, 2022. [doi:10.17613/389b-xx73](https://doi.org/10.17613/389b-xx73){:target="_blank"}
+]
 
 
 
