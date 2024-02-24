@@ -8,9 +8,8 @@ vimeoId: 780308332
 
 ### __Prototype__
 
-See the annotation tool in action &nbsp;⋅⋅⋅ >> &nbsp; __[Prototype screencast](https://vimeo.com/780308332){:target="_blank"}__
-
-Try it yourself here &nbsp;⋅⋅⋅ >> &nbsp;  __[https://tool.domestic-beethoven.eu](https://tool.domestic-beethoven.eu){:target="_blank"}__
+See the annotation tool in action &nbsp;⋅⋅⋅ >> &nbsp; __[Prototype screencast](https://vimeo.com/780308332){:target="_blank"}__\\
+Try it yourself here &nbsp;⋅⋅⋅ >> &nbsp;  __[tool.domestic-beethoven.eu](https://tool.domestic-beethoven.eu){:target="_blank"}__
 
 <!-- <sup>_Note that a personal Solid pod — available free from_ <span style="text-decoration: underline;">[SolidCommunity](https://solidcommunity.net/){:target="_blank"}</span> _— is required for use._</sup> -->
 
@@ -18,7 +17,7 @@ Try it yourself here &nbsp;⋅⋅⋅ >> &nbsp;  __[https://tool.domestic-beethov
 
 Documentation for the Beethoven in the House __[Music Annotation model](/assets/docs/BitHModelDocumentation_v0.2.1.pdf){:target="_blank"}__.
 
-Documentation for creating  __[Selective Encodings (doi: 10.5281/zenodo.7870625)](https://doi.org/10.5281/zenodo.7870625){:target="_blank"}__, supporting an incremental approach to digitization and transcription so that researchers can transcribe only the music they need, rather than entire scores.
+Documentation for creating  __[Selective Encodings](https://doi.org/10.5281/zenodo.7870625){:target="_blank"}__ (doi: 10.5281/zenodo.7870625), supporting an incremental approach to digitization and transcription so that researchers can transcribe only the music they need, rather than entire scores.
 
 ### __Publications__
 
