@@ -1,46 +1,46 @@
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlMusicalIdea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlMusicalIdea> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://purl.org/vocab/frbr/core#Work> .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlMusicalIdea> <http://www.w3.org/2000/01/rdf-schema#label> "MusicalIdea" .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlMusicalIdea> <http://www.w3.org/2000/01/rdf-schema#comment> "Analogous to frbr:work, but on a local level, as an element of a larger piece. An abstract entity that refers to the musical thought behind a musical structure, especially a recurring one." .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlMusicalMaterial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlMusicalMaterial> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://purl.org/vocab/frbr/core#Expression> .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlMusicalMaterial> <http://www.w3.org/2000/01/rdf-schema#label> "MusicalMaterial" .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlMusicalMaterial> <http://www.w3.org/2000/01/rdf-schema#comment> "The musical concept behind a musical Extract, independent of its various expressions in different arrangements or recordings (or, in a variation set, within a single variation). The realization of a MusicalIdea." .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlExtract> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlExtract> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://purl.org/vocab/frbr/core#Expression> .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlExtract> <http://www.w3.org/2000/01/rdf-schema#label> "Extract" .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlExtract> <http://www.w3.org/2000/01/rdf-schema#comment> "A portion of music, independent of its manifestation in a particular edition, or its realization in any individual performance or media format." .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlSelection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlSelection> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://purl.org/vocab/frbr/core#Manifestation> .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlSelection> <http://www.w3.org/2000/01/rdf-schema#label> "Selection" .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlSelection> <http://www.w3.org/2000/01/rdf-schema#comment> "A collection of UUIDs that comprise a single musical object, at any level, within a single resource." .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlsetting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlsetting> <http://www.w3.org/2000/01/rdf-schema#domain> <file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlMusicalMaterial> .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlsetting> <http://www.w3.org/2000/01/rdf-schema#range> <file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlExtract> .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlsetting> <http://www.w3.org/2000/01/rdf-schema#comment> "A setting of MusicalMaterial in an Extract. " .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlsettingOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlsettingOf> <http://www.w3.org/2000/01/rdf-schema#domain> <file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlExtract> .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlsettingOf> <http://www.w3.org/2000/01/rdf-schema#range> <file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlMusicalMaterial> .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlsettingOf> <http://www.w3.org/2000/01/rdf-schema#comment> "The MusicalMaterial that this Extract is a setting of. Inverse of setting." .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlabsenceSelection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlabsenceSelection> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlSelection> .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlabsenceSelection> <http://www.w3.org/2000/01/rdf-schema#comment> "A point marker that combines with an AbsenceQualification value (e.g., 'before') to indicate the location of an addition or abridgment relative to another version of the same work" .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlabsenceQualifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlabsenceQualifier> <http://www.w3.org/2000/01/rdf-schema#domain> <file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlabsenceSelection> .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlabsenceQualifier> <http://www.w3.org/2000/01/rdf-schema#range> <file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlAbsenceQualification> .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlabsenceQualification> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlabsenceQualification> <http://www.w3.org/2000/01/rdf-schema#domain> <file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlabsenceQualifier> .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlobserving> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/oa#motivation> .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlobserving> <https://www.w3.org/2009/08/skos-reference/skos#broader> <http://www.w3.org/ns/oa#describing> .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlobserving> <https://www.w3.org/2009/08/skos-reference/skos#prefLabel> "observing" .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlobserving> <http://www.w3.org/2000/01/rdf-schema#label> "observing" .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlobserving> <http://www.w3.org/2000/01/rdf-schema#comment> "A type of annotation making an observation (rather than a comment), often for purposes of comparison" .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlcomparing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/oa#motivation> .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlcomparing> <https://www.w3.org/2009/08/skos-reference/skos#broader> <http://www.w3.org/ns/oa#describing> .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlcomparing> <https://www.w3.org/2009/08/skos-reference/skos#prefLabel> "comparing" .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlcomparing> <http://www.w3.org/2000/01/rdf-schema#label> "comparing" .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlcomparing> <http://www.w3.org/2000/01/rdf-schema#comment> "A type of annotation that makes a comparison of two or more versions or Extracts, often for purposes of scholarly commentary" .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlcommenting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/oa#motivation> .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlcommenting> <https://www.w3.org/2009/08/skos-reference/skos#prefLabel> "commenting" .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlcommenting> <http://www.w3.org/2000/01/rdf-schema#label> "commenting" .
-<file:///Users/davidlewis/Development/dbsite/ontology/1.0/music-annotation-ontology.ttlcommenting> <http://www.w3.org/2000/01/rdf-schema#comment> "A type of annotation that makes a comment on musical structure or another annotation, often used to enrich Observation descriptions with historical background and analytical reflections informed by academic research. Includes pointers to external sources and references" .
+<https://w3id.org/music-annotation/1.0#MusicalIdea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<https://w3id.org/music-annotation/1.0#MusicalIdea> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://purl.org/vocab/frbr/core#Work> .
+<https://w3id.org/music-annotation/1.0#MusicalIdea> <http://www.w3.org/2000/01/rdf-schema#label> "MusicalIdea" .
+<https://w3id.org/music-annotation/1.0#MusicalIdea> <http://www.w3.org/2000/01/rdf-schema#comment> "Analogous to frbr:work, but on a local level, as an element of a larger piece. An abstract entity that refers to the musical thought behind a musical structure, especially a recurring one." .
+<https://w3id.org/music-annotation/1.0#MusicalMaterial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<https://w3id.org/music-annotation/1.0#MusicalMaterial> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://purl.org/vocab/frbr/core#Expression> .
+<https://w3id.org/music-annotation/1.0#MusicalMaterial> <http://www.w3.org/2000/01/rdf-schema#label> "MusicalMaterial" .
+<https://w3id.org/music-annotation/1.0#MusicalMaterial> <http://www.w3.org/2000/01/rdf-schema#comment> "The musical concept behind a musical Extract, independent of its various expressions in different arrangements or recordings (or, in a variation set, within a single variation). The realization of a MusicalIdea." .
+<https://w3id.org/music-annotation/1.0#Extract> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<https://w3id.org/music-annotation/1.0#Extract> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://purl.org/vocab/frbr/core#Expression> .
+<https://w3id.org/music-annotation/1.0#Extract> <http://www.w3.org/2000/01/rdf-schema#label> "Extract" .
+<https://w3id.org/music-annotation/1.0#Extract> <http://www.w3.org/2000/01/rdf-schema#comment> "A portion of music, independent of its manifestation in a particular edition, or its realization in any individual performance or media format." .
+<https://w3id.org/music-annotation/1.0#Selection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<https://w3id.org/music-annotation/1.0#Selection> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <http://purl.org/vocab/frbr/core#Manifestation> .
+<https://w3id.org/music-annotation/1.0#Selection> <http://www.w3.org/2000/01/rdf-schema#label> "Selection" .
+<https://w3id.org/music-annotation/1.0#Selection> <http://www.w3.org/2000/01/rdf-schema#comment> "A collection of UUIDs that comprise a single musical object, at any level, within a single resource." .
+<https://w3id.org/music-annotation/1.0#setting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/music-annotation/1.0#setting> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/music-annotation/1.0#MusicalMaterial> .
+<https://w3id.org/music-annotation/1.0#setting> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/music-annotation/1.0#Extract> .
+<https://w3id.org/music-annotation/1.0#setting> <http://www.w3.org/2000/01/rdf-schema#comment> "A setting of MusicalMaterial in an Extract. " .
+<https://w3id.org/music-annotation/1.0#settingOf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/music-annotation/1.0#settingOf> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/music-annotation/1.0#Extract> .
+<https://w3id.org/music-annotation/1.0#settingOf> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/music-annotation/1.0#MusicalMaterial> .
+<https://w3id.org/music-annotation/1.0#settingOf> <http://www.w3.org/2000/01/rdf-schema#comment> "The MusicalMaterial that this Extract is a setting of. Inverse of setting." .
+<https://w3id.org/music-annotation/1.0#absenceSelection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<https://w3id.org/music-annotation/1.0#absenceSelection> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/music-annotation/1.0#Selection> .
+<https://w3id.org/music-annotation/1.0#absenceSelection> <http://www.w3.org/2000/01/rdf-schema#comment> "A point marker that combines with an AbsenceQualification value (e.g., 'before') to indicate the location of an addition or abridgment relative to another version of the same work" .
+<https://w3id.org/music-annotation/1.0#absenceQualifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/music-annotation/1.0#absenceQualifier> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/music-annotation/1.0#absenceSelection> .
+<https://w3id.org/music-annotation/1.0#absenceQualifier> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/music-annotation/1.0#AbsenceQualification> .
+<https://w3id.org/music-annotation/1.0#absenceQualification> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> .
+<https://w3id.org/music-annotation/1.0#absenceQualification> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/music-annotation/1.0#absenceQualifier> .
+<https://w3id.org/music-annotation/1.0#observing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/oa#motivation> .
+<https://w3id.org/music-annotation/1.0#observing> <https://www.w3.org/2009/08/skos-reference/skos#broader> <http://www.w3.org/ns/oa#describing> .
+<https://w3id.org/music-annotation/1.0#observing> <https://www.w3.org/2009/08/skos-reference/skos#prefLabel> "observing" .
+<https://w3id.org/music-annotation/1.0#observing> <http://www.w3.org/2000/01/rdf-schema#label> "observing" .
+<https://w3id.org/music-annotation/1.0#observing> <http://www.w3.org/2000/01/rdf-schema#comment> "A type of annotation making an observation (rather than a comment), often for purposes of comparison" .
+<https://w3id.org/music-annotation/1.0#comparing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/oa#motivation> .
+<https://w3id.org/music-annotation/1.0#comparing> <https://www.w3.org/2009/08/skos-reference/skos#broader> <http://www.w3.org/ns/oa#describing> .
+<https://w3id.org/music-annotation/1.0#comparing> <https://www.w3.org/2009/08/skos-reference/skos#prefLabel> "comparing" .
+<https://w3id.org/music-annotation/1.0#comparing> <http://www.w3.org/2000/01/rdf-schema#label> "comparing" .
+<https://w3id.org/music-annotation/1.0#comparing> <http://www.w3.org/2000/01/rdf-schema#comment> "A type of annotation that makes a comparison of two or more versions or Extracts, often for purposes of scholarly commentary" .
+<https://w3id.org/music-annotation/1.0#commenting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/oa#motivation> .
+<https://w3id.org/music-annotation/1.0#commenting> <https://www.w3.org/2009/08/skos-reference/skos#prefLabel> "commenting" .
+<https://w3id.org/music-annotation/1.0#commenting> <http://www.w3.org/2000/01/rdf-schema#label> "commenting" .
+<https://w3id.org/music-annotation/1.0#commenting> <http://www.w3.org/2000/01/rdf-schema#comment> "A type of annotation that makes a comment on musical structure or another annotation, often used to enrich Observation descriptions with historical background and analytical reflections informed by academic research. Includes pointers to external sources and references" .

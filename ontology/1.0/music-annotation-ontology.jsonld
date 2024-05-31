@@ -1,244 +1,126 @@
-[
-  {
-    "@id": "http://issemantic.net/observing",
-    "@type": [
-      "http://www.w3.org/ns/oa#motivation"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#comment": [
-      {
-        "@value": "A type of annotation making an observation (rather than a comment), often for purposes of comparison"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "observing"
-      }
-    ],
-    "https://www.w3.org/2009/08/skos-reference/skos#broader": [
-      {
-        "@id": "http://www.w3.org/ns/oa#describing"
-      }
-    ],
-    "https://www.w3.org/2009/08/skos-reference/skos#prefLabel": [
-      {
-        "@value": "observing"
-      }
-    ]
+{
+  "@context": {
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "event": "http://purl.org/NET/c4dm/event.owl#",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "skos": "https://www.w3.org/2009/08/skos-reference/skos#",
+    "oa": "http://www.w3.org/ns/oa#",
+    "frbr": "http://purl.org/vocab/frbr/core#",
+    "mAnnot": "https://w3id.org/music-annotation/1.0#"
   },
-  {
-    "@id": "http://issemantic.net/Extract",
-    "@type": [
-      "http://www.w3.org/2000/01/rdf-schema#Class"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#comment": [
-      {
-        "@value": "A portion of music, independent of its manifestation in a particular edition, or its realization in any individual performance or media format."
+  "@graph": [
+    {
+      "@id": "mAnnot:MusicalIdea",
+      "@type": "rdfs:Class",
+      "rdfs:subClassOf": {
+        "@id": "frbr:Work"
+      },
+      "rdfs:label": "MusicalIdea",
+      "rdfs:comment": "Analogous to frbr:work, but on a local level, as an element of a larger piece. An abstract entity that refers to the musical thought behind a musical structure, especially a recurring one."
+    },
+    {
+      "@id": "mAnnot:MusicalMaterial",
+      "@type": "rdfs:Class",
+      "rdfs:subClassOf": {
+        "@id": "frbr:Expression"
+      },
+      "rdfs:label": "MusicalMaterial",
+      "rdfs:comment": "The musical concept behind a musical Extract, independent of its various expressions in different arrangements or recordings (or, in a variation set, within a single variation). The realization of a MusicalIdea."
+    },
+    {
+      "@id": "mAnnot:Extract",
+      "@type": "rdfs:Class",
+      "rdfs:subClassOf": {
+        "@id": "frbr:Expression"
+      },
+      "rdfs:label": "Extract",
+      "rdfs:comment": "A portion of music, independent of its manifestation in a particular edition, or its realization in any individual performance or media format."
+    },
+    {
+      "@id": "mAnnot:Selection",
+      "@type": "rdfs:Class",
+      "rdfs:subClassOf": {
+        "@id": "frbr:Manifestation"
+      },
+      "rdfs:label": "Selection",
+      "rdfs:comment": "A collection of UUIDs that comprise a single musical object, at any level, within a single resource."
+    },
+    {
+      "@id": "mAnnot:setting",
+      "@type": "rdf:Property",
+      "rdfs:domain": {
+        "@id": "mAnnot:MusicalMaterial"
+      },
+      "rdfs:range": {
+        "@id": "mAnnot:Extract"
+      },
+      "rdfs:comment": "A setting of MusicalMaterial in an Extract. "
+    },
+    {
+      "@id": "mAnnot:settingOf",
+      "@type": "rdf:Property",
+      "rdfs:domain": {
+        "@id": "mAnnot:Extract"
+      },
+      "rdfs:range": {
+        "@id": "mAnnot:MusicalMaterial"
+      },
+      "rdfs:comment": "The MusicalMaterial that this Extract is a setting of. Inverse of setting."
+    },
+    {
+      "@id": "mAnnot:absenceSelection",
+      "@type": "rdfs:Class",
+      "rdfs:subClassOf": {
+        "@id": "mAnnot:Selection"
+      },
+      "rdfs:comment": "A point marker that combines with an AbsenceQualification value (e.g., 'before') to indicate the location of an addition or abridgment relative to another version of the same work"
+    },
+    {
+      "@id": "mAnnot:absenceQualifier",
+      "@type": "rdf:Property",
+      "rdfs:domain": {
+        "@id": "mAnnot:absenceSelection"
+      },
+      "rdfs:range": {
+        "@id": "mAnnot:AbsenceQualification"
       }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Extract"
+    },
+    {
+      "@id": "mAnnot:absenceQualification",
+      "@type": "rdfs:Class",
+      "rdfs:domain": {
+        "@id": "mAnnot:absenceQualifier"
       }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#subClassOf": [
-      {
-        "@id": "http://purl.org/vocab/frbr/core#Expression"
-      }
-    ]
-  },
-  {
-    "@id": "http://issemantic.net/absenceQualification",
-    "@type": [
-      "http://www.w3.org/2000/01/rdf-schema#Class"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#domain": [
-      {
-        "@id": "http://issemantic.net/absenceQualifier"
-      }
-    ]
-  },
-  {
-    "@id": "http://issemantic.net/Selection",
-    "@type": [
-      "http://www.w3.org/2000/01/rdf-schema#Class"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#comment": [
-      {
-        "@value": "A collection of UUIDs that comprise a single musical object, at any level, within a single resource."
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Selection"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#subClassOf": [
-      {
-        "@id": "http://purl.org/vocab/frbr/core#Manifestation"
-      }
-    ]
-  },
-  {
-    "@id": "http://issemantic.net/comparing",
-    "@type": [
-      "http://www.w3.org/ns/oa#motivation"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#comment": [
-      {
-        "@value": "A type of annotation that makes a comparison of two or more versions or Extracts, often for purposes of scholarly commentary"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "comparing"
-      }
-    ],
-    "https://www.w3.org/2009/08/skos-reference/skos#broader": [
-      {
-        "@id": "http://www.w3.org/ns/oa#describing"
-      }
-    ],
-    "https://www.w3.org/2009/08/skos-reference/skos#prefLabel": [
-      {
-        "@value": "comparing"
-      }
-    ]
-  },
-  {
-    "@id": "http://issemantic.net/settingOf",
-    "@type": [
-      "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#comment": [
-      {
-        "@value": "The MusicalMaterial that this Extract is a setting of. Inverse of setting."
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#domain": [
-      {
-        "@id": "http://issemantic.net/Extract"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#range": [
-      {
-        "@id": "http://issemantic.net/MusicalMaterial"
-      }
-    ]
-  },
-  {
-    "@id": "http://issemantic.net/absenceQualifier",
-    "@type": [
-      "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#domain": [
-      {
-        "@id": "http://issemantic.net/absenceSelection"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#range": [
-      {
-        "@id": "http://issemantic.net/AbsenceQualification"
-      }
-    ]
-  },
-  {
-    "@id": "http://issemantic.net/MusicalIdea",
-    "@type": [
-      "http://www.w3.org/2000/01/rdf-schema#Class"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#comment": [
-      {
-        "@value": "Analogous to frbr:work, but on a local level, as an element of a larger piece. An abstract entity that refers to the musical thought behind a musical structure, especially a recurring one."
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "MusicalIdea"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#subClassOf": [
-      {
-        "@id": "http://purl.org/vocab/frbr/core#Work"
-      }
-    ]
-  },
-  {
-    "@id": "http://issemantic.net/MusicalMaterial",
-    "@type": [
-      "http://www.w3.org/2000/01/rdf-schema#Class"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#comment": [
-      {
-        "@value": "The musical concept behind a musical Extract, independent of its various expressions in different arrangements or recordings (or, in a variation set, within a single variation). The realization of a MusicalIdea."
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "MusicalMaterial"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#subClassOf": [
-      {
-        "@id": "http://purl.org/vocab/frbr/core#Expression"
-      }
-    ]
-  },
-  {
-    "@id": "http://issemantic.net/setting",
-    "@type": [
-      "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#comment": [
-      {
-        "@value": "A setting of MusicalMaterial in an Extract. "
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#domain": [
-      {
-        "@id": "http://issemantic.net/MusicalMaterial"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#range": [
-      {
-        "@id": "http://issemantic.net/Extract"
-      }
-    ]
-  },
-  {
-    "@id": "http://issemantic.net/absenceSelection",
-    "@type": [
-      "http://www.w3.org/2000/01/rdf-schema#Class"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#comment": [
-      {
-        "@value": "A point marker that combines with an AbsenceQualification value (e.g., 'before') to indicate the location of an addition or abridgment relative to another version of the same work"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#subClassOf": [
-      {
-        "@id": "http://issemantic.net/Selection"
-      }
-    ]
-  },
-  {
-    "@id": "http://issemantic.net/commenting",
-    "@type": [
-      "http://www.w3.org/ns/oa#motivation"
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#comment": [
-      {
-        "@value": "A type of annotation that makes a comment on musical structure or another annotation, often used to enrich Observation descriptions with historical background and analytical reflections informed by academic research. Includes pointers to external sources and references"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "commenting"
-      }
-    ],
-    "https://www.w3.org/2009/08/skos-reference/skos#prefLabel": [
-      {
-        "@value": "commenting"
-      }
-    ]
-  }
-]
+    },
+    {
+      "@id": "mAnnot:observing",
+      "@type": "oa:motivation",
+      "skos:broader": {
+        "@id": "oa:describing"
+      },
+      "skos:prefLabel": "observing",
+      "rdfs:label": "observing",
+      "rdfs:comment": "A type of annotation making an observation (rather than a comment), often for purposes of comparison"
+    },
+    {
+      "@id": "mAnnot:comparing",
+      "@type": "oa:motivation",
+      "skos:broader": {
+        "@id": "oa:describing"
+      },
+      "skos:prefLabel": "comparing",
+      "rdfs:label": "comparing",
+      "rdfs:comment": "A type of annotation that makes a comparison of two or more versions or Extracts, often for purposes of scholarly commentary"
+    },
+    {
+      "@id": "mAnnot:commenting",
+      "@type": "oa:motivation",
+      "skos:prefLabel": "commenting",
+      "rdfs:label": "commenting",
+      "rdfs:comment": "A type of annotation that makes a comment on musical structure or another annotation, often used to enrich Observation descriptions with historical background and analytical reflections informed by academic research. Includes pointers to external sources and references"
+    }
+  ]
+}
