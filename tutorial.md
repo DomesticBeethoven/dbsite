@@ -9,37 +9,33 @@ permalink: /tutorials/
 
 # Contents
 
-<a href="{{ site.baseurl }}/chapters/chapter1/">
- __accessing resources__</a>
+<a href="{{ site.baseurl }}/chapters/chapter1/">Chapter 1. 
+  __Accessing Resources__</a>
 * Point your browser to tool.domestic-beethoven.eu
-* Log in to Solid (link: registering for Solid)
+* Log in to [Solid](https://solidcommunity.net/){:target="_blank"} (link: [registering for Solid](https://solidcommunity.net/register){:target="_blank"})
 * Press "Annotator" Button
 
-__comparing resources__
-1. Login to Solid pod
-2. Create Solid pod
-3. Login to pod 
+<a href="{{ site.baseurl }}/chapters/chapter2/">Chapter 2. __Comparing Resources__</a>
 
-__Make selections from the resources__
-1. New Extract
-2. Select from score
-3. Save
+* Login to Solid pod
+* Create Solid pod
+* Login to pod 
 
-__Join Excerpts as parallel passages__
-1. Switch to Annotate view
-2. Select exemplars from list
-3. Save the Musical Material object
+<a href="{{ site.baseurl }}/chapters/chapter3/">Chapter 3. __Make Selections from the Resources__</a>
 
-- __annotating resources__
-1. Select the Musical Material to annotate
-2. Write annotation
+* New Extract
+* Select from score
+* Save
 
-- __sharing resources__
+<a href="{{ site.baseurl }}/chapters/chapter4/">Chapter 4. __Join Excerpts as Parallel Passages__</a>
 
+* Switch to Annotate view
+* Select exemplars from list
+* Save the Musical Material object
 
-#### Screencasts
+<a href="{{ site.baseurl }}/chapters/chapter5/">Chapter 5. __Annotating Resources__</a>
 
-          <a href="{{ site.baseurl }}{{ post.url }}" style="font-weight:bold">
-              Read more
-          </a>
-          </dv
+* Select the Musical Material to annotate
+* Write annotation
+
+<a href="{{ site.baseurl }}/chapters/chapter6/">Chapter 6. __Sharing Resources__</a>
