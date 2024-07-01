@@ -1,5 +1,5 @@
 ---
-layout: chapter
+layout: tutorials
 title:  "Chapter 5"
 full_title: "Chapter 5: Annotating Resources"
 excerpt_separator: <!--more-->

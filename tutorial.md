@@ -12,14 +12,14 @@ permalink: /tutorials/
 <a href="{{ site.baseurl }}/chapters/chapter1/">Chapter 1. 
   __Accessing Resources__</a>
 * Point your browser to tool.domestic-beethoven.eu
-* Login to __[Solid](https://solidcommunity.net/){:target="_blank"}__
+* Log in to __[Solid](https://solidcommunity.net/){:target="_blank"}__
 * Press "Annotator" Button
 
 <a href="{{ site.baseurl }}/chapters/chapter2/">Chapter 2. __Comparing Resources__</a>
 
-* Login to Solid pod
+* Log in to Solid pod
 * Create Solid pod
-* Login to pod 
+* Log in to pod 
 
 <a href="{{ site.baseurl }}/chapters/chapter3/">Chapter 3. __Make Selections from the Resources__</a>
 

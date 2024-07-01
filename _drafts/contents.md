@@ -1,5 +1,5 @@
 ---
-layout: chapter
+layout: tutorials
 title:  "Contents"
 full_title: "App Documentation: Contents"
 excerpt_separator: <!--more-->
