@@ -1,11 +1,11 @@
 ---
 layout: chapter
 title:  "Chapter 4"
-full_title: "Chapter 4: Joining Parallel Passages"
+full_title: "Chapter 4: Defining Parallel Passages"
 excerpt_separator: <!--more-->
 ---
 
-## Chapter 4: Joining Parallel Passages
+## Chapter 4: Defining Parallel Passages
 chapter content goes here
 __maybe some links__
 _other content_

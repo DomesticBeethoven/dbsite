@@ -12,7 +12,7 @@ permalink: /tutorials/
 <a href="{{ site.baseurl }}/chapters/chapter1/">Chapter 1. 
   __Accessing Resources__</a>
 * Point your browser to tool.domestic-beethoven.eu
-* Log in to [Solid](https://solidcommunity.net/){:target="_blank"} (link: [registering for Solid](https://solidcommunity.net/register){:target="_blank"})
+* Login to __[Solid](https://solidcommunity.net/){:target="_blank"}__
 * Press "Annotator" Button
 
 <a href="{{ site.baseurl }}/chapters/chapter2/">Chapter 2. __Comparing Resources__</a>
