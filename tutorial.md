@@ -39,3 +39,5 @@ permalink: /tutorials/
 * Write annotation
 
 <a href="{{ site.baseurl }}/chapters/chapter6/">Chapter 6. __Sharing Resources__</a>
+
+<a href="{{ site.baseurl }}/chapters/chapter7/">Chapter 7. __Additional Technical Information__</a>

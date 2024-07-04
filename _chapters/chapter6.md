@@ -9,5 +9,3 @@ excerpt_separator: <!--more-->
 * b
 * c
 
-
-<!-- Here is the tutorial with screenshots -->
