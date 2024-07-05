@@ -29,8 +29,9 @@ _For this tutorial, we will compare two piano-vocal arrangements of Beethoven op
 
 * Additional pieces and views can be added and will appear below. Panes can be resized as needed.
 
-* Panes can also be reoriented to view scores with multiple parts or to fit full page image scan.
+* Panes can also be reoriented <img src="{{ site.baseurl }}/assets/img/tutorial/menubutton.jpg" class="" alt="toggle horizontal/vertical view button" style="width:24px; height:auto; vertical-align:middle; margin-left:5px;">  <img src="{{ site.baseurl }}/assets/img/tutorial/menubutton.jpg" class="rotated" alt="toggle horizontal/vertical view button" style="width:24px; height:auto; vertical-align:middle; margin-left:5px;">
+to view scores with multiple parts or to fit full page image scan.<br>
+![vertical view of arrangements in Workbench]({{ site.baseurl }}/assets/img/tutorial/verticalview.jpg){:class="screenshot fixed-size"}
 
-![vertical view of arrangements in Workbench]({{ site.baseurl }}/assets/img/tutorial/verticalview.jpg){:class="screenshot"}
-<br><br>
+<br>
 ### __[Proceed to Chapter 3]({{ site.baseurl }}/chapters/chapter3/)__

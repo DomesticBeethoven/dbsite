@@ -165,10 +165,19 @@ td {
   color: #414141;
 }
 
-/**
-*
-.screenshot {
-  
+.rotated {
+  transform: rotate(90deg);
 }
 
-*/
+.fixed-size {
+  width: 600px;
+  /* Adjust to desired width */
+  height: auto;
+  /* Maintain aspect ratio */
+}
+.screenshot {
+  max-width: 100%;
+    /* Ensure the image doesn't exceed the container width */
+    height: auto;
+    /* Maintain aspect ratio */
+}
