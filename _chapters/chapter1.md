@@ -37,5 +37,5 @@ __To start the App:__
 * Press the purple "Annotator" button in the middle of the screen to proceed.
 <br><br>
 
-### __[Proceed to Chapter 2]({{ site.baseurl }}/chapters/chapter2/)__
+### __[Proceed to Chapter 2: Comparing Resources]({{ site.baseurl }}/chapters/chapter2/)__
 <!-- Here is the tutorial with screenshots -->
