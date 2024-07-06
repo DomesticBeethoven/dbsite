@@ -11,23 +11,27 @@ The first step in the process is selecting and saving areas of interest in the i
 
 **To bring together two parallel passages that express the same musical material:**
 
-* move the cursor to the upper right side of the window below the title bar, where it says "Annnotator Mode" and select "Annotate".
+* Select "Annotate" mode at top of left sidebar.
 
-    ![zoom buttons in IIIF view]({{ site.baseurl }}/assets/img/tutorial/iiiflarge-ed.jpg){:class="screenshot fixed-size"}
+    ![app mode selector]({{ site.baseurl }}/assets/img/tutorial/switchmode.jpg){:class="screenshot fixed-size"}
+
 
 * Create a new "Musical Material" object by clicking on the plus " __+__ " sign to the right of "__Musical Materials__" in the middle of the left sidebar.
 
-    ![zoom buttons in IIIF view]({{ site.baseurl }}/assets/img/tutorial/iiiflarge-ed.jpg){:class="screenshot fixed-size"}
+    ![cursor on plus sign to right of Musical Material bar]({{ site.baseurl }}/assets/img/tutorial/newMM.jpg){:class="screenshot fixed-size"}
 
-* Enter a descriptive label into the text box.
 
-    ![zoom buttons in IIIF view]({{ site.baseurl }}/assets/img/tutorial/iiiflarge-ed.jpg){:class="screenshot fixed-size"}
+* Extracts chosen in "Select" mode appear in lower pane. Use the plus " __+__ " sign to add the corresponding extracts, i.e., the same "Musical Material". For this tutorial, select the Augener Extract.
 
-* Use the plus " __+__ " sign to add the corresponding extracts.
+    ![click plus sign by Augener to add]({{ site.baseurl }}/assets/img/tutorial/addAugener.jpg){:class="screenshot fixed-size"}
 
-    ![zoom buttons in IIIF view]({{ site.baseurl }}/assets/img/tutorial/iiiflarge-ed.jpg){:class="screenshot fixed-size"}
+* Add the Zumsteeg Extract. Then provide a label (e.g., "Op.92 first phrase") and click the checkmark __✓__ to save.
 
-* Click the checkmark __✓__ to save.
+    ![Arrows indicate the Extract plus sign, the Musical Material label box, and checkmark to save.]({{ site.baseurl }}/assets/img/tutorial/addZum.jpg){:class="screenshot fixed-size"}
+
+* The selected Musical Material is ready for annotation.
+
+    ![app displaying a Musical Material object and two extracts]({{ site.baseurl }}/assets/img/tutorial/loadedMM.jpg){:class="screenshot fixed-size"}
 
 <br>
 ### __[Proceed to Chapter 5: Annotation]({{ site.baseurl }}/chapters/chapter5/)__

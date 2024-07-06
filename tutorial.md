@@ -27,7 +27,7 @@ permalink: /tutorials/
 * Select from score
 * Save
 
-<a href="{{ site.baseurl }}/chapters/chapter4/">Chapter 4. __Join Excerpts as Parallel Passages__</a>
+<a href="{{ site.baseurl }}/chapters/chapter4/">Chapter 4. __Join Extracts as Parallel Passages__</a>
 
 * Switch to Annotate view
 * Select exemplars from list
