@@ -25,6 +25,8 @@
 
 
             <div class="trigger">
+                <a href='https://tool.domestic-beethoven.eu' target="_blank">Annotator App</a>
+                <span>&nbsp;&nbsp;&nbsp;</span>
                 {% assign pages = site.pages | sort:"weight" | reverse %}
 
                 {% for p in pages %}
@@ -34,8 +36,9 @@
                     {{ p.title }}
                 </a>
                 <span>&nbsp;&nbsp;&nbsp;</span>
+
                 {% endif %}
-                {% if p.title == "Tutorials" %}
+                {% if p.title == "Tutorial" %}
                 <a {% if p.url==page.url %}class="active" {% endif %} href="{{ p.url }}">
                     Tutorial Contents
                 </a>

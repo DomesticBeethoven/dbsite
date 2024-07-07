@@ -4,6 +4,7 @@ title:  "Chapter 3"
 full_title: "Chapter 3: Selecting Extracts"
 excerpt_separator: <!--more-->
 ---
+<!-- * ### __[Click here for screencast]({{ site.baseurl }}/screencasts/sc_chapter3/)__ -->
 
 We will compare the first phrase in the arrangements and comment upon any differences.
 
@@ -22,14 +23,19 @@ We will compare the first phrase in the arrangements and comment upon any differ
     <br><br>
 * Click the checkmark __✓__ to save.
 
-
-
-
+* Identify the same passage in "Star Brightly Shining".
 
 ![checkmark and down arrow circled on app]({{ site.baseurl }}/assets/img/tutorial/clickcheck.jpg){:class="screenshot fixed-size"}
 * Click the down arrow __▼__ the left of the Excerpt label to close edit box  __►__ .
-    - __Purple__ highlighting indicates an active selection in Edit mode. 
-    - __Orange__ highlighting indicates a saved Excerpt.
+
+* Identify the same passage in "Star Brightly Shining" and repeat the process.
+    * __Shift+Click__ to select corresponding measures
+    * Provide a label (e.g., "1st phrase Star Brightly Shining")
+    * Click the checkmark __✓__ and close edit box&nbsp;&nbsp;__▼__&nbsp;&nbsp;→&nbsp;&nbsp;__►__ .
+
+
+        - __Purple__ highlighting indicates an active selection in Edit mode. 
+        - __Orange__ highlighting indicates a saved Excerpt.
 <br><br>
 
 ![two arrangements with highlighted first phrase]({{ site.baseurl }}/assets/img/tutorial/bothphrases.jpg){:class="screenshot fixed-size"}

@@ -4,6 +4,8 @@ title:  "Chapter 2"
 full_title: "Chapter 2. Comparing Resources"
 excerpt_separator: <!--more-->
 ---
+<!-- * ### __[Click here for screencast]({{ site.baseurl }}/screencasts/sc_chapter2/)__ -->
+
 ### __Overview__
 
 * After logging in and clicking Annotator button, the app will open up an empty workbench in "Select" Mode.
