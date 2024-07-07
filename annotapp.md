@@ -6,7 +6,7 @@ permalink: /annotapp/
 ---
 __The Beethoven in the House Annotator App__ is a web-based application that provides support for storing, sharing, and publishing musical commentary along with the exact fragments of the digital resources they reference.
 
-* <b>To try out the prototype yourself, go to   <span style="text-decoration:underline;"><i>[https://tool.domestic-beethoven.eu](https://tool.domestic-beethoven.eu){:target="_blank"}</i></span></b>
+* <b>To try out the prototype yourself, go to   <span style="text-decoration:underline;"><i>[https://tool.domestic-beethoven.eu](https://tool.domestic-beethoven.eu){:target="_blank"}</i></span></b> or go to the __[Tutorial page]({{ site.baseurl }}/tutorials)__.
 
  <!-- * Read more about the __[design and use of the app](./    )__. -->
 
@@ -27,6 +27,6 @@ __NB:__ We highly recommend opening the app in a ***private*** or ***incognito**
 <br>
 For technical details, please see the [README.md file on GitHub](https://github.com/DomesticBeethoven/bith-annotator/tree/vue3).
 <br/><br/>
-* <p style="font-style:italic; font-weight:bold">Tutorials coming soon!</p>
+#### __[Click here for tutorial]({{ site.baseurl }}/tutorials)__
 
 <br/>
