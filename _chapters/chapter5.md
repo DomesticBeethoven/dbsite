@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 __Make a text annotation about the musical material that appears in parallel passages.__
 
-* Start in "Annotate" mode. (If necessary, click at top of left sidebar.)
+* Start in "Annotate" mode. (If necessary, click at top of right sidebar.)
     ![app menu bar]({{ site.baseurl }}/assets/img/tutorial/changeMode.jpg){:class="screenshot fixed-size"}
 
     Your screen should look something like this:
