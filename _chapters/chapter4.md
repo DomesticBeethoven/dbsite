@@ -13,7 +13,7 @@ The first step in the process is selecting and saving areas of interest in the i
 
 **To bring together two parallel passages that express the same musical material:**
 
-* Select "Annotate" mode at top of left sidebar.
+* Select "Annotate" mode at top of right sidebar.
 
     ![app mode selector]({{ site.baseurl }}/assets/img/tutorial/switchmode.jpg){:class="screenshot fixed-size"}
 
