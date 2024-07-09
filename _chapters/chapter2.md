@@ -4,7 +4,7 @@ title:  "Chapter 2"
 full_title: "Chapter 2. Comparing Resources"
 excerpt_separator: <!--more-->
 ---
-<!-- * ### __[Click here for screencast]({{ site.baseurl }}/screencasts/sc_chapter2/)__ -->
+* ### __[Click here for screencast]({{ site.baseurl }}/screencasts/sc_chapter2/)__
 
 ### __Overview__
 
@@ -40,4 +40,5 @@ to view scores with multiple parts or to fit full page image scan.<br>
 ![vertical view of arrangements in Workbench]({{ site.baseurl }}/assets/img/tutorial/verticalview.jpg){:class="screenshot fixed-size"}
 
 <br>
-### __[Proceed to Chapter 3: Selecting Extracts]({{ site.baseurl }}/chapters/chapter3/)__
+
+#### __[Proceed to Chapter 3: Selecting Extracts]({{ site.baseurl }}/chapters/chapter3/)__

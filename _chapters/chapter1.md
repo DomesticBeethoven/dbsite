@@ -4,7 +4,7 @@ title:  "Chapter 1"
 full_title: "Chapter 1: Starting Up and Logging In"
 excerpt_separator: <!--more-->
 ---
-<!-- ### __[Click here for screencast]({{ site.baseurl }}/screencasts/sc_chapter1/)__ -->
+### __[Click here for screencast]({{ site.baseurl }}/screencasts/sc_chapter1/)__
 ---
 <br>
  ➤➤ __First__: register for a Solid Pod at __[solidcommunity.net](https://solidcommunity.net)__.

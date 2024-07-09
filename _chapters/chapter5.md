@@ -4,7 +4,7 @@ title:  "Chapter 5"
 full_title: "Chapter 5: Annotating Resources"
 excerpt_separator: <!--more-->
 ---
-<!-- * ### __[Click here for screencast]({{ site.baseurl }}/screencasts/sc_chapter5/)__ -->
+* ### __[Click here for screencast]({{ site.baseurl }}/screencasts/sc_chapter5/)__
 
 __Make a text annotation about the musical material that appears in parallel passages.__
 
