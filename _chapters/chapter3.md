@@ -4,7 +4,7 @@ title:  "Chapter 3"
 full_title: "Chapter 3: Selecting Extracts"
 excerpt_separator: <!--more-->
 ---
-<!-- * ### __[Click here for screencast]({{ site.baseurl }}/screencasts/sc_chapter3/)__ -->
+* ### __[Click here for screencast]({{ site.baseurl }}/screencasts/sc_chapter3/)__
 
 We will compare the first phrase in the arrangements and comment upon any differences.
 
@@ -23,10 +23,8 @@ We will compare the first phrase in the arrangements and comment upon any differ
     <br><br>
 * Click the checkmark __✓__ to save.
 
-* Identify the same passage in "Star Brightly Shining".
-
 ![checkmark and down arrow circled on app]({{ site.baseurl }}/assets/img/tutorial/clickcheck.jpg){:class="screenshot fixed-size"}
-* Click the down arrow __▼__ the left of the Excerpt label to close edit box  __►__ .
+* Click the down arrow __▼__ left of the Excerpt label to close edit box  __►__ .
 
 * Identify the same passage in "Star Brightly Shining" and repeat the process.
     * __Shift+Click__ to select corresponding measures
@@ -45,6 +43,7 @@ We will compare the first phrase in the arrangements and comment upon any differ
 ### To continue annotation tutorial: __[Proceed to Chapter 4]({{ site.baseurl }}/chapters/chapter4/)__
 ---
 <br>
+
 ## __Summary__
 _For Encoded Transcriptions:_
 * Click on the measures or notes to include in the Extract.
