@@ -9,8 +9,8 @@ description:  Digital Studies of Domestic Music Arrangements
 
 # ! ! -- BASEURL SETTINGS -- ! !
 
-baseurl: "/dbsite"
-# baseurl: ""
+# baseurl: "/dbsite"
+baseurl: ""
 
 url: "http://domestic-beethoven.eu"
 
