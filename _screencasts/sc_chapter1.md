@@ -14,4 +14,4 @@ excerpt_separator: <!--more-->
 
 ## Next Screencast:
 
-### __[2. Comparing Resources]({assets/screencasts/sc_chapter2/)__
+### __[2. Comparing Resources]({/screencasts/sc_chapter2/)__
