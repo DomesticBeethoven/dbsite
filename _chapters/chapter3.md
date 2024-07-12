@@ -38,7 +38,7 @@ We will compare the first phrase in the arrangements and comment upon any differ
 
 ![two arrangements with highlighted first phrase]({{ site.baseurl }}/assets/img/tutorial/bothphrases.jpg){:class="screenshot fixed-size"}
 
-###  To learn about selecting regions on a IIIF image scan __[Proceed to Chapter 3.1]({{ site.baseurl }}/chapters/chapter3.1/)__
+###  To learn about selecting regions on a IIIF image scan __[Proceed to Chapter 3.1]({{ site.baseurl }}/chapters/chapter3-1/)__
 
 ### To continue annotation tutorial: __[Proceed to Chapter 4]({{ site.baseurl }}/chapters/chapter4/)__
 ---
