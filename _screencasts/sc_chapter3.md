@@ -13,4 +13,4 @@ excerpt_separator: <!--more-->
 <br>
 Next Screencast:
 
-## __[Chapter 4. Defining Parallel Passages]({{ site.baseurl }}/screencasts/sc_chapter4/)__
+### __[Chapter 4. Defining Parallel Passages]({{ site.baseurl }}/screencasts/sc_chapter4/)__

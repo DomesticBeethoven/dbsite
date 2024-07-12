@@ -41,4 +41,4 @@ to view scores with multiple parts or to fit full page image scan.<br>
 
 <br>
 
-#### __[Proceed to Chapter 3: Selecting Extracts]({{ site.baseurl }}/chapters/chapter3/)__
+### __[Proceed to Chapter 3: Selecting Extracts]({{ site.baseurl }}/chapters/chapter3/)__
