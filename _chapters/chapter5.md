@@ -4,7 +4,11 @@ title:  "Chapter 5"
 full_title: "Chapter 5: Annotating Resources"
 excerpt_separator: <!--more-->
 ---
-* ### __[Click here for screencast]({{ site.baseurl }}/screencasts/sc_chapter5/)__
+<video width="640" height="360" controls>
+  <source src="/assets/video/chapter5.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<br>
 
 __Make a text annotation about the musical material that appears in parallel passages.__
 
@@ -16,8 +20,9 @@ __Make a text annotation about the musical material that appears in parallel pas
     ![app menu bar]({{ site.baseurl }}/assets/img/tutorial/annotateMode.jpg){:class="screenshot fixed-size"}
 
 * Create a new annotation by clicking on the plus " __+__ " sign to the right of "__Observations__" at the top of the left sidebar.
-    ![annotate view with cursor on plus sign in Observations pane]({{ site.baseurl }}/assets/img/tutorial/addObservation.jpg){:class="screenshot fixed-size"}
 
+    ![annotate view with cursor on plus sign in Observations pane]({{ site.baseurl }}/assets/img/tutorial/addObservation.jpg){:class="screenshot" width="60%"}
+* A new text box will open.
 * Use the plus " __+__ " sign to select a saved Musical Material object to comment upon.
     ![arrow pointing to Musical Material plus sign]({{ site.baseurl }}/assets/img/tutorial/addMMtoAnnot.jpg){:class="screenshot fixed-size"}
 
@@ -30,5 +35,8 @@ __Make a text annotation about the musical material that appears in parallel pas
 
 <br>
 __Congratulations!__ You have successfully commented on the arrangement of a musical passage in two different versions. And you have saved it using Linked Data: your comment has unique, persistent identifiers, appropriate for sharing and publishing across the web.
-<br><br>
+
 <!-- ### __[Proceed to Chapter 6]({{ site.baseurl }}/chapters/chapter6/):__ Under the Hood -->
+<div style="font-weight:bold">
+    <a href="/chapters/chapter4">Back to Previous Chapter</a>
+</div>

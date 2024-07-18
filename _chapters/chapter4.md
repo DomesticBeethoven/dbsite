@@ -4,7 +4,11 @@ title:  "Chapter 4"
 full_title: "Chapter 4: Defining Parallel Passages"
 excerpt_separator: <!--more-->
 ---
-* ### __[Click here for screencast]({{ site.baseurl }}/screencasts/sc_chapter4/)__
+<video width="640" height="360" controls>
+  <source src="/assets/video/chapter4.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<br>
 
 A key feature of the Annotator is the ability to identify and comment on the same musical material as it appears in two different pieces. 
 
@@ -37,3 +41,6 @@ The first step in the process is selecting and saving areas of interest in the i
 
 <br>
 ### __[Proceed to Chapter 5: Annotation]({{ site.baseurl }}/chapters/chapter5/)__
+<div style="font-weight:bold">
+    <a href="/chapters/chapter3-1">Back to Previous Chapter</a>
+</div>

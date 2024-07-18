@@ -4,7 +4,10 @@ title:  "Chapter 2"
 full_title: "Chapter 2. Comparing Resources"
 excerpt_separator: <!--more-->
 ---
-* ### __[Click here for screencast]({{ site.baseurl }}/screencasts/sc_chapter2/)__
+<video width="640" height="360" controls>
+  <source src="/assets/video/chapter2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### __Overview__
 
@@ -12,10 +15,10 @@ excerpt_separator: <!--more-->
 
 * Click on the " __+__ " button next to  "__Views__," in the upper left side of the window to add materials to the Workbench. This will open a list of the sources available to the app. (The workset for the project is automatically loaded.)<br><br>![add views pic]({{ site.baseurl }}/assets/img/tutorial/addView.jpg){:class="screenshot"}<br><br>
 <br><br>![pic of list of resources]({{ site.baseurl }}/assets/img/tutorial/view1.jpg){:class="screenshot"}<br><br>
-    - **Click "Transcript"** to view a rendering of the MEI digital transcription of the source.
-    - **Click "IIIF"** to view a high-resolution image of the score.
+    - **"Transcript"** will load a rendering of the MEI encoding of the source into the viewer.
+    - **"IIIF"** will load a high-resolution image of the source.
         - If a button is <span style="color:#888;">greyed out</span>, the resource view is not available.
-        - Where possible, image resources have been processed with the Edirom app __[Cartographer](https://domestic-beethoven.eu/digitization/2022/12/21/Cartographer_app_integration.html){:target="_blank"}__, which uses OMR to recognize barlines and apply measure numbers.
+        - Where possible, image resources have been processed with the Edirom __[Cartographer](https://domestic-beethoven.eu/digitization/2022/12/21/Cartographer_app_integration.html){:target="_blank"}__ app, which uses OMR to recognize barlines and apply measure numbers.
 <br><br>
 
 
@@ -41,4 +44,8 @@ to view scores with multiple parts or to fit full page image scan.<br>
 
 <br>
 
-### __[Proceed to Chapter 3: Selecting Extracts]({{ site.baseurl }}/chapters/chapter3/)__
+### __[Proceed to Chapter 3.1: Selecting MEI Extracts]({{ site.baseurl }}/chapters/chapter3-1/)__
+
+<div style="font-weight:bold">
+    <a href="/chapters/chapter1">Back to Previous Chapter</a>
+</div>

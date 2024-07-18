@@ -4,37 +4,40 @@ title:  "Chapter 1"
 full_title: "Chapter 1: Starting Up and Logging In"
 excerpt_separator: <!--more-->
 ---
-### __[Click here for screencast]({{ site.baseurl }}/screencasts/sc_chapter1/)__
----
+<video width="640" height="360" controls>
+  <source src="/assets/video/chapter1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 <br>
- ➤➤ __First__: register for a Solid Pod at __[solidcommunity.net](https://solidcommunity.net)__.
 
-
- [Solid](https://solidproject.org/about) is a protocol used by the App that promotes interoperability by using [Linked Data](https://en.wikipedia.org/wiki/Linked_data). Registration provides a personal online data store (a "Pod") that can save and share research data from the app.
+ ➤➤ __First__: Make sure you have registered for a __[Solid Pod](https://solidcommunity.net){:target="_blank"}__ and are working in an Incognito or Private browser window.
+ * See __[Getting Started]({{ site.baseurl }}/chapters/chapter0/)__ for details.
 
 ___
 <br>
 __To start the App:__
 
-* __IMPORTANT:__ Open app in a ***private*** or ***incognito*** browser window, to prevent any conflicts with the Solid protocol.
+* Point your browser to __[tool.domestic-beethoven.eu](https://tool.domestic-beethoven.eu){:target="_blank"}__
+* Log in to connect your Solid Pod to the app.
 
-    - **For Windows Users**: Press **Control + Shift + N**
-    - **For Mac Users**: Press **Command + Shift + N**
-<br>
-<br>
-* Point your browser to __tool.domestic-beethoven.eu__
-* Log in to personal Solid pod.
-    - Click the login button in upper right corner.
-    - You will be directed to the Solid Community login page.
-    - Enter your login name and password.
-    - Click "Log on" — you will be automatically directed back to the App.
 
 ![asset]({{ site.baseurl }}/assets/img/tutorial/login.jpg){:class="screenshot"}
 
 
+* Click the login button in upper right corner.
+* The login button opens the Solid Community login page.
+    - Enter your Solid login name and password.
+    - Click "Log in" —— you will be automatically taken back to the App.
 
+* Wait for the App to fetch all available resources and populate the Library with the current workset.
 * Press the purple "Annotator" button in the middle of the screen to proceed.
 <br><br>
 
 ### __[Proceed to Chapter 2: Comparing Resources]({{ site.baseurl }}/chapters/chapter2/)__
-<!-- Here is the tutorial with screenshots -->
+<!--
+<br />
+<p style="font-weight:bold">
+    <a href="/chapters/Chapter 0">Back to Previous Chapter</a>
+</p>
+-->
