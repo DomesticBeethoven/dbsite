@@ -4,14 +4,14 @@ title:  "Getting Started"
 full_title: "Getting Started: Solid Pod and Incognito Mode"
 excerpt_separator: <!--more-->
 ---
-__The Beethoven in the House Annotator App__ is a web-based application that provides support for creating and sharing scholarly commentary on digital music resources. 
-<br>
- ➤➤&nbsp;&nbsp;__First__: register for a Solid Pod at __[solidcommunity.net](https://solidcommunity.net){:target="_blank"}__.
+
+ ➤➤&nbsp;&nbsp;__First__: register for a __Solid Pod__ at __[solidcommunity.net](https://solidcommunity.net){:target="_blank"}__.
 
 
- [Solid](https://solidproject.org/about) is a protocol used by the App that promotes interoperability by using [Linked Data](https://en.wikipedia.org/wiki/Linked_data). Registration provides a personal online data store (a "Pod") that can save and share research data from the app.
+ __[Solid](https://solidproject.org/about)__ (Social Linked Data) is a protocol used by the App that promotes interoperability by using \
+ [Linked Data](https://en.wikipedia.org/wiki/Linked_data). Registration provides a personal online data store—a "Pod"—that can save and share research data from the app.
  
- Follow the instructions on the registration page to receive your own Pod.
+ Follow the instructions on the [registration page](https://solidcommunity.net) to receive your own Pod.
 
 ___
 <br>
