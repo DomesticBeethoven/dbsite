@@ -1,11 +1,12 @@
 ---
-layout: tutorials
+layout: generic
 title: Tutorial
 weight: 6
 permalink: /tutorials/
 ---
 
 <!-- ### Annotator App Documentation -->
+__The Beethoven in the House Annotator App__ is a web-based application that provides support for creating and sharing scholarly commentary on digital music resources. 
 
 # Contents
 
@@ -14,7 +15,7 @@ permalink: /tutorials/
 * Open up a "private" or "incognito" browser window
 
 <a href="{{ site.baseurl }}/chapters/chapter1/">Chapter 1. __Accessing Resources__</a>
-* Point your browser to tool.domestic-beethoven.eu
+* Point your browser to [domestic-beethoven.eu](https://domestic-beethoven.eu){:target="_blank"}
 * Click "login" in upper right corner
 * Press "__Annotator__" Button
 
@@ -57,3 +58,9 @@ permalink: /tutorials/
 <!-- 
 <a href="{{ site.baseurl }}/chapters/chapter6/">Chapter 6. __Under the Hood__</a>
  -->
+<br>
+
+ ***
+
+<br>
+ _Tutorials funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under the National Research Data Infrastructure_ – [441958017](https://gepris.dfg.de/gepris/projekt/441958017).
