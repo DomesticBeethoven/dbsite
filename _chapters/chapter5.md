@@ -19,7 +19,7 @@ __Make a text annotation about the musical material that appears in parallel pas
 
     ![app menu bar]({{ site.baseurl }}/assets/img/tutorial/annotateMode.jpg){:class="screenshot fixed-size"}
 
-* Create a new annotation by clicking on the plus " __+__ " sign to the right of "__Observations__" at the top of the left sidebar.
+* Create a new annotation by clicking on the plus " __+__ " sign in the "__Observations__" pane, at the top left corner of the sidebar.
 
     ![annotate view with cursor on plus sign in Observations pane]({{ site.baseurl }}/assets/img/tutorial/addObservation.jpg){:class="screenshot" width="60%"}
 * A new text box will open.
