@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
  ➤➤&nbsp;&nbsp;__First__: register for a __Solid Pod__ at __[solidcommunity.net](https://solidcommunity.net){:target="_blank"}__.
 
 
- __[Solid](https://solidproject.org/about)__ (Social Linked Data) is a protocol used by the App that promotes interoperability by using \
+ __[Solid](https://solidproject.org/about)__ (Social Linked Data) is a protocol that facilitates interoperability by using
  [Linked Data](https://en.wikipedia.org/wiki/Linked_data). Registration provides a personal online data store—a "Pod"—that can save and share research data from the app.
  
  Follow the instructions on the [registration page](https://solidcommunity.net) to receive your own Pod.
@@ -18,16 +18,17 @@ ___
 __IMPORTANT:__
 
 * __Before opening the app:__ 
-Use *Chrome* or *Firefox* to open an **incognito** (Chrome) or **private** (Firefox) browser window to prevent any conflicts with the Solid protocol.
+Use *Chrome* or *Firefox* to open an **incognito** (Chrome)\
+or **private** (Firefox) browser window to prevent any conflicts with the Solid protocol.
 <br/><br/>
     - **![asset]({{ site.baseurl }}/assets/img/tutorial/chrome.jpg){:class="screenshot-inline" alt="" style="height:1.1em "}&nbsp;&nbsp;Chrome Incognito Mode**:
-        -  Press **<span class="command-button"><span style="font-size: 1.0em;">⌘</span> Control</span> + <span class="command-button">Command</span> + <span class="command-button">N</span>**
+        -  Press **( <span class="command-button"><span style="font-size: 1.0em;">⌘</span></span>** or **<span class="command-button"><span style="font-size: 1.0em;">Cntl</span></span> ) + <span class="command-button">Shift</span> + <span class="command-button">N</span>**
 
     - **![asset]({{ site.baseurl }}/assets/img/tutorial/firefox.jpg){:class="screenshot-inline" alt="" style="height:1.1em "}&nbsp;&nbsp;Firefox Private Mode**:
-        - Press **<span class="command-button"><span style="font-size: 1.0em; vertical-align: middle; ">⌘</span> Control</span> + <span class="command-button">Command</span> + <span class="command-button">P</span>**
+        -  Press **( <span class="command-button"><span style="font-size: 1.0em;">⌘</span></span>** or **<span class="command-button"><span style="font-size: 1.0em;">Cntl</span></span> ) + <span class="command-button">Shift</span> + <span class="command-button">P</span>**
 
-![asset]({{ site.baseurl }}/assets/img/tutorial/firefoxPrivate.jpg){:class="screenshot" style="width:45%; height:auto"}
-![asset]({{ site.baseurl }}/assets/img/tutorial/googleIncognito.jpg){:class="screenshot" style="width:45%; height:auto"}
+![Image of Firefox home screen in Private Mode]({{ site.baseurl }}/assets/img/tutorial/firefoxPrivate.jpg){:class="screenshot" alt="Image of Firefox home screen in Private Mode" style="width:45%; height:auto"}
+![Image of Chrome home screen in Incognito Mode]({{ site.baseurl }}/assets/img/tutorial/googleIncognito.jpg){:class="screenshot" alt="" style="width:45%; height:auto"}
 
 
 ### __[Proceed to Chapter 1: Starting up and Logging In]({{ site.baseurl }}/chapters/chapter1/)__
