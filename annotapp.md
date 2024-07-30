@@ -6,10 +6,7 @@ permalink: /annotapp/
 ---
 __The Beethoven in the House Annotator App__ is a web-based application that provides support for creating and sharing musical commentary along with the exact fragments of the digital resources they reference.
 
-*  __[NEW Tutorials!]({{ site.baseurl }}/tutorials)__ For a walkthrough and cheat sheet, check out the __[tutorial page]({{ site.baseurl }}/tutorials)__.
-
-* <b>To try out the prototype yourself, go to   <span style="text-decoration:underline;">[https://tool.domestic-beethoven.eu](https://tool.domestic-beethoven.eu){:target="_blank"}</span></b>
-
+#### ➤  __[NEW: Tutorials!]({{ site.baseurl }}/tutorials)__ For a walkthrough and cheat sheet, check out the __[tutorial page]({{ site.baseurl }}/tutorials)__.
 
  <!-- * Read more about the __[design and use of the app](./    )__. -->
 
