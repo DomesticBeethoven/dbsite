@@ -30,23 +30,26 @@ We will compare the first phrase in the arrangements and comment upon any differ
 ![checkmark and down arrow circled on app]({{ site.baseurl }}/assets/img/tutorial/clickcheck.jpg){:class="screenshot fixed-size"}
 * Click the down arrow __▼__ left of the Excerpt label to close edit box  __►__ .
 
-* Identify the same passage in "Star Brightly Shining" and repeat the process.
-    * __Shift+Click__ to select corresponding measures
-    * Provide a label (e.g., "1st phrase Star Brightly Shining")
-    * Click the checkmark __✓__ and close edit box&nbsp;&nbsp;__▼__&nbsp;&nbsp;→&nbsp;&nbsp;__►__ .
-
-
-        - __Purple__ highlighting indicates an active selection in Edit mode. 
-        - __Orange__ highlighting indicates a saved Excerpt.
-<br><br>
+    - __Purple__ highlighting indicates an active selection in Edit mode. 
+    - __Orange__ highlighting indicates a saved Excerpt.
+    <br><br>
+* Locate the same passage in "__Star Brightly Shining__" and repeat the process.
 
 ![two arrangements with highlighted first phrase]({{ site.baseurl }}/assets/img/tutorial/bothphrases.jpg){:class="screenshot fixed-size"}
+* __Shift+Click__ to select the measures that contain the phrase
+    - _note_: in this arrangement it is _not_ measures 1-8; the theme starts in measure 3)
+* Provide a label (e.g., "__1st phrase Star Brightly Shining__")
+* Click the checkmark __✓__ and close edit box&nbsp;&nbsp;__▼__&nbsp;&nbsp;→&nbsp;&nbsp;__►__ .
 
+<br>
+
+
+<!--
 To continue tutorial:  
 &nbsp;&nbsp;➤➤&nbsp;&nbsp;__[Proceed to Chapter 4: Parallel Passages]({{ site.baseurl }}/chapters/chapter4/)__
 
-<span style="">To learn about selecting extracts from images go to  
-&nbsp;&nbsp;➤➤&nbsp;&nbsp;[Chapter 3.2: Selecting IIIF Extracts]({{ site.baseurl }}/chapters/chapter3-2/)</span>
+To learn about selecting extracts from images go to  
+&nbsp;&nbsp;➤➤&nbsp;&nbsp;__[Chapter 3.2: Selecting IIIF Extracts]({{ site.baseurl }}/chapters/chapter3-2/)__
 <br><br>
 
 
@@ -75,12 +78,15 @@ _For IIIF images:_
 
 __Repeat__ to add other Extracts.
 <br><br>
-
+-->
 To continue tutorial:  
 ### __[Proceed to Chapter 4: Parallel Passages]({{ site.baseurl }}/chapters/chapter4/)__
-<span style="">To learn about selecting extracts from images go to:  
-__[Chapter 3.2: Selecting IIIF Extracts]({{ site.baseurl }}/chapters/chapter3-2/)__</span>
-<br><br>
+<br>
+To learn about selecting extracts from images go to:
+
+### __[Chapter 3.2: Selecting IIIF Extracts]({{ site.baseurl }}/chapters/chapter3-2/)__
+
+<br>
 <div style="font-weight:bold">
     <a href="/chapters/chapter2">Back to Chapter 2</a>
 </div>
