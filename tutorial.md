@@ -15,7 +15,7 @@ __The Beethoven in the House Annotator App__ is a web-based application that pro
 * Open up a "private" or "incognito" browser window
 
 <a href="{{ site.baseurl }}/chapters/chapter1/">Chapter 1. __Accessing Resources__</a>
-* Point your browser to [domestic-beethoven.eu](https://domestic-beethoven.eu){:target="_blank"}
+* Point your browser to [tool.domestic-beethoven.eu](https://tool.domestic-beethoven.eu){:target="_blank"}
 * Click "login" in upper right corner
 * Press "__Annotator__" Button
 
