@@ -69,6 +69,11 @@ Institutions:
 The Beethoven-Haus is situated in the house of birth of the composer. It comprises a museum, a chamber concert hall, a research library, the Forschungszentrum “Beethoven-Archiv”—with the richest and most diverse Beethoven collection worldwide, a publishing division, and the archive of the Beethoven-Haus Association. The research center is primarily responsible for the edition of Beethoven’s complete works (“Beethoven Werke”) and hosts moreover several third-party funded research projects. It contributes its expertise in Beethoven research to the project.
 <br/><br/>
 
+#### **[RISM Digital Center](https://rism.digital/)**
+
+The RISM Digital Center is part of the Répertoire International des Sources Musicales (RISM), the international organisation founded in 1952 whose aim is to inventory music sources worldwide and make them accessible. The RISM network also comprises the RISM Editorial Center in Germany and working groups in over 30 countries. The RISM project is one of the most significant collaborative efforts in the humanities, but it also provides arguably one of the very few datasets worldwide that deserve the label of Big Data in musicology.
+<br/><br/>
+
 #### **[University of Oxford e-Research Centre](https://www.oerc.ox.ac.uk/)**
 
 ![OERC logo](/assets/img/oerc2-250.png#logo)
