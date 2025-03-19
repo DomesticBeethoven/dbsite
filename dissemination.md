@@ -20,6 +20,8 @@ Documentation for the Beethoven in the House __[Music Annotation model](/assets/
 Documentation for creating  __[Selective Encodings](https://doi.org/10.5281/zenodo.7870625){:target="_blank"}__ [(doi: 10.5281/zenodo.7870625)](https://doi.org/10.5281/zenodo.7870625){:target="_blank"}, supporting an incremental approach to digitization and transcription so that researchers can transcribe only the music they need, rather than entire scores.
 
 ### __Publications__
+["Popularisierung durch Bearbeitung: Beethovens Symphonien im Verlag Peters."](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-962818){:target="_blank"}
+Lisa Rosendahl, Kommerz und Kanonisierung. Geschäftsdaten als Quelle für die Musikwissenschaft, Ed. Maximilian Rosenthal, Leipzig, 2025, pp. 223–249.
 
 ["Supporting musicological investigations with information retrieval tools: an iterative approach to data collection."](https://archives.ismir.net/ismir2023/paper/000094.pdf){:target="_blank"}
 David Lewis, Elisabete Shibata, Andrew Hankinson, Johannes Kepper, Kevin R. Page, Lisa Rosendahl, Mark Saccomano, Christine Siegert,
