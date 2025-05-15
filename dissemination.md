@@ -20,11 +20,11 @@ Documentation for the Beethoven in the House __[Music Annotation model](/assets/
 Documentation for creating  __[Selective Encodings](https://doi.org/10.5281/zenodo.7870625){:target="_blank"}__ [(doi: 10.5281/zenodo.7870625)](https://doi.org/10.5281/zenodo.7870625){:target="_blank"}, supporting an incremental approach to digitization and transcription so that researchers can transcribe only the music they need, rather than entire scores.
 
 ### __Publications__
-["Popularisierung durch Bearbeitung: Beethovens Symphonien im Verlag Peters."](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-962818){:target="_blank"}
-Lisa Rosendahl, Kommerz und Kanonisierung. Geschäftsdaten als Quelle für die Musikwissenschaft, Ed. Maximilian Rosenthal, Leipzig, 2025, pp. 223–249.
+["Popularisierung durch Bearbeitung: Beethovens Symphonien im Verlag Peters."](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-962818){:target="_blank"} Lisa Rosendahl, Kommerz und Kanonisierung. Geschäftsdaten als Quelle für die Musikwissenschaft, Ed. Maximilian Rosenthal, Leipzig, 2025, pp. 223–249.
 
-["Supporting musicological investigations with information retrieval tools: an iterative approach to data collection."](https://archives.ismir.net/ismir2023/paper/000094.pdf){:target="_blank"}
-David Lewis, Elisabete Shibata, Andrew Hankinson, Johannes Kepper, Kevin R. Page, Lisa Rosendahl, Mark Saccomano, Christine Siegert,
+["Selective Encoding: Reducing the Burden of Transcription for Digital Musicologists."](http://journals.openedition.org/jtei/5832){:target="_blank"} Mark Saccomano, Lisa Rosendahl, David Lewis, Andrew Hankinson, Johannes Kepper, Kevin Page und Elisabete Shibata, Journal of the Text Encoding Initiative 18 (2024). 
+
+["Supporting musicological investigations with information retrieval tools: an iterative approach to data collection."](https://archives.ismir.net/ismir2023/paper/000094.pdf){:target="_blank"} David Lewis, Elisabete Shibata, Andrew Hankinson, Johannes Kepper, Kevin R. Page, Lisa Rosendahl, Mark Saccomano, Christine Siegert,
 Proceedings of the 24th International Society for Music Information Retrieval Conference, Milan, 2023.
 
 ["A New Conceptual Model for Musical Sources and Musicological Studies."](https://doi.org/10.17613/8p2c-1q77){:target="_blank"} Elisabete Shibata, David Lewis, Mark Saccomano, Andrew Hankinson, Johannes Kepper, and Kevin Page. 2023. Music Encoding Conference Proceedings 2022, pp.145-150, 2023. [doi:10.17613/8p2c-1q77](https://doi.org/10.17613/8p2c-1q77){:target="_blank"}
