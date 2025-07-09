@@ -24,8 +24,8 @@ Documentation for creating  __[Selective Encodings](https://doi.org/10.5281/zeno
 
 ["Selective Encoding: Reducing the Burden of Transcription for Digital Musicologists."](http://journals.openedition.org/jtei/5832){:target="_blank"} Mark Saccomano, Lisa Rosendahl, David Lewis, Andrew Hankinson, Johannes Kepper, Kevin Page und Elisabete Shibata, Journal of the Text Encoding Initiative 18 (2024). 
 
-["Supporting musicological investigations with information retrieval tools: an iterative approach to data collection."](https://archives.ismir.net/ismir2023/paper/000094.pdf){:target="_blank"} David Lewis, Elisabete Shibata, Andrew Hankinson, Johannes Kepper, Kevin R. Page, Lisa Rosendahl, Mark Saccomano, Christine Siegert,
-Proceedings of the 24th International Society for Music Information Retrieval Conference, Milan, 2023.
+["Supporting musicological investigations with information retrieval tools: an iterative approach to data collection."](https://zenodo.org/records/10265407){:target="_blank"} David Lewis, Elisabete Shibata, Andrew Hankinson, Johannes Kepper, Kevin R. Page, Lisa Rosendahl, Mark Saccomano, Christine Siegert,
+Proceedings of the 24th International Society for Music Information Retrieval Conference, Milan, 2023. [doi:10.5281/zenodo.10265407](https://doi.org/10.5281/zenodo.10265407){:target="_blank"}
 
 ["A New Conceptual Model for Musical Sources and Musicological Studies."](https://doi.org/10.17613/8p2c-1q77){:target="_blank"} Elisabete Shibata, David Lewis, Mark Saccomano, Andrew Hankinson, Johannes Kepper, and Kevin Page. 2023. Music Encoding Conference Proceedings 2022, pp.145-150, 2023. [doi:10.17613/8p2c-1q77](https://doi.org/10.17613/8p2c-1q77){:target="_blank"}
 
