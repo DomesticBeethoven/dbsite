@@ -22,7 +22,7 @@ Documentation for creating  __[Selective Encodings](https://doi.org/10.5281/zeno
 ### __Publications__
 ["Popularisierung durch Bearbeitung: Beethovens Symphonien im Verlag Peters."](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-962818){:target="_blank"} Lisa Rosendahl, Kommerz und Kanonisierung. Geschäftsdaten als Quelle für die Musikwissenschaft, Ed. Maximilian Rosenthal, Leipzig, 2025, pp. 223–249.
 
-["Selective Encoding: Reducing the Burden of Transcription for Digital Musicologists."](http://journals.openedition.org/jtei/5832){:target="_blank"} Mark Saccomano, Lisa Rosendahl, David Lewis, Andrew Hankinson, Johannes Kepper, Kevin Page und Elisabete Shibata, Journal of the Text Encoding Initiative 18 (2024). 
+["Selective Encoding: Reducing the Burden of Transcription for Digital Musicologists."](http://journals.openedition.org/jtei/5832){:target="_blank"} Mark Saccomano, Lisa Rosendahl, David Lewis, Andrew Hankinson, Johannes Kepper, Kevin Page und Elisabete Shibata, Journal of the Text Encoding Initiative 18 (2024). [doi:10.4000/13x2d](https://doi.org/10.4000/13x2d){:target="_blank"}
 
 ["Supporting musicological investigations with information retrieval tools: an iterative approach to data collection."](https://zenodo.org/records/10265407){:target="_blank"} David Lewis, Elisabete Shibata, Andrew Hankinson, Johannes Kepper, Kevin R. Page, Lisa Rosendahl, Mark Saccomano, Christine Siegert,
 Proceedings of the 24th International Society for Music Information Retrieval Conference, Milan, 2023. [doi:10.5281/zenodo.10265407](https://doi.org/10.5281/zenodo.10265407){:target="_blank"}
@@ -52,8 +52,6 @@ Proceedings of the 24th International Society for Music Information Retrieval Co
 
 "Vom Wandel der Werke: Bearbeitungen von Beethovens Klaviersonaten im 19. Jahrhundert." Christine Siegert. Beethoven Piano Club, Bonn, January 30, 2023.
 
-“Beethoven in the House." Christine Siegert, Andrew Hankinson, Johannes Kepper, David Lewis, Kevin Page, Lisa Rosendahl, Mark Saccomano, and Elisabete Shibata. Jahrestagung der Gesellschaft für Musikforschung, “Nach der Norm: Musikwissenschaft im 21. Jahrhundert,” Berlin, September 28-October 1, 2022.
-
 ["Modeling Music for Musicologists: A Linked Open Data Approach."](/assets/docs/DH2022slides.pdf){:target="_blank"} Mark Saccomano, Elisabete Shibata, David Lewis, Andrew Hankinson, Kevin Page. Digital Humanities 2022, Tokyo, July&nbsp;<nobr>25-29</nobr>,&nbsp;2022.
 
 ["Beethoven in the House: Annotating Digital Sources to Contextualise Musicology Studies."](/assets/docs/Page-IAML2022-slides.pdf){:target="_blank"} Kevin R. Page, Andrew Hankinson, Elisabete Shibata, and Mark Saccomano. IAML Congress 2022, Prague, July&nbsp;24-29, 2022.
@@ -72,9 +70,11 @@ Proceedings of the 24th International Society for Music Information Retrieval Co
 
 ### __Panels__
 
- "Beethoven in the House." Research project presentation. Jahrestagung der Gesellschaft für Musikforschung (GfM Tagung 2022), Berlin, September 28 – October&nbsp;1, 2022.
+“Beethoven in the House." Research project presentation. Christine Siegert, Andrew Hankinson, Johannes Kepper, David Lewis, Kevin Page, Lisa Rosendahl, Mark Saccomano, and Elisabete Shibata. Jahrestagung der Gesellschaft für Musikforschung, “Nach der Norm: Musikwissenschaft im 21. Jahrhundert,” Berlin, September 28-October 1, 2022.
 
-“Beethoven’s Large Scale Works outside the Concert Hall: Towards a Digital Representation of Domestic Arrangements.” Roundtable. 21st Quinquennial Congress of the International Musicological Society, (IMS 2022), Athens, August 22-26, 2022.
+<!-- Add later link to the abstract of the GfMF (https://www.musikundmedien.hu-berlin.de/de/musikwissenschaft/Historische/gfm-tagung-2022) when the webpage is accessible (there is a server error right now). -->
+
+[“Beethoven’s Large Scale Works outside the Concert Hall: Towards a Digital Representation of Domestic Arrangements.”](https://convin.gr/assets/files/misc/IMS2022AB.pdf#page=98)){:target="_blank"} Roundtable. Christine Siegert (organizer), Christina Bashford, Lisa Rosendahl, Elisabete Shibata, David Lewis, Andrew Hankinson, Laurent Pungin, Richard Sänger, Johannes Kepper, Mark Saccomano, and Kevin Page. 21st Quinquennial Congress of the International Musicological Society (IMS 2022), Athens, August 22-26, 2022.
 
 
 ### __Posters__
