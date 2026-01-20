@@ -8,9 +8,9 @@ __The Beethoven in the House Annotator App__ is a web-based application that pro
 
 <!-- #### ➤  __[NEW: Tutorials!]({{ site.baseurl }}/tutorials)__ For a walkthrough and cheat sheet, check out the __[tutorial page]({{ site.baseurl }}/tutorials)__.-->
 
-* Read more about the __[design and use of the app]({{ site.baseurl }}/tutorials))__.
+<!-- * Read more about the __[design and use of the app]({{ site.baseurl }}/tutorials)__. -->
 
-This tool is a proof of concept for writing editorial annotations as Linked Data, combining the Oxford e-Research Centre's [Music Encoding and Linked Data (MELD)](https://meld.web.ox.ac.uk/){:target="_blank"} platform with tools developed by the [Edirom Virtual Research Network (ViFE)](https://www.edirom.de/){:target="_blank"} at Paderborn University.
+This tool is also a proof of concept for writing editorial annotations as Linked Data, combining the Oxford e-Research Centre's [Music Encoding and Linked Data (MELD)](https://meld.web.ox.ac.uk/){:target="_blank"} platform with tools developed by the [Edirom Virtual Research Network (ViFE)](https://www.edirom.de/){:target="_blank"} at Paderborn University.
 
 ![Annotator Pane of Version 2.0](/assets/img/selectionMode.png){:width="60%" style="float: left; display:block;  padding-right: 1em;"}
 ![Annotator Pane of Version 2.0](/assets/img/annotatorMode.png){:width="60%" style="float: left; display:block;  padding-right: 1em;"}
