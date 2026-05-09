@@ -1,0 +1,78 @@
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:    <https://www.w3.org/2009/08/skos-reference/skos#> .
+@prefix oa:      <http://www.w3.org/ns/oa#> .
+@prefix frbr:    <http://purl.org/vocab/frbr/core#> .
+@prefix mao:     <https://w3id.org/music-annotation/1.0#> .
+@prefix sda:     <https://w3id.org/
+
+sda:assembling a oa:motivation ;
+  skos:relatedMatch oa:classifying ;
+  rdfs:label "assembling" ;
+  rdfs:comment "Putting any kind of elements from the corpus together to form a workset which can be shared, published, disseminated, or referred to by another annotation. May be an iterative or continuous process which is based on or may involve other activities such as sampling, observing, evidencing, etc." .
+
+sda:assessing a oa:motivation ;
+  skos:closeMatch oa:assessing ;
+  skos:broaderMatch oa:commenting ;
+  rdfs:label "assessing" ;
+  rdfs:comment "Determining the quality of an object of interest or information in terms of its relevance or utility to a corpus or project, or in terms of its (percieved or measured) quality, its provenance, etc." .
+
+sda:commenting a oa:motivation ; 
+   skos:exactMatch oa:commenting ;
+   rdfs:label "commenting" ;
+   rdfs:comment "Making complex statements or presenting arguements to explain observations. Comments can also present historical or analytical reflections informed by academic research, including pointers to external sources and references." .
+
+sda:comparing a oa:motivation ;
+  skos:broaderMatch oa:describing ;
+  rdfs:label "comparing" ;
+  rdfs:comment "Noting the differences between elements in terms of their structural and conceptual features." .
+
+sda:contextualising a oa:motivation ;
+  skos:broaderMatch oa:describing ;
+  rdfs:label "contextualising" ;
+  rdfs:comment "Creating relationships between corpus elements and referential elements necessary or relevant for interpretation. Considered as a specific type of referring." . 
+
+sda:describing a oa:motivation ;
+  skos:exactMatch oa:describing ;
+  rdfs:label "describing" ;
+  rdfs:comment "DESCRIBING . . . .. ." .
+
+sda:evidencing a oa:motivation ;
+  rdfs:label "evidencing" ;
+  rdfs:comment "Indicates an element is intended to serve as evidence for a scholarly claim or argument." .
+
+sda:illustrating a oa:motivation ;
+  skos:broaderMatch oa:describing ;
+  rdfs:label "illustrating" ;
+  rdfs:comment "Visual content intended to express an idea, argument, or description that is represented by text, speech, numeric data, or by other visual elements." .
+
+sda:notetaking a oa:motivation ;
+  skos:broader sda:commenting ;
+  rdfs:label "notetaking" ;
+  rdfs:comment "Jotting down thoughts, remarks, or notes at any stage of the working and research process." .
+
+sda:observing a oa:motivation ;
+   skos:broaderMatch oa:describing ;
+   rdfs:label "observing" ;
+   rdfs:comment "Labelling or identifying a feature of an element with remarks that aim to be simple and objective, using conventional terminology where possible to facilitate reuse. It is a narrower category than "describing" as it calls for a specific stance and perspective regarding the object. An objective remark is modeled on an empirically grounded statement, as in an experimental observation of a dependent variable; a measurement." .
+
+sda:referring a oa:motivation ;
+  skos:broaderMatch oa:linking ;
+  rdfs:label "referring" ;
+  rdfs:comment "Pointing to an external or internal resource. For example, by adding a hypertext link or citation." .
+
+sda:sampling a oa:motivation ;
+  skos:broader sda:selecting ;
+  rdfs:label "sampling" ;
+  rdfs:comment "Sampling is a subtype of selection as it constitutes a new corpus (the sample) as a subset of the original corpus. Both selecting and sampling re-arrange a corpus into a new state or constitute a new one. However, sampling is always performed on an existing corpus." .
+
+sda:selecting a oa:motivation ;
+  rdfs:label "selecting" ;
+  rdfs:comment "Selecting objects of interest or information from the corpus based on certain criteria. Selecting can be used to form a new corpus or workset through the simultaneous targeting of multiple resources, or to add resources to an existing corpus or workset." .
+
+sda:translating a oa:motivation ;
+  skos:broaderMatch oa:describing ;
+  rdfs:label "translating" ;
+  rdfs:comment "Converting and interpreting terminology, concepts, theories, etc. for oneself or also for different (disciplinary) audiences." .
+
+
+

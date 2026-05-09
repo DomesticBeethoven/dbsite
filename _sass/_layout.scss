@@ -10,6 +10,19 @@
   position: relative;
 }
 
+.section {
+
+
+  @include relative-font-size(1.5);
+  font-family: "Cinzel", serif;
+  font-weight: 500;
+  color: #1c3238;
+  line-height: $base-line-height * $base-font-size * 2.25;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: left;
+}
+
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;

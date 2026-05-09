@@ -1,0 +1,126 @@
+{
+  "@context": {
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "event": "http://purl.org/NET/c4dm/event.owl#",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "skos": "https://www.w3.org/2009/08/skos-reference/skos#",
+    "oa": "http://www.w3.org/ns/oa#",
+    "frbr": "http://purl.org/vocab/frbr/core#",
+    "mAnnot": "https://w3id.org/music-annotation/1.0#"
+  },
+  "@graph": [
+    {
+      "@id": "mAnnot:MusicalIdea",
+      "@type": "rdfs:Class",
+      "rdfs:subClassOf": {
+        "@id": "frbr:Work"
+      },
+      "rdfs:label": "MusicalIdea",
+      "rdfs:comment": "Analogous to frbr:work, but on a local level, as an element of a larger piece. An abstract entity that refers to the musical thought behind a musical structure, especially a recurring one."
+    },
+    {
+      "@id": "mAnnot:MusicalMaterial",
+      "@type": "rdfs:Class",
+      "rdfs:subClassOf": {
+        "@id": "frbr:Expression"
+      },
+      "rdfs:label": "MusicalMaterial",
+      "rdfs:comment": "The musical concept behind a musical Extract, independent of its various expressions in different arrangements or recordings (or, in a variation set, within a single variation). The realization of a MusicalIdea."
+    },
+    {
+      "@id": "mAnnot:Extract",
+      "@type": "rdfs:Class",
+      "rdfs:subClassOf": {
+        "@id": "frbr:Expression"
+      },
+      "rdfs:label": "Extract",
+      "rdfs:comment": "A portion of music, independent of its manifestation in a particular edition, or its realization in any individual performance or media format."
+    },
+    {
+      "@id": "mAnnot:Selection",
+      "@type": "rdfs:Class",
+      "rdfs:subClassOf": {
+        "@id": "frbr:Manifestation"
+      },
+      "rdfs:label": "Selection",
+      "rdfs:comment": "A collection of UUIDs that comprise a single musical object, at any level, within a single resource."
+    },
+    {
+      "@id": "mAnnot:setting",
+      "@type": "rdf:Property",
+      "rdfs:domain": {
+        "@id": "mAnnot:MusicalMaterial"
+      },
+      "rdfs:range": {
+        "@id": "mAnnot:Extract"
+      },
+      "rdfs:comment": "A setting of MusicalMaterial in an Extract. "
+    },
+    {
+      "@id": "mAnnot:settingOf",
+      "@type": "rdf:Property",
+      "rdfs:domain": {
+        "@id": "mAnnot:Extract"
+      },
+      "rdfs:range": {
+        "@id": "mAnnot:MusicalMaterial"
+      },
+      "rdfs:comment": "The MusicalMaterial that this Extract is a setting of. Inverse of setting."
+    },
+    {
+      "@id": "mAnnot:absenceSelection",
+      "@type": "rdfs:Class",
+      "rdfs:subClassOf": {
+        "@id": "mAnnot:Selection"
+      },
+      "rdfs:comment": "A point marker that combines with an AbsenceQualification value (e.g., 'before') to indicate the location of an addition or abridgment relative to another version of the same work"
+    },
+    {
+      "@id": "mAnnot:absenceQualifier",
+      "@type": "rdf:Property",
+      "rdfs:domain": {
+        "@id": "mAnnot:absenceSelection"
+      },
+      "rdfs:range": {
+        "@id": "mAnnot:AbsenceQualification"
+      }
+    },
+    {
+      "@id": "mAnnot:absenceQualification",
+      "@type": "rdfs:Class",
+      "rdfs:domain": {
+        "@id": "mAnnot:absenceQualifier"
+      }
+    },
+    {
+      "@id": "mAnnot:observing",
+      "@type": "oa:motivation",
+      "skos:broader": {
+        "@id": "oa:describing"
+      },
+      "skos:prefLabel": "observing",
+      "rdfs:label": "observing",
+      "rdfs:comment": "A type of annotation making an observation (rather than a comment), often for purposes of comparison"
+    },
+    {
+      "@id": "mAnnot:comparing",
+      "@type": "oa:motivation",
+      "skos:broader": {
+        "@id": "oa:describing"
+      },
+      "skos:prefLabel": "comparing",
+      "rdfs:label": "comparing",
+      "rdfs:comment": "A type of annotation that makes a comparison of two or more versions or Extracts, often for purposes of scholarly commentary"
+    },
+    {
+      "@id": "mAnnot:commenting",
+      "@type": "oa:motivation",
+      "skos:prefLabel": "commenting",
+      "rdfs:label": "commenting",
+      "rdfs:comment": "A type of annotation that makes a comment on musical structure or another annotation, often used to enrich Observation descriptions with historical background and analytical reflections informed by academic research. Includes pointers to external sources and references"
+    }
+  ]
+}

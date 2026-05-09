@@ -3,5 +3,6 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+Gemfile.lock
 vendor
 assets/video/Screencast1.mp4

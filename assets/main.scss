@@ -34,8 +34,7 @@
 
   &,
   &:visited {
-    color: #063d0c;
-//      color: red;
+    color: #0b5713;
   }
 }
 
@@ -67,12 +66,20 @@
 /**
  * Links
  */
+
+/** 04520d
+* old Color
+// color: #063d0c
+
+color picker https://www.crispedge.com/color/e1ede1/
+*/
+
 a {
-  color: #063d0c;
+  color: #04520d;
   text-decoration: none;
 
   &:visited {
-    color: #063d0c;
+    color: #0b5713;
   }
 
   &:hover {
@@ -155,5 +162,49 @@ td {
   @include relative-font-size(1.0);
   margin-bottom: $spacing-unit / 2;
   font-family: "Cinzel", serif;
-  color: dimgrey;
+  color: #414141;
+}
+
+.rotated {
+  transform: rotate(90deg);
+}
+
+.fixed-size {
+  width: 600px;
+  /* Adjust to desired width */
+  height: auto;
+  /* Maintain aspect ratio */
+}
+.screenshot {
+  max-width: 100%;
+    /* Ensure the image doesn't exceed the container width */
+    height: auto;
+    /* Maintain aspect ratio */
+    margin-bottom: 1em;
+}
+
+.indented {
+  margin-left: 20px;
+}
+
+.double-indented {
+  margin-left: 40px;
+}
+
+.command-button {
+  display: inline-block;
+  padding: 2px 6px;
+  margin: 2px;
+  font-family: monospace;
+  font-size: 90%;
+  color: #333;
+  background-color: #f8f9fa;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.screenshot-inline {
+  height: 1.2em;
+  vertical-align: middle;
 }

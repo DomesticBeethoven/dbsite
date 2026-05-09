@@ -3,28 +3,53 @@ layout: page
 title: Dissemination
 weight: 3
 permalink: /dissemination/
+vimeoId: 780308332
 ---
-<!-- <div style=
-    "color:#063d0c;
-    font-weight:bold;
-    font-size:125%;
-    line-height:1.5" > -->
+
 ### __Prototype__
 
-Try it here &nbsp;⋅⋅⋅ >> &nbsp;  __[https://tool.domestic-beethoven.eu](https://tool.domestic-beethoven.eu){:target="_blank"}__
+See the annotation tool in action &nbsp;⋅⋅⋅ >> &nbsp; __[Prototype screencast](https://vimeo.com/780308332){:target="_blank"}__\\
+Try it yourself here &nbsp;⋅⋅⋅ >> &nbsp;  __[tool.domestic-beethoven.eu](https://tool.domestic-beethoven.eu){:target="_blank"}__
 
-<sup>_Note that a personal Solid pod — available free from_ <span style="text-decoration: underline;">[SolidCommunity](https://solidcommunity.net/){:target="_blank"}</span> _— is required for use._</sup>
-
+<!-- <sup>_Note that a personal Solid Pod — available free from_ <span style="text-decoration: underline;">[SolidCommunity](https://solidcommunity.net/){:target="_blank"}</span> _— is required for use._</sup> -->
 
 ### __Documentation__
 
 Documentation for the Beethoven in the House __[Music Annotation model](/assets/docs/BitHModelDocumentation_v0.2.1.pdf){:target="_blank"}__.
 
+Documentation for creating  __[Selective Encodings](https://doi.org/10.5281/zenodo.7870625){:target="_blank"}__ [(doi: 10.5281/zenodo.7870625)](https://doi.org/10.5281/zenodo.7870625){:target="_blank"}, supporting an incremental approach to digitization and transcription so that researchers can transcribe only the music they need, rather than entire scores.
+
+### __Publications__
+["Popularisierung durch Bearbeitung: Beethovens Symphonien im Verlag Peters."](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-962818){:target="_blank"} Lisa Rosendahl, Kommerz und Kanonisierung. Geschäftsdaten als Quelle für die Musikwissenschaft, Ed. Maximilian Rosenthal, Leipzig, 2025, pp. 223–249.
+
+["Selective Encoding: Reducing the Burden of Transcription for Digital Musicologists."](http://journals.openedition.org/jtei/5832){:target="_blank"} Mark Saccomano, Lisa Rosendahl, David Lewis, Andrew Hankinson, Johannes Kepper, Kevin Page und Elisabete Shibata, Journal of the Text Encoding Initiative 18 (2024). [doi:10.4000/13x2d](https://doi.org/10.4000/13x2d){:target="_blank"}
+
+["Supporting musicological investigations with information retrieval tools: an iterative approach to data collection."](https://zenodo.org/records/10265407){:target="_blank"} David Lewis, Elisabete Shibata, Andrew Hankinson, Johannes Kepper, Kevin R. Page, Lisa Rosendahl, Mark Saccomano, Christine Siegert,
+Proceedings of the 24th International Society for Music Information Retrieval Conference, Milan, 2023. [doi:10.5281/zenodo.10265407](https://doi.org/10.5281/zenodo.10265407){:target="_blank"}
+
+["A New Conceptual Model for Musical Sources and Musicological Studies."](https://doi.org/10.17613/8p2c-1q77){:target="_blank"} Elisabete Shibata, David Lewis, Mark Saccomano, Andrew Hankinson, Johannes Kepper, and Kevin Page. 2023. Music Encoding Conference Proceedings 2022, pp.145-150, 2023. [doi:10.17613/8p2c-1q77](https://doi.org/10.17613/8p2c-1q77){:target="_blank"}
+
+"Franz Gerhard Wegeler, _Die Klage_. Das Adagio aus Beethovens Klaviersonate op. 2 Nr. 1 aus Bonner Sicht." Christine Siegert. Ed. Beate Angelika Kraus. Jahresgaben des Vereins Beethoven-Haus, 38, Bonn 2022.
+
+["A model for annotating musical versions and arrangements across multiple documents and media."](https://doi.org/10.1145/3543882.3543891){:target="_blank"} David Lewis, Elisabete Shibata, Mark Saccomano, Lisa Rosendahl, Johannes Kepper, Andrew Hankinson, Christine Siegert, and Kevin Page. 2022. _9th International Conference on Digital Libraries for Musicology_ (DLfM2022). Association for Computing Machinery, New York, 10–18. [doi:10.1145/3543882.3543891](https://doi.org/10.1145/3543882.3543891){:target="_blank"}
+
+["Beethoven in the House: Digital Studies of Domestic Music Arrangements."](https://doi.org/10.17613/389b-xx73){:target="_blank"} Kevin R. Page, Johannes Kepper, Christine Siegert, Andrew Hankinson, and David Lewis. Music Encoding Conference Proceedings 2021, pp.117-123, 2022. [doi:10.17613/389b-xx73](https://doi.org/10.17613/389b-xx73){:target="_blank"}
+
+
+
 <!-- Documentation for the Domestic Beethoven __[Selective Encoding Protocol](/assets/docs/BitHSelectiveEncoding.pdf){:target="_blank"}__ for MEI. -->
 
 ### __Presentations__
 
-“Beethoven in the House." Christine Siegert, Andrew Hankinson, Johannes Kepper, David Lewis, Kevin Page, Lisa Rosendahl, Mark Saccomano, and Elisabete Shibata. Jahrestagung der Gesellschaft für Musikforschung, “Nach der Norm: Musikwissenschaft im 21. Jahrhundert,” Berlin, September 28-October 1, 2022.
+["Selective Encoding: Reducing the Burden of Transcription for Digital Musicologists."](https://teimec2023.uni-paderborn.de/contributions/137.html){:target="_blank"} Mark Saccomano, Lisa Rosendahl, David Lewis, Andrew Hankinson, Johannes Kepper, Kevin Page, Elisabete Shibata. Encoding Cultures: Joint MEC and TEI Conference 2023, Paderborn, Germany, September 4-8, 2023.
+
+"Klavier- und Kammermusik als Lied. Zur Praxis der Vertextung am Beispiel Ludwig van Beethovens." Christine Siegert. Following the Lieder. Formen Praktiken und Potenziale einer dynamischen Gattung (Lecture Series), Universität Bonn, Universität Siegen and Universität Marburg, May 2, 2023.
+
+"Kammermusikbearbeitungen als Geschäft: Beethovens Symphonien im Verlag C. F. Peters." Lisa Rosendahl. Geschäftsdaten als Quelle für die Musikwissenschaft. Repertoire- und Verlagsforschung mit der Musikverlagsdatenbank (mvdb), Leipzig, March 9-10, 2023.
+
+“Piano Sonatas as Chamber Works – The Beethoven Case.” Christine Siegert. Chamber Scenes: Musical Space, Medium, and Genre c. 1800 (Conference), Ira F. Brillian Center for Beethoven Studies, San José State University, February 16-18, 2023.
+
+"Vom Wandel der Werke: Bearbeitungen von Beethovens Klaviersonaten im 19. Jahrhundert." Christine Siegert. Beethoven Piano Club, Bonn, January 30, 2023.
 
 ["Modeling Music for Musicologists: A Linked Open Data Approach."](/assets/docs/DH2022slides.pdf){:target="_blank"} Mark Saccomano, Elisabete Shibata, David Lewis, Andrew Hankinson, Kevin Page. Digital Humanities 2022, Tokyo, July&nbsp;<nobr>25-29</nobr>,&nbsp;2022.
 
@@ -44,16 +69,10 @@ Documentation for the Beethoven in the House __[Music Annotation model](/assets/
 
 ### __Panels__
 
- "Beethoven in the House." Research project presentation. Jahrestagung der Gesellschaft für Musikforschung (GfM Tagung 2022), Berlin, September 28 – October&nbsp;1, 2022.
+[“Beethoven in the House."](https://www.musikundmedien.hu-berlin.de/de/musikwissenschaft/Historische/gfm-tagung-2022/gfm_broschuere.pdf#page=65){:target="_blank"} Research project presentation. Christine Siegert, Andrew Hankinson, Johannes Kepper, David Lewis, Kevin Page, Lisa Rosendahl, Mark Saccomano, and Elisabete Shibata. Jahrestagung der Gesellschaft für Musikforschung, “Nach der Norm: Musikwissenschaft im 21. Jahrhundert,” Berlin, September 28-October 1, 2022.
 
-“Beethoven’s Large Scale Works outside the Concert Hall: Towards a Digital Representation of Domestic Arrangements.” Roundtable. 21st Quinquennial Congress of the International Musicological Society, (IMS 2022), Athens, August 22-26, 2022.
+[“Beethoven’s Large Scale Works outside the Concert Hall: Towards a Digital Representation of Domestic Arrangements.”](https://convin.gr/assets/files/misc/IMS2022AB.pdf#page=98){:target="_blank"} Roundtable. Christine Siegert (organizer), Christina Bashford, Lisa Rosendahl, Elisabete Shibata, David Lewis, Andrew Hankinson, Laurent Pungin, Richard Sänger, Johannes Kepper, Mark Saccomano, and Kevin Page. 21st Quinquennial Congress of the International Musicological Society (IMS 2022), Athens, August 22-26, 2022.
 
-
-### __Publications__
-
-"A model for annotating musical versions and arrangements across multiple documents and media." David Lewis, Elisabete Shibata, Mark Saccomano, Lisa Rosendahl, Johannes Kepper, Andrew Hankinson, Christine Siegert, and Kevin Page. 2022. _9th International Conference on Digital Libraries for Musicology_ (DLfM2022). Association for Computing Machinery, New York, 10–18. [doi:10.1145/3543882.3543891](https://doi.org/10.1145/3543882.3543891){:target="_blank"}
-
-“Beethoven in the House: Digital Studies of Domestic Music Arrangements.” Kevin R. Page, Johannes Kepper, Christine Siegert, Andrew Hankinson, and David Lewis. Proceedings of the Music Encoding Conference 2021, pp.117-123, 2022. [doi:10.17613/389b-xx73](https://doi.org/10.17613/389b-xx73){:target="_blank"}
 
 ### __Posters__
 
@@ -61,4 +80,8 @@ Documentation for the Beethoven in the House __[Music Annotation model](/assets/
 
 ### __Press__
 
-Rembert Unterstell. ["Ode an das Werk." _forschung: Das Magazin der Deutschen Forschungsgemeinschaft_](/assets/docs/Ode_an_das_Werk.pdf), January 2020.
+Elisabete Shibata und Lisa Rosendahl. ["Vielfältige Verwandlung - Bearbeitungen des _Allegrettos_ der Siebten Symphonie" _Appassionato № 49 - Verwandlungen - Transformations_](/assets/docs/Appassionato_49.pdf){:target="_blank"}, November 2022.
+
+Richard Sänger and Elisabete Shibata. ["Beethoven-Bearbeitungen im Zentrum - Klanginstallation „Inside Beethoven!“ und neues Forschungsprojekt „Beethoven in the House“." _Appassionato № 45 - Aussichten_](/assets/docs/Appassionato_45.pdf){:target="_blank"}, November 2020.
+
+Rembert Unterstell. ["Ode an das Werk." _forschung: Das Magazin der Deutschen Forschungsgemeinschaft_](/assets/docs/Ode_an_das_Werk.pdf){:target="_blank"}, January 2020.

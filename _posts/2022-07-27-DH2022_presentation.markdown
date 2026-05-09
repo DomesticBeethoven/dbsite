@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DH2020"
-full_title: "DH2020 -- Modeling Music for Musicologists: A Linked Open Data Approach"
+full_title: "DH2022 — Modeling Music for Musicologists: A Linked Open Data Approach"
 date:   2022-07-27 09:33:48 +0200
 category: annotation
 excerpt_separator: <!--more-->

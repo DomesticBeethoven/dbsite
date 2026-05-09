@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GfM 2022"
-full_title: "GfM 2022 -- Project Presentation in Berlin"
+full_title: "GfM 2022 — Project Presentation in Berlin"
 date:   2022-10-01 09:33:48 +0200
 category: annotation
 excerpt_separator: <!--more-->
@@ -11,8 +11,6 @@ vimeoId: 780308332
 The [annual conference of the Gesellschaft für Musikforschung](https://www.musikundmedien.hu-berlin.de/de/musikwissenschaft/gfm2022) (GfM) in Berlin was an opportunity for the entire Beethoven in the House research team to present progress on all aspects of the project, as well as demonstrate the current stage of application development.
 <!--more-->
 Colleagues at the [Forschungszentrum Beethoven-Archiv](https://www.beethoven.de/en/studies#beethoven-archiv) at Beethoven-Haus Bonn presented preliminary discoveries they have made in the repertoire. Team members from Oxford's [e-Research Centre](https://oerc.ox.ac.uk/) discussed the novel aspect of the project: accessing resources and generating original research entirely within a digital environment--an environment that adheres to the technical specifications of Linked Data.
-
-<!-- ![Screencast of annotator prototype](/assets/video/Screencast1.mp4){:height="300px" width?"500px"} -->
 
 {% include vimeoPlayer.html id=page.vimeoId %}
 
