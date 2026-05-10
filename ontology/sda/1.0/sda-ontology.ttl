@@ -3,7 +3,7 @@
 @prefix oa:      <http://www.w3.org/ns/oa#> .
 @prefix frbr:    <http://purl.org/vocab/frbr/core#> .
 @prefix mao:     <https://w3id.org/music-annotation/1.0#> .
-@prefix sda:     <https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#
+@prefix sda:     <https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#> .
 
 sda:assembling a oa:motivation ;
   skos:relatedMatch oa:classifying ;
