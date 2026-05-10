@@ -34,7 +34,7 @@ sda:contextualising a oa:motivation ;
 sda:describing a oa:motivation ;
   skos:exactMatch oa:describing ;
   rdfs:label "describing" ;
-  rdfs:comment "DESCRIBING . . . .. ." .
+  rdfs:comment "To characterize something according to its structural or conceptual features. Encompasses a broad range of activities, from making simple factual statements to interpretive practices such as commenting and comparing." .
 
 sda:evidencing a oa:motivation ;
   rdfs:label "evidencing" ;
@@ -53,7 +53,7 @@ sda:notetaking a oa:motivation ;
 sda:observing a oa:motivation ;
    skos:broaderMatch oa:describing ;
    rdfs:label "observing" ;
-   rdfs:comment "Labelling or identifying a feature of an element with remarks that aim to be simple and objective, using conventional terminology where possible to facilitate reuse. It is a narrower category than "describing" as it calls for a specific stance and perspective regarding the object. An objective remark is modeled on an empirically grounded statement, as in an experimental observation of a dependent variable; a measurement." .
+   rdfs:comment "Labelling or identifying a feature of an element with remarks that aim to be simple and objective, using conventional terminology where possible to facilitate reuse. It is a narrower category than 'describing' as it calls for a specific stance and perspective regarding the object. An objective remark is modeled on an empirically grounded statement, as in an experimental observation of a dependent variable; a measurement." .
 
 sda:referring a oa:motivation ;
   skos:broaderMatch oa:linking ;
@@ -73,6 +73,3 @@ sda:translating a oa:motivation ;
   skos:broaderMatch oa:describing ;
   rdfs:label "translating" ;
   rdfs:comment "Converting and interpreting terminology, concepts, theories, etc. for oneself or also for different (disciplinary) audiences." .
-
-
-
