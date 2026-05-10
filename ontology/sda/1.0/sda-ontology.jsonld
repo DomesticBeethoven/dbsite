@@ -1,0 +1,199 @@
+[
+  {
+    "@id": "http://www.w3.org/ns/oa#assessing"
+  },
+  {
+    "@id": "http://www.w3.org/ns/oa#classifying"
+  },
+  {
+    "@id": "http://www.w3.org/ns/oa#commenting"
+  },
+  {
+    "@id": "http://www.w3.org/ns/oa#describing"
+  },
+  {
+    "@id": "http://www.w3.org/ns/oa#linking"
+  },
+  {
+    "@id": "http://www.w3.org/ns/oa#motivation"
+  },
+  {
+    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#assembling",
+    "@type": ["http://www.w3.org/ns/oa#motivation"],
+    "https://www.w3.org/2009/08/skos-reference/skos#relatedMatch": [
+      { "@id": "http://www.w3.org/ns/oa#classifying" }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      { "@value": "assembling" }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      { "@value": "Putting any kind of elements from the corpus together to form a workset which can be shared, published, disseminated, or referred to by another annotation. May be an iterative or continuous process which is based on or may involve other activities such as sampling, observing, evidencing, etc." }
+    ]
+  },
+  {
+    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#assessing",
+    "@type": ["http://www.w3.org/ns/oa#motivation"],
+    "https://www.w3.org/2009/08/skos-reference/skos#closeMatch": [
+      { "@id": "http://www.w3.org/ns/oa#assessing" }
+    ],
+    "https://www.w3.org/2009/08/skos-reference/skos#broaderMatch": [
+      { "@id": "http://www.w3.org/ns/oa#commenting" }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      { "@value": "assessing" }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      { "@value": "Determining the quality of an object of interest or information in terms of its relevance or utility to a corpus or project, or in terms of its (perceived or measured) quality, its provenance, etc." }
+    ]
+  },
+  {
+    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#commenting",
+    "@type": ["http://www.w3.org/ns/oa#motivation"],
+    "https://www.w3.org/2009/08/skos-reference/skos#exactMatch": [
+      { "@id": "http://www.w3.org/ns/oa#commenting" }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      { "@value": "commenting" }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      { "@value": "Making complex statements or presenting arguments to explain observations. Comments can also present historical or analytical reflections informed by academic research, including pointers to external sources and references." }
+    ]
+  },
+  {
+    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#comparing",
+    "@type": ["http://www.w3.org/ns/oa#motivation"],
+    "https://www.w3.org/2009/08/skos-reference/skos#broaderMatch": [
+      { "@id": "http://www.w3.org/ns/oa#describing" }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      { "@value": "comparing" }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      { "@value": "Noting the differences between elements in terms of their structural and conceptual features." }
+    ]
+  },
+  {
+    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#contextualising",
+    "@type": ["http://www.w3.org/ns/oa#motivation"],
+    "https://www.w3.org/2009/08/skos-reference/skos#broaderMatch": [
+      { "@id": "http://www.w3.org/ns/oa#describing" }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      { "@value": "contextualising" }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      { "@value": "Creating relationships between corpus elements and referential elements necessary or relevant for interpretation. Considered as a specific type of referring." }
+    ]
+  },
+  {
+    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#describing",
+    "@type": ["http://www.w3.org/ns/oa#motivation"],
+    "https://www.w3.org/2009/08/skos-reference/skos#exactMatch": [
+      { "@id": "http://www.w3.org/ns/oa#describing" }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      { "@value": "describing" }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      { "@value": "To characterize something according to its structural or conceptual features. Encompasses a broad range of activities, from making simple factual statements to interpretive practices such as commenting and comparing." }
+    ]
+  },
+  {
+    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#evidencing",
+    "@type": ["http://www.w3.org/ns/oa#motivation"],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      { "@value": "evidencing" }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      { "@value": "Indicates an element is intended to serve as evidence for a scholarly claim or argument." }
+    ]
+  },
+  {
+    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#illustrating",
+    "@type": ["http://www.w3.org/ns/oa#motivation"],
+    "https://www.w3.org/2009/08/skos-reference/skos#broaderMatch": [
+      { "@id": "http://www.w3.org/ns/oa#describing" }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      { "@value": "illustrating" }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      { "@value": "Visual content intended to express an idea, argument, or description that is represented by text, speech, numeric data, or by other visual elements." }
+    ]
+  },
+  {
+    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#notetaking",
+    "@type": ["http://www.w3.org/ns/oa#motivation"],
+    "https://www.w3.org/2009/08/skos-reference/skos#broader": [
+      { "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#commenting" }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      { "@value": "notetaking" }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      { "@value": "Jotting down thoughts, remarks, or notes at any stage of the working and research process." }
+    ]
+  },
+  {
+    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#observing",
+    "@type": ["http://www.w3.org/ns/oa#motivation"],
+    "https://www.w3.org/2009/08/skos-reference/skos#broaderMatch": [
+      { "@id": "http://www.w3.org/ns/oa#describing" }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      { "@value": "observing" }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      { "@value": "Labelling or identifying a feature of an element with remarks that aim to be simple and objective, using conventional terminology where possible to facilitate reuse. It is a narrower category than 'describing' as it calls for a specific stance and perspective regarding the object. An objective remark is modeled on an empirically grounded statement, as in an experimental observation of a dependent variable; a measurement." }
+    ]
+  },
+  {
+    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#referring",
+    "@type": ["http://www.w3.org/ns/oa#motivation"],
+    "https://www.w3.org/2009/08/skos-reference/skos#broaderMatch": [
+      { "@id": "http://www.w3.org/ns/oa#linking" }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      { "@value": "referring" }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      { "@value": "Pointing to an external or internal resource. For example, by adding a hypertext link or citation." }
+    ]
+  },
+  {
+    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#sampling",
+    "@type": ["http://www.w3.org/ns/oa#motivation"],
+    "https://www.w3.org/2009/08/skos-reference/skos#broader": [
+      { "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#selecting" }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      { "@value": "sampling" }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      { "@value": "Sampling is a subtype of selection as it constitutes a new corpus (the sample) as a subset of the original corpus. Both selecting and sampling re-arrange a corpus into a new state or constitute a new one. However, sampling is always performed on an existing corpus." }
+    ]
+  },
+  {
+    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#selecting",
+    "@type": ["http://www.w3.org/ns/oa#motivation"],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      { "@value": "selecting" }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      { "@value": "Selecting objects of interest or information from the corpus based on certain criteria. Selecting can be used to form a new corpus or workset through the simultaneous targeting of multiple resources, or to add resources to an existing corpus or workset." }
+    ]
+  },
+  {
+    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#translating",
+    "@type": ["http://www.w3.org/ns/oa#motivation"],
+    "https://www.w3.org/2009/08/skos-reference/skos#broaderMatch": [
+      { "@id": "http://www.w3.org/ns/oa#describing" }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      { "@value": "translating" }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      { "@value": "Converting and interpreting terminology, concepts, theories, etc. for oneself or also for different (disciplinary) audiences." }
+    ]
+  }
+]

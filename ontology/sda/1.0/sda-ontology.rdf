@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:oa="http://www.w3.org/ns/oa#"
+         xmlns:ns0="https://www.w3.org/2009/08/skos-reference/skos#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+  <oa:motivation rdf:about="https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#assembling">
+    <ns0:relatedMatch rdf:resource="http://www.w3.org/ns/oa#classifying"/>
+    <rdfs:label>assembling</rdfs:label>
+    <rdfs:comment>Putting any kind of elements from the corpus together to form a workset which can be shared, published, disseminated, or referred to by another annotation. May be an iterative or continuous process which is based on or may involve other activities such as sampling, observing, evidencing, etc.</rdfs:comment>
+  </oa:motivation>
+
+  <oa:motivation rdf:about="https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#assessing">
+    <ns0:closeMatch rdf:resource="http://www.w3.org/ns/oa#assessing"/>
+    <ns0:broaderMatch rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <rdfs:label>assessing</rdfs:label>
+    <rdfs:comment>Determining the quality of an object of interest or information in terms of its relevance or utility to a corpus or project, or in terms of its (perceived or measured) quality, its provenance, etc.</rdfs:comment>
+  </oa:motivation>
+
+  <oa:motivation rdf:about="https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#commenting">
+    <ns0:exactMatch rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+    <rdfs:label>commenting</rdfs:label>
+    <rdfs:comment>Making complex statements or presenting arguments to explain observations. Comments can also present historical or analytical reflections informed by academic research, including pointers to external sources and references.</rdfs:comment>
+  </oa:motivation>
+
+  <oa:motivation rdf:about="https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#comparing">
+    <ns0:broaderMatch rdf:resource="http://www.w3.org/ns/oa#describing"/>
+    <rdfs:label>comparing</rdfs:label>
+    <rdfs:comment>Noting the differences between elements in terms of their structural and conceptual features.</rdfs:comment>
+  </oa:motivation>
+
+  <oa:motivation rdf:about="https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#contextualising">
+    <ns0:broaderMatch rdf:resource="http://www.w3.org/ns/oa#describing"/>
+    <rdfs:label>contextualising</rdfs:label>
+    <rdfs:comment>Creating relationships between corpus elements and referential elements necessary or relevant for interpretation. Considered as a specific type of referring.</rdfs:comment>
+  </oa:motivation>
+
+  <oa:motivation rdf:about="https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#describing">
+    <ns0:exactMatch rdf:resource="http://www.w3.org/ns/oa#describing"/>
+    <rdfs:label>describing</rdfs:label>
+    <rdfs:comment>To characterize something according to its structural or conceptual features. Encompasses a broad range of activities, from making simple factual statements to interpretive practices such as commenting and comparing.</rdfs:comment>
+  </oa:motivation>
+
+  <oa:motivation rdf:about="https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#evidencing">
+    <rdfs:label>evidencing</rdfs:label>
+    <rdfs:comment>Indicates an element is intended to serve as evidence for a scholarly claim or argument.</rdfs:comment>
+  </oa:motivation>
+
+  <oa:motivation rdf:about="https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#illustrating">
+    <ns0:broaderMatch rdf:resource="http://www.w3.org/ns/oa#describing"/>
+    <rdfs:label>illustrating</rdfs:label>
+    <rdfs:comment>Visual content intended to express an idea, argument, or description that is represented by text, speech, numeric data, or by other visual elements.</rdfs:comment>
+  </oa:motivation>
+
+  <oa:motivation rdf:about="https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#notetaking">
+    <ns0:broader rdf:resource="https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#commenting"/>
+    <rdfs:label>notetaking</rdfs:label>
+    <rdfs:comment>Jotting down thoughts, remarks, or notes at any stage of the working and research process.</rdfs:comment>
+  </oa:motivation>
+
+  <oa:motivation rdf:about="https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#observing">
+    <ns0:broaderMatch rdf:resource="http://www.w3.org/ns/oa#describing"/>
+    <rdfs:label>observing</rdfs:label>
+    <rdfs:comment>Labelling or identifying a feature of an element with remarks that aim to be simple and objective, using conventional terminology where possible to facilitate reuse. It is a narrower category than 'describing' as it calls for a specific stance and perspective regarding the object. An objective remark is modeled on an empirically grounded statement, as in an experimental observation of a dependent variable; a measurement.</rdfs:comment>
+  </oa:motivation>
+
+  <oa:motivation rdf:about="https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#referring">
+    <ns0:broaderMatch rdf:resource="http://www.w3.org/ns/oa#linking"/>
+    <rdfs:label>referring</rdfs:label>
+    <rdfs:comment>Pointing to an external or internal resource. For example, by adding a hypertext link or citation.</rdfs:comment>
+  </oa:motivation>
+
+  <oa:motivation rdf:about="https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#sampling">
+    <ns0:broader rdf:resource="https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#selecting"/>
+    <rdfs:label>sampling</rdfs:label>
+    <rdfs:comment>Sampling is a subtype of selection as it constitutes a new corpus (the sample) as a subset of the original corpus. Both selecting and sampling re-arrange a corpus into a new state or constitute a new one. However, sampling is always performed on an existing corpus.</rdfs:comment>
+  </oa:motivation>
+
+  <oa:motivation rdf:about="https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#selecting">
+    <rdfs:label>selecting</rdfs:label>
+    <rdfs:comment>Selecting objects of interest or information from the corpus based on certain criteria. Selecting can be used to form a new corpus or workset through the simultaneous targeting of multiple resources, or to add resources to an existing corpus or workset.</rdfs:comment>
+  </oa:motivation>
+
+  <oa:motivation rdf:about="https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#translating">
+    <ns0:broaderMatch rdf:resource="http://www.w3.org/ns/oa#describing"/>
+    <rdfs:label>translating</rdfs:label>
+    <rdfs:comment>Converting and interpreting terminology, concepts, theories, etc. for oneself or also for different (disciplinary) audiences.</rdfs:comment>
+  </oa:motivation>
+
+</rdf:RDF>

@@ -14,12 +14,12 @@ sda:assessing a oa:motivation ;
   skos:closeMatch oa:assessing ;
   skos:broaderMatch oa:commenting ;
   rdfs:label "assessing" ;
-  rdfs:comment "Determining the quality of an object of interest or information in terms of its relevance or utility to a corpus or project, or in terms of its (percieved or measured) quality, its provenance, etc." .
+  rdfs:comment "Determining the quality of an object of interest or information in terms of its relevance or utility to a corpus or project, or in terms of its (perceived or measured) quality, its provenance, etc." .
 
 sda:commenting a oa:motivation ; 
    skos:exactMatch oa:commenting ;
    rdfs:label "commenting" ;
-   rdfs:comment "Making complex statements or presenting arguements to explain observations. Comments can also present historical or analytical reflections informed by academic research, including pointers to external sources and references." .
+   rdfs:comment "Making complex statements or presenting arguments to explain observations. Comments can also present historical or analytical reflections informed by academic research, including pointers to external sources and references." .
 
 sda:comparing a oa:motivation ;
   skos:broaderMatch oa:describing ;
