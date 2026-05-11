@@ -19,7 +19,7 @@ sda:assessing a oa:motivation ;
 sda:commenting a oa:motivation ; 
    skos:exactMatch oa:commenting ;
    rdfs:label "commenting" ;
-   rdfs:comment "Making complex statements or presenting arguments to explain observations. Comments can also present historical or analytical reflections informed by academic research, including pointers to external sources and references." .
+   rdfs:comment "Making statements that rely on critical judgement or presenting arguments to explain observations. Comments can also present historical or analytical reflections informed by academic research, including pointers to external sources and references." .
 
 sda:comparing a oa:motivation ;
   skos:broaderMatch oa:describing ;

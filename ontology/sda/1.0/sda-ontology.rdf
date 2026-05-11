@@ -20,7 +20,7 @@
   <oa:motivation rdf:about="https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#commenting">
     <ns0:exactMatch rdf:resource="http://www.w3.org/ns/oa#commenting"/>
     <rdfs:label>commenting</rdfs:label>
-    <rdfs:comment>Making complex statements or presenting arguments to explain observations. Comments can also present historical or analytical reflections informed by academic research, including pointers to external sources and references.</rdfs:comment>
+    <rdfs:comment>Making statements that rely on critical judgement or presenting arguments to explain observations. Comments can also present historical or analytical reflections informed by academic research, including pointers to external sources and references.</rdfs:comment>
   </oa:motivation>
 
   <oa:motivation rdf:about="https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#comparing">

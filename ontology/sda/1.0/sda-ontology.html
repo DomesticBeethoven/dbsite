@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scholarly Domain Activities Ontology</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Georgia', serif; background: #faf9f6; color: #2c2c2a; line-height: 1.7; }
+    header { border-bottom: 1px solid #d3d1c7; padding: 2.5rem 0 2rem; background: #fff; }
+    .container { max-width: 820px; margin: 0 auto; padding: 0 2rem; }
+    .prefix { font-family: 'Courier New', monospace; font-size: 0.78rem; color: #888780; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 0.5rem; }
+    h1 { font-size: 2rem; font-weight: normal; color: #2c2c2a; line-height: 1.25; margin-bottom: 0.5rem; }
+    .uri { font-family: 'Courier New', monospace; font-size: 0.82rem; color: #5f5e5a; background: #f1efe8; padding: 0.3rem 0.6rem; border-radius: 3px; display: inline-block; margin-top: 0.4rem; }
+    main { padding: 2.5rem 0 4rem; }
+    .meta-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-bottom: 2.5rem; }
+    .meta-card { background: #fff; border: 0.5px solid #d3d1c7; border-radius: 6px; padding: 1rem 1.25rem; }
+    .meta-label { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; color: #888780; margin-bottom: 0.3rem; font-family: 'Courier New', monospace; }
+    .meta-value { font-size: 0.95rem; color: #2c2c2a; }
+    .meta-value a { color: #185fa5; text-decoration: none; }
+    .meta-value a:hover { text-decoration: underline; }
+    section { margin-bottom: 2.5rem; }
+    h2 { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.1em; color: #888780; font-family: 'Courier New', monospace; font-weight: normal; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 0.5px solid #d3d1c7; }
+    p { font-size: 0.97rem; color: #444441; margin-bottom: 1rem; }
+    p a { color: #185fa5; text-decoration: none; }
+    p a:hover { text-decoration: underline; }
+    .formats { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 0.75rem; }
+    .format-link { display: flex; align-items: center; gap: 0.6rem; padding: 0.75rem 1rem; background: #fff; border: 0.5px solid #d3d1c7; border-radius: 6px; text-decoration: none; color: #2c2c2a; font-size: 0.88rem; transition: border-color 0.15s, background 0.15s; }
+    .format-link:hover { border-color: #888780; background: #f1efe8; }
+    .format-ext { font-family: 'Courier New', monospace; font-size: 0.75rem; background: #f1efe8; color: #5f5e5a; padding: 0.15rem 0.4rem; border-radius: 3px; flex-shrink: 0; }
+    .terms-list { list-style: none; }
+    .terms-list li { border-bottom: 0.5px solid #f1efe8; padding: 1rem 0; }
+    .terms-list li:last-child { border-bottom: none; }
+    .term-header { display: flex; align-items: baseline; gap: 0.75rem; margin-bottom: 0.35rem; }
+    .term-name { font-family: 'Courier New', monospace; font-size: 0.9rem; color: #185fa5; }
+    .term-type { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: #888780; font-family: 'Courier New', monospace; }
+    .term-comment { font-size: 0.88rem; color: #5f5e5a; line-height: 1.6; }
+    .versions { display: flex; gap: 0.75rem; flex-wrap: wrap; }
+    .version-link { font-family: 'Courier New', monospace; font-size: 0.85rem; color: #185fa5; text-decoration: none; padding: 0.3rem 0.75rem; border: 0.5px solid #b5d4f4; border-radius: 3px; background: #e6f1fb; }
+    .version-link.current { background: #2c2c2a; color: #f1efe8; border-color: #2c2c2a; }
+    footer { border-top: 0.5px solid #d3d1c7; padding: 1.5rem 0; font-size: 0.8rem; color: #888780; }
+  </style>
+</head>
+<body>
+<header>
+  <div class="container">
+    <p class="prefix">Ontology</p>
+    <h1>Scholarly Domain Activities Ontology</h1>
+    <code class="uri">https://domestic-beethoven.eu/ontology/sda/1.0</code>
+  </div>
+</header>
+<main>
+  <div class="container">
+  <div class="container">
+    <div class="meta-grid" style="grid-template-columns: repeat(3, 1fr); gap: 0.75rem; margin-bottom: 2rem;">
+      <div class="meta-card" style="padding: 0.6rem 0.9rem;"><p class="meta-label">Version</p><p class="meta-value">1.0</p></div>
+      <div class="meta-card" style="padding: 0.6rem 0.9rem;"><p class="meta-label">Status</p><p class="meta-value">Current</p></div>
+      <div class="meta-card" style="padding: 0.6rem 0.9rem;"><p class="meta-label">Namespace prefix</p><p class="meta-value"><code>sda:</code></p></div>
+    </div>
+    <section>
+      <h2>Description</h2>
+      <p>The Scholarly Domain Activities Ontology (SDA) defines a controlled vocabulary of common scholarly activities. It is adapted from the project <a href="https://github.com/ModellingSD/Scholarly_Domain/tree/master">Modeling the Scholarly Domain</a> for virtual research environments.</p>
+
+      <p>This ontology redefines and extends the motivations described in the W3C <a href="https://www.w3.org/TR/2017/REC-annotation-model-20170223/">Web Annotation Data Model</a> for a broader range of digital research practices.</p>‚
+    </section>
+    <section>
+      <h2>Download serialisations</h2>
+      <div class="formats">
+        <a class="format-link" href="sda-ontology.ttl"><span class="format-ext">.ttl</span><span>Turtle</span></a>
+        <a class="format-link" href="sda-ontology.rdf"><span class="format-ext">.rdf</span><span>RDF/XML</span></a>
+        <a class="format-link" href="sda-ontology.jsonld"><span class="format-ext">.jsonld</span><span>JSON-LD</span></a>
+        <a class="format-link" href="sda-ontology.nt"><span class="format-ext">.nt</span><span>N-Triples</span></a>
+      </div>
+    </section>
+    <section>
+      <h2>Terms</h2>
+      <ul class="terms-list">
+        <li><div class="term-header"><span class="term-name">sda:assembling</span><span class="term-type">oa:motivation</span></div><p class="term-comment">Putting any kind of elements from the corpus together to form a workset which can be shared, published, disseminated, or referred to by another annotation. May be an iterative or continuous process based on or involving other activities such as sampling, observing, or evidencing.</p></li>
+        <li><div class="term-header"><span class="term-name">sda:assessing</span><span class="term-type">oa:motivation</span></div><p class="term-comment">Determining the quality of an object of interest or information in terms of its relevance or utility to a corpus or project, or in terms of its provenance or perceived quality.</p></li>
+        <li><div class="term-header"><span class="term-name">sda:commenting</span><span class="term-type">oa:motivation</span></div><p class="term-comment">Making complex statements or presenting arguments to explain observations. Comments can also present historical or analytical reflections informed by academic research, including pointers to external sources and references.</p></li>
+        <li><div class="term-header"><span class="term-name">sda:comparing</span><span class="term-type">oa:motivation</span></div><p class="term-comment">Noting the differences between elements in terms of their structural and conceptual features.</p></li>
+        <li><div class="term-header"><span class="term-name">sda:contextualising</span><span class="term-type">oa:motivation</span></div><p class="term-comment">Creating relationships between corpus elements and referential elements necessary or relevant for interpretation. Considered a specific type of referring.</p></li>
+        <li><div class="term-header"><span class="term-name">sda:describing</span><span class="term-type">oa:motivation</span></div><p class="term-comment">To characterise something according to its structural or conceptual features. Encompasses a broad range of activities, from making simple factual statements to interpretive practices such as commenting and comparing.</p></li>
+        <li><div class="term-header"><span class="term-name">sda:evidencing</span><span class="term-type">oa:motivation</span></div><p class="term-comment">Indicates an element is intended to serve as evidence for a scholarly claim or argument.</p></li>
+        <li><div class="term-header"><span class="term-name">sda:illustrating</span><span class="term-type">oa:motivation</span></div><p class="term-comment">Visual content intended to express an idea, argument, or description that is represented by text, speech, numeric data, or by other visual elements.</p></li>
+        <li><div class="term-header"><span class="term-name">sda:notetaking</span><span class="term-type">oa:motivation</span></div><p class="term-comment">Jotting down thoughts, remarks, or notes at any stage of the working and research process.</p></li>
+        <li><div class="term-header"><span class="term-name">sda:observing</span><span class="term-type">oa:motivation</span></div><p class="term-comment">Labelling or identifying a feature of an element with remarks that aim to be simple and objective, using conventional terminology where possible to facilitate reuse. A narrower category than describing, calling for a specific empirically grounded stance.</p></li>
+        <li><div class="term-header"><span class="term-name">sda:referring</span><span class="term-type">oa:motivation</span></div><p class="term-comment">Pointing to an external or internal resource, for example by adding a hypertext link or citation.</p></li>
+        <li><div class="term-header"><span class="term-name">sda:sampling</span><span class="term-type">oa:motivation</span></div><p class="term-comment">A subtype of selection that constitutes a new corpus (the sample) as a subset of the original corpus. Unlike general selection, sampling is always performed on an existing corpus.</p></li>
+        <li><div class="term-header"><span class="term-name">sda:selecting</span><span class="term-type">oa:motivation</span></div><p class="term-comment">Selecting objects of interest or information from the corpus based on certain criteria, to form a new corpus or workset or to add resources to an existing one.</p></li>
+        <li><div class="term-header"><span class="term-name">sda:translating</span><span class="term-type">oa:motivation</span></div><p class="term-comment">Converting and interpreting terminology, concepts, theories, etc. for oneself or for different disciplinary audiences.</p></li>
+      </ul>
+    </section>
+    <section>
+      <h2>Versions</h2>
+      <div class="versions">
+        <a class="version-link current" href="https://domestic-beethoven.eu/ontology/sda/1.0/sda-ontology.ttl">1.0 (current)</a>
+      </div>
+    </section>
+  </div>
+</main>
+<footer>
+  <div class="container">
+    <p>Scholarly Domain Activities Ontology</p>
+  </div>
+</footer>
+</body>
+</html>

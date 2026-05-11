@@ -56,7 +56,7 @@
       { "@value": "commenting" }
     ],
     "http://www.w3.org/2000/01/rdf-schema#comment": [
-      { "@value": "Making complex statements or presenting arguments to explain observations. Comments can also present historical or analytical reflections informed by academic research, including pointers to external sources and references." }
+      { "@value": "Making statements that rely on critical judgement or presenting arguments to explain observations. Comments can also present historical or analytical reflections informed by academic research, including pointers to external sources and references."}
     ]
   },
   {

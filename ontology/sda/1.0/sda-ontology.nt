@@ -10,7 +10,7 @@
 <https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#commenting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/oa#motivation> .
 <https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#commenting> <https://www.w3.org/2009/08/skos-reference/skos#exactMatch> <http://www.w3.org/ns/oa#commenting> .
 <https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#commenting> <http://www.w3.org/2000/01/rdf-schema#label> "commenting" .
-<https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#commenting> <http://www.w3.org/2000/01/rdf-schema#comment> "Making complex statements or presenting arguments to explain observations. Comments can also present historical or analytical reflections informed by academic research, including pointers to external sources and references." .
+<https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#commenting> <http://www.w3.org/2000/01/rdf-schema#comment> "Making statements that rely on critical judgement or presenting arguments to explain observations. Comments can also present historical or analytical reflections informed by academic research, including pointers to external sources and references." .
 <https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#comparing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/oa#motivation> .
 <https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#comparing> <https://www.w3.org/2009/08/skos-reference/skos#broaderMatch> <http://www.w3.org/ns/oa#describing> .
 <https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#comparing> <http://www.w3.org/2000/01/rdf-schema#label> "comparing" .
