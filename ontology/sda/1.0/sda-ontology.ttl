@@ -3,7 +3,7 @@
 @prefix oa:      <http://www.w3.org/ns/oa#> .
 @prefix frbr:    <http://purl.org/vocab/frbr/core#> .
 @prefix mao:     <https://w3id.org/music-annotation/1.0#> .
-@prefix sda:     <https://w3id.org/
+@prefix sda:     <https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#> .
 
 sda:assembling a oa:motivation ;
   skos:relatedMatch oa:classifying ;
@@ -14,12 +14,12 @@ sda:assessing a oa:motivation ;
   skos:closeMatch oa:assessing ;
   skos:broaderMatch oa:commenting ;
   rdfs:label "assessing" ;
-  rdfs:comment "Determining the quality of an object of interest or information in terms of its relevance or utility to a corpus or project, or in terms of its (percieved or measured) quality, its provenance, etc." .
+  rdfs:comment "Determining the quality of an object of interest or information in terms of its relevance or utility to a corpus or project, or in terms of its (perceived or measured) quality, its provenance, etc." .
 
 sda:commenting a oa:motivation ; 
    skos:exactMatch oa:commenting ;
    rdfs:label "commenting" ;
-   rdfs:comment "Making complex statements or presenting arguements to explain observations. Comments can also present historical or analytical reflections informed by academic research, including pointers to external sources and references." .
+   rdfs:comment "Making statements that rely on critical judgement or presenting arguments to explain observations. Comments can also present historical or analytical reflections informed by academic research, including pointers to external sources and references." .
 
 sda:comparing a oa:motivation ;
   skos:broaderMatch oa:describing ;
@@ -34,7 +34,7 @@ sda:contextualising a oa:motivation ;
 sda:describing a oa:motivation ;
   skos:exactMatch oa:describing ;
   rdfs:label "describing" ;
-  rdfs:comment "DESCRIBING . . . .. ." .
+  rdfs:comment "To characterize something according to its structural or conceptual features. Encompasses a broad range of activities, from making simple factual statements to interpretive practices such as commenting and comparing." .
 
 sda:evidencing a oa:motivation ;
   rdfs:label "evidencing" ;
@@ -53,7 +53,7 @@ sda:notetaking a oa:motivation ;
 sda:observing a oa:motivation ;
    skos:broaderMatch oa:describing ;
    rdfs:label "observing" ;
-   rdfs:comment "Labelling or identifying a feature of an element with remarks that aim to be simple and objective, using conventional terminology where possible to facilitate reuse. It is a narrower category than "describing" as it calls for a specific stance and perspective regarding the object. An objective remark is modeled on an empirically grounded statement, as in an experimental observation of a dependent variable; a measurement." .
+   rdfs:comment "Labelling or identifying a feature of an element with remarks that aim to be simple and objective, using conventional terminology where possible to facilitate reuse. It is a narrower category than 'describing' as it calls for a specific stance and perspective regarding the object. An objective remark is modeled on an empirically grounded statement, as in an experimental observation of a dependent variable; a measurement." .
 
 sda:referring a oa:motivation ;
   skos:broaderMatch oa:linking ;
@@ -73,6 +73,3 @@ sda:translating a oa:motivation ;
   skos:broaderMatch oa:describing ;
   rdfs:label "translating" ;
   rdfs:comment "Converting and interpreting terminology, concepts, theories, etc. for oneself or also for different (disciplinary) audiences." .
-
-
-

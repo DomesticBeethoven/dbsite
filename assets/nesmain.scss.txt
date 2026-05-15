@@ -1,0 +1,205 @@
+---
+
+---
+// @use "minima";
+@import "minima";
+
+$spacing-unit: 1rem;
+
+@mixin relative-font-size($size) {
+    font-size: $size * 1rem;
+
+.site-header {
+
+    border-top: 4px solid #3f3f3f;
+    border-bottom: 12px solid #3f3f3f;
+    min-height: $spacing-unit * 1.865;
+
+    // Positioning context for the mobile navigation icon
+    position: relative;
+}
+.site-title {
+    @include relative-font-size(1.5);
+    font-family: "Cinzel", serif;
+    font-weight: 500;
+    color: #1c3238;
+    line-height: $base-line-height * $base-font-size * 2.25;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    float: left;
+    &,
+    &:visited {
+        color: #0b5713;
+        }
+    }
+}
+
+/**
+ * Alt reds!
+#e53935
+#ff6f60
+#ab000d
+ */
+
+ img[src*="#bh"] {
+    width:auto;
+    height:109px;
+    // border: 3px solid transparent;
+ }
+
+ img[src*="#logo"] {
+    width:250px;
+    height:117px;
+ }
+
+  img[src*="#upb"] {
+     width:auto;
+     height:110px;
+     border: 7px solid transparent;
+  }
+
+
+/**
+ * Links
+ */
+
+/** 04520d
+* old Color
+* color: #063d0c
+* color picker https://www.crispedge.com/color/e1ede1/
+*/
+
+a {
+  color: #04520d;
+  text-decoration: none;
+
+  &:visited {
+    color: #0b5713;
+  }
+
+  &:hover {
+    color: $brand-color;
+    text-decoration: underline;
+  }
+
+  .social-media-list &:hover {
+    text-decoration: none;
+
+    .username {
+      text-decoration: underline;
+    }
+  }
+}
+
+
+table {
+  border-collapse: separate;
+  border-spacing: 0px;
+  background-color: #ffffff;
+}
+
+th {
+  background-color: #4287f5;
+  color: white;
+}
+
+th,
+td {
+  width: 150px;
+  text-align: center;
+  border: 0px solid black;
+  padding: 5px;
+}
+
+
+.sub-title {
+  @include relative-font-size(2.25);
+  line-height: $base-line-height * $base-font-size * 1.75;
+  color: #494949;
+  font-weight: bold;
+  // font-style: italic;
+}
+
+// page-title OR page-heading
+.page-title {
+  font-weight: 900;
+  font-family: "Andale Mono", monospace;
+  font-size: $base-font-size * 2;
+
+}
+
+.page-heading {
+  @include relative-font-size(2);
+  font-family: "Cinzel", monospace;
+  font-size: $base-font-size * 2;
+}
+
+
+.site-nav {
+    float: right;
+    font-weight: bold;
+//
+// test line
+//     color: red;
+    line-height: $base-line-height * $base-font-size * 2.25;
+    .nav-trigger {
+      display: none;
+  }
+}
+
+.site-footer {
+  // border-top:4px solid #9e2a2b;
+  border-top:4px solid #3f3f3f;
+  padding: $spacing-unit 0;
+}
+
+.footer-heading {
+  @include relative-font-size(1.0);
+  margin-bottom: $spacing-unit / 2;
+  font-family: "Cinzel", serif;
+  color: #414141;
+}
+
+.rotated {
+  transform: rotate(90deg);
+}
+
+.fixed-size {
+  width: 600px;
+  /* Adjust to desired width */
+  height: auto;
+  /* Maintain aspect ratio */
+}
+.screenshot {
+  max-width: 100%;
+    /* Ensure the image doesn't exceed the container width */
+    height: auto;
+    /* Maintain aspect ratio */
+    margin-bottom: 1em;
+}
+
+.indented {
+  margin-left: 20px;
+}
+
+.double-indented {
+  margin-left: 40px;
+}
+
+.command-button {
+  display: inline-block;
+  padding: 2px 6px;
+  margin: 2px;
+  font-family: monospace;
+  font-size: 90%;
+  color: #333;
+  background-color: #f8f9fa;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.screenshot-inline {
+  height: 1.2em;
+  vertical-align: middle;
+}
