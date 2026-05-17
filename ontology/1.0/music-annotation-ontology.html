@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Annotation Ontology Documentation</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f4f7f6;
+        }
+        header {
+            background-color: #2c3e50;
+            color: white;
+            padding: 2rem;
+            border-radius: 8px 8px 0 0;
+            margin-bottom: 20px;
+        }
+        h1, h2, h3 { margin-top: 0; }
+        .prefix-box {
+            background: #fff;
+            padding: 15px;
+            border-left: 5px solid #3498db;
+            font-family: monospace;
+            font-size: 0.9em;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .section {
+            background: white;
+            padding: 25px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .term-card {
+            border-bottom: 1px solid #eee;
+            padding: 15px 0;
+        }
+        .term-card:last-child { border-bottom: none; }
+        .term-name {
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #2980b9;
+        }
+        .type-tag {
+            font-size: 0.7em;
+            text-transform: uppercase;
+            background: #e1e8ed;
+            padding: 2px 8px;
+            border-radius: 4px;
+            vertical-align: middle;
+            margin-left: 10px;
+            color: #7f8c8d;
+        }
+        .meta-info {
+            margin: 10px 0;
+            font-size: 0.9em;
+        }
+        .meta-label { font-weight: bold; color: #555; }
+        .comment {
+            background: #fdf9f3;
+            padding: 10px;
+            border-radius: 4px;
+            font-style: italic;
+            border-left: 3px solid #f39c12;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        th, td {
+            text-align: left;
+            padding: 12px;
+            border-bottom: 1px solid #eee;
+        }
+        th { background: #f8f9fa; color: #34495e; }
+        code {
+            background: #f0f0f0;
+            padding: 2px 4px;
+            border-radius: 3px;
+            font-family: 'Courier New', Courier, monospace;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Music Annotation Ontology (MAO)</h1>
+    <p>Vocabulary for the structural and scholarly annotation of musical works.</p>
+</header>
+
+<div class="prefix-box">
+    <strong>Prefixes:</strong><br>
+    mao: &lt;https://w3id.org/music-annotation/1.0#&gt;<br>
+    frbr: &lt;http://purl.org/vocab/frbr/core#&gt;<br>
+    oa: &lt;http://www.w3.org/ns/oa#&gt;<br>
+    rdfs: &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
+</div>
+
+<div class="section">
+    <h2>Classes</h2>
+    
+    <div class="term-card">
+        <span class="term-name">MusicalIdea</span><span class="type-tag">Class</span>
+        <div class="meta-info">
+            <span class="meta-label">Subclass of:</span> <code>frbr:Work</code>
+        </div>
+        <div class="comment">Analogous to frbr:work, but on a local level, as an element of a larger piece. An abstract entity that refers to the musical thought behind a musical structure, especially a recurring one.</div>
+    </div>
+
+    <div class="term-card">
+        <span class="term-name">MusicalMaterial</span><span class="type-tag">Class</span>
+        <div class="meta-info">
+            <span class="meta-label">Subclass of:</span> <code>frbr:Expression</code>
+        </div>
+        <div class="comment">The musical concept behind a musical Extract, independent of its various expressions in different arrangements or recordings. The realization of a MusicalIdea.</div>
+    </div>
+
+    <div class="term-card">
+        <span class="term-name">Extract</span><span class="type-tag">Class</span>
+        <div class="meta-info">
+            <span class="meta-label">Subclass of:</span> <code>frbr:Expression</code>
+        </div>
+        <div class="comment">A portion of music, independent of its manifestation in a particular edition, or its realization in any individual performance or media format.</div>
+    </div>
+
+    <div class="term-card">
+        <span class="term-name">Selection</span><span class="type-tag">Class</span>
+        <div class="meta-info">
+            <span class="meta-label">Subclass of:</span> <code>frbr:Manifestation</code>
+        </div>
+        <div class="comment">A collection of UUIDs that comprise a single musical object, at any level, within a single resource.</div>
+    </div>
+
+    <div class="term-card">
+        <span class="term-name">absenceSelection</span><span class="type-tag">Class</span>
+        <div class="meta-info">
+            <span class="meta-label">Subclass of:</span> <code>mao:Selection</code>
+        </div>
+        <div class="comment">A point marker that combines with an AbsenceQualification value (e.g., 'before') to indicate the location of an addition or abridgment.</div>
+    </div>
+</div>
+
+<div class="section">
+    <h2>Properties</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Property</th>
+                <th>Domain</th>
+                <th>Range</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><code>setting</code></td>
+                <td>MusicalMaterial</td>
+                <td>Extract</td>
+                <td>A setting of MusicalMaterial in an Extract.</td>
+            </tr>
+            <tr>
+                <td><code>settingOf</code></td>
+                <td>Extract</td>
+                <td>MusicalMaterial</td>
+                <td>The MusicalMaterial that this Extract is a setting of. (Inverse of setting)</td>
+            </tr>
+            <tr>
+                <td><code>absenceQualifier</code></td>
+                <td>absenceSelection</td>
+                <td>AbsenceQualification</td>
+                <td>Relates an absence selection to its qualifier.</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<!--
+<div class="section">
+    <h2>Annotation Motivations</h2>
+    <p>These instances represent the <code>oa:motivation</code> for creating specific annotations.</p>
+    
+    <div class="term-card">
+        <span class="term-name">observing</span>
+        <div class="meta-info">
+            <span class="meta-label">Broader:</span> <code>oa:describing</code>
+        </div>
+        <div class="comment">A type of annotation making an observation (rather than a comment), often for purposes of comparison.</div>
+    </div>
+
+    <div class="term-card">
+        <span class="term-name">comparing</span>
+        <div class="meta-info">
+            <span class="meta-label">Broader:</span> <code>oa:describing</code>
+        </div>
+        <div class="comment">A type of annotation that makes a comparison of two or more versions or Extracts, often for purposes of scholarly commentary.</div>
+    </div>
+
+    <div class="term-card">
+        <span class="term-name">commenting</span>
+        <div class="comment">A type of annotation that makes a comment on musical structure or another annotation, often used to enrich descriptions with historical background.</div>
+    </div>
+</div>
+-->
+
+</body>
+</html>
