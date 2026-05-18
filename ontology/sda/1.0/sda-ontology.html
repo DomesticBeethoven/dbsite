@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -39,6 +40,9 @@
     .version-link { font-family: 'Courier New', monospace; font-size: 0.85rem; color: #185fa5; text-decoration: none; padding: 0.3rem 0.75rem; border: 0.5px solid #b5d4f4; border-radius: 3px; background: #e6f1fb; }
     .version-link.current { background: #2c2c2a; color: #f1efe8; border-color: #2c2c2a; }
     footer { border-top: 0.5px solid #d3d1c7; padding: 1.5rem 0; font-size: 0.8rem; color: #888780; }
+    .term-index { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.3rem 0.75rem; }
+    .term-index a { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 1.3rem; font-weight: bold; color: #2a3a4a; text-decoration: none; letter-spacing: 0.01em; }
+    .term-index a:hover { text-decoration: underline; }
   </style>
 </head>
 <body>
@@ -51,6 +55,25 @@
 <main>
   <div class="container">
   <div class="container">
+    <section style="margin-bottom: 2rem;">
+      <h2>Terms</h2>
+      <div class="term-index">
+        <a href="#assembling">assembling</a>
+        <a href="#assessing">assessing</a>
+        <a href="#commenting">commenting</a>
+        <a href="#comparing">comparing</a>
+        <a href="#contextualising">contextualising</a>
+        <a href="#describing">describing</a>
+        <a href="#evidencing">evidencing</a>
+        <a href="#illustrating">illustrating</a>
+        <a href="#notetaking">notetaking</a>
+        <a href="#observing">observing</a>
+        <a href="#referring">referring</a>
+        <a href="#sampling">sampling</a>
+        <a href="#selecting">selecting</a>
+        <a href="#translating">translating</a>
+      </div>
+    </section>
     <div class="meta-grid" style="grid-template-columns: repeat(3, 1fr); gap: 0.75rem; margin-bottom: 2rem;">
       <div class="meta-card" style="padding: 0.6rem 0.9rem;"><p class="meta-label">Version</p><p class="meta-value">1.0</p></div>
       <div class="meta-card" style="padding: 0.6rem 0.9rem;"><p class="meta-label">Status</p><p class="meta-value">Current</p></div>
@@ -87,7 +110,7 @@
         <li id="referring"><div class="term-header"><span class="term-name">referring</span><span class="term-type">a oa:motivation</span></div><p class="term-comment">Pointing to an external or internal resource, for example by adding a hypertext link or citation.</p></li>
         <li id="sampling"><div class="term-header"><span class="term-name">sampling</span><span class="term-type">a oa:motivation</span></div><p class="term-comment">A subtype of selection that constitutes a new corpus (the sample) as a subset of the original corpus. Unlike general selection, sampling is always performed on an existing corpus.</p></li>
         <li id="selecting"><div class="term-header"><span class="term-name">selecting</span><span class="term-type">a oa:motivation</span></div><p class="term-comment">Selecting objects of interest or information from the corpus based on certain criteria, to form a new corpus or workset or to add resources to an existing one.</p></li>
-        <li><div class="term-header"><span class="term-name">translating</span><span class="term-type">a oa:motivation</span></div><p class="term-comment">Converting and interpreting terminology, concepts, theories, etc. for oneself or for different disciplinary audiences.</p></li>
+        <li id="translating"><div class="term-header"><span class="term-name">translating</span><span class="term-type">a oa:motivation</span></div><p class="term-comment">Converting and interpreting terminology, concepts, theories, etc. for oneself or for different disciplinary audiences.</p></li>
       </ul>
     </section>
     <section>
