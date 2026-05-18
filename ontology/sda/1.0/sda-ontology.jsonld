@@ -18,7 +18,7 @@
     "@id": "http://www.w3.org/ns/oa#motivation"
   },
   {
-    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#assembling",
+    "@id": "https://w3id.org/sda/1.0#assembling",
     "@type": ["http://www.w3.org/ns/oa#motivation"],
     "https://www.w3.org/2009/08/skos-reference/skos#relatedMatch": [
       { "@id": "http://www.w3.org/ns/oa#classifying" }
@@ -31,7 +31,7 @@
     ]
   },
   {
-    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#assessing",
+    "@id": "https://w3id.org/sda/1.0#assessing",
     "@type": ["http://www.w3.org/ns/oa#motivation"],
     "https://www.w3.org/2009/08/skos-reference/skos#closeMatch": [
       { "@id": "http://www.w3.org/ns/oa#assessing" }
@@ -47,7 +47,7 @@
     ]
   },
   {
-    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#commenting",
+    "@id": "https://w3id.org/sda/1.0#commenting",
     "@type": ["http://www.w3.org/ns/oa#motivation"],
     "https://www.w3.org/2009/08/skos-reference/skos#exactMatch": [
       { "@id": "http://www.w3.org/ns/oa#commenting" }
@@ -60,7 +60,7 @@
     ]
   },
   {
-    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#comparing",
+    "@id": "https://w3id.org/sda/1.0#comparing",
     "@type": ["http://www.w3.org/ns/oa#motivation"],
     "https://www.w3.org/2009/08/skos-reference/skos#broaderMatch": [
       { "@id": "http://www.w3.org/ns/oa#describing" }
@@ -73,7 +73,7 @@
     ]
   },
   {
-    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#contextualising",
+    "@id": "https://w3id.org/sda/1.0#contextualising",
     "@type": ["http://www.w3.org/ns/oa#motivation"],
     "https://www.w3.org/2009/08/skos-reference/skos#broaderMatch": [
       { "@id": "http://www.w3.org/ns/oa#describing" }
@@ -86,7 +86,7 @@
     ]
   },
   {
-    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#describing",
+    "@id": "https://w3id.org/sda/1.0#describing",
     "@type": ["http://www.w3.org/ns/oa#motivation"],
     "https://www.w3.org/2009/08/skos-reference/skos#exactMatch": [
       { "@id": "http://www.w3.org/ns/oa#describing" }
@@ -99,7 +99,7 @@
     ]
   },
   {
-    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#evidencing",
+    "@id": "https://w3id.org/sda/1.0#evidencing",
     "@type": ["http://www.w3.org/ns/oa#motivation"],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       { "@value": "evidencing" }
@@ -109,7 +109,7 @@
     ]
   },
   {
-    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#illustrating",
+    "@id": "https://w3id.org/sda/1.0#illustrating",
     "@type": ["http://www.w3.org/ns/oa#motivation"],
     "https://www.w3.org/2009/08/skos-reference/skos#broaderMatch": [
       { "@id": "http://www.w3.org/ns/oa#describing" }
@@ -122,10 +122,10 @@
     ]
   },
   {
-    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#notetaking",
+    "@id": "https://w3id.org/sda/1.0#notetaking",
     "@type": ["http://www.w3.org/ns/oa#motivation"],
     "https://www.w3.org/2009/08/skos-reference/skos#broader": [
-      { "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#commenting" }
+      { "@id": "https://w3id.org/sda/1.0#commenting" }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       { "@value": "notetaking" }
@@ -135,7 +135,7 @@
     ]
   },
   {
-    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#observing",
+    "@id": "https://w3id.org/sda/1.0#observing",
     "@type": ["http://www.w3.org/ns/oa#motivation"],
     "https://www.w3.org/2009/08/skos-reference/skos#broaderMatch": [
       { "@id": "http://www.w3.org/ns/oa#describing" }
@@ -148,7 +148,7 @@
     ]
   },
   {
-    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#referring",
+    "@id": "https://w3id.org/sda/1.0#referring",
     "@type": ["http://www.w3.org/ns/oa#motivation"],
     "https://www.w3.org/2009/08/skos-reference/skos#broaderMatch": [
       { "@id": "http://www.w3.org/ns/oa#linking" }
@@ -161,10 +161,10 @@
     ]
   },
   {
-    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#sampling",
+    "@id": "https://w3id.org/sda/1.0#sampling",
     "@type": ["http://www.w3.org/ns/oa#motivation"],
     "https://www.w3.org/2009/08/skos-reference/skos#broader": [
-      { "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#selecting" }
+      { "@id": "https://w3id.org/sda/1.0#selecting" }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       { "@value": "sampling" }
@@ -174,7 +174,7 @@
     ]
   },
   {
-    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#selecting",
+    "@id": "https://w3id.org/sda/1.0#selecting",
     "@type": ["http://www.w3.org/ns/oa#motivation"],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       { "@value": "selecting" }
@@ -184,7 +184,7 @@
     ]
   },
   {
-    "@id": "https://github.com/DomesticBeethoven/dbsite/blob/gh-pages/ontology/sda/1.0#translating",
+    "@id": "https://w3id.org/sda/1.0#translating",
     "@type": ["http://www.w3.org/ns/oa#motivation"],
     "https://www.w3.org/2009/08/skos-reference/skos#broaderMatch": [
       { "@id": "http://www.w3.org/ns/oa#describing" }
