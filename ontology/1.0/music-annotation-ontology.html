@@ -87,14 +87,24 @@
             border-radius: 3px;
             font-family: 'Courier New', Courier, monospace;
         }
+        a { color: #2980b9; }
+        a:visited { color: #2980b9; }
+
     </style>
 </head>
 <body>
 
-<header>
+<header style="border-radius: 0;">
     <h1>Music Annotation Ontology (MAO)</h1>
-    <p>Vocabulary for the structural and scholarly annotation of musical works.</p>
+    <p>Vocabulary for the scholarly annotation of musical works.</p>
 </header>
+
+<div class="section" style="margin-top: -20px; margin-bottom: 20px; border: 4px solid #2c3e50; border-top: none; border-radius: 0;">
+  <p>The <strong>Music Annotation Ontology</strong> is described in detail in 
+    <a href="https://dl.acm.org/doi/10.1145/3543882.3543891">Lewis et al. (2023)</a> with documentation available on the 
+    <a href="https://domestic-beethoven.eu/assets/docs/BitHModelDocumentation_v0.2.1.pdf">Beethoven in the House project website</a> and in
+    <a href="https://doi.org/10.17613/389b-xx73">Hankinson et al. (2022)</a>.</p>
+</div>
 
 <div class="prefix-box">
     <strong>Prefixes:</strong><br>
@@ -107,7 +117,7 @@
 <div class="section">
     <h2>Classes</h2>
     
-    <div class="term-card">
+    <div class="term-card" id="MusicalIdea">
         <span class="term-name">MusicalIdea</span><span class="type-tag">Class</span>
         <div class="meta-info">
             <span class="meta-label">Subclass of:</span> <code>frbr:Work</code>
@@ -115,7 +125,7 @@
         <div class="comment">Analogous to frbr:work, but on a local level, as an element of a larger piece. An abstract entity that refers to the musical thought behind a musical structure, especially a recurring one.</div>
     </div>
 
-    <div class="term-card">
+    <div class="term-card" id="MusicalMaterial">
         <span class="term-name">MusicalMaterial</span><span class="type-tag">Class</span>
         <div class="meta-info">
             <span class="meta-label">Subclass of:</span> <code>frbr:Expression</code>
@@ -123,7 +133,7 @@
         <div class="comment">The musical concept behind a musical Extract, independent of its various expressions in different arrangements or recordings. The realization of a MusicalIdea.</div>
     </div>
 
-    <div class="term-card">
+    <div class="term-card" id="Extract">
         <span class="term-name">Extract</span><span class="type-tag">Class</span>
         <div class="meta-info">
             <span class="meta-label">Subclass of:</span> <code>frbr:Expression</code>
@@ -131,7 +141,7 @@
         <div class="comment">A portion of music, independent of its manifestation in a particular edition, or its realization in any individual performance or media format.</div>
     </div>
 
-    <div class="term-card">
+    <div class="term-card" id="Selection">
         <span class="term-name">Selection</span><span class="type-tag">Class</span>
         <div class="meta-info">
             <span class="meta-label">Subclass of:</span> <code>frbr:Manifestation</code>
@@ -139,7 +149,7 @@
         <div class="comment">A collection of UUIDs that comprise a single musical object, at any level, within a single resource.</div>
     </div>
 
-    <div class="term-card">
+    <div class="term-card" id="absenceSelection">
         <span class="term-name">absenceSelection</span><span class="type-tag">Class</span>
         <div class="meta-info">
             <span class="meta-label">Subclass of:</span> <code>mao:Selection</code>
@@ -160,19 +170,19 @@
             </tr>
         </thead>
         <tbody>
-            <tr>
+            <tr id="setting">
                 <td><code>setting</code></td>
                 <td>MusicalMaterial</td>
                 <td>Extract</td>
                 <td>A setting of MusicalMaterial in an Extract.</td>
             </tr>
-            <tr>
+            <tr id="settingOf">
                 <td><code>settingOf</code></td>
                 <td>Extract</td>
                 <td>MusicalMaterial</td>
                 <td>The MusicalMaterial that this Extract is a setting of. (Inverse of setting)</td>
             </tr>
-            <tr>
+            <tr id="absenceQualifier">
                 <td><code>absenceQualifier</code></td>
                 <td>absenceSelection</td>
                 <td>AbsenceQualification</td>
