@@ -29,7 +29,7 @@ sda:comparing a oa:motivation ;
 sda:contextualising a oa:motivation ;
   skos:broaderMatch oa:describing ;
   rdfs:label "contextualising" ;
-  rdfs:comment "Creating relationships between corpus elements and referential elements necessary or relevant for interpretation. Considered as a specific type of referring." . 
+  rdfs:comment "Creating relationships between corpus elements and referential elements necessary or relevant for interpretation. Considered a specific type of describing." . 
 
 sda:describing a oa:motivation ;
   skos:exactMatch oa:describing ;

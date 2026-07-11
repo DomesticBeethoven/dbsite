@@ -32,7 +32,7 @@
   <oa:motivation rdf:about="https://w3id.org/sda/1.0#contextualising">
     <ns0:broaderMatch rdf:resource="http://www.w3.org/ns/oa#describing"/>
     <rdfs:label>contextualising</rdfs:label>
-    <rdfs:comment>Creating relationships between corpus elements and referential elements necessary or relevant for interpretation. Considered as a specific type of referring.</rdfs:comment>
+    <rdfs:comment>Creating relationships between corpus elements and referential elements necessary or relevant for interpretation. Considered a specific type of describing.</rdfs:comment>
   </oa:motivation>
 
   <oa:motivation rdf:about="https://w3id.org/sda/1.0#describing">

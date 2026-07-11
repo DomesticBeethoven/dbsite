@@ -18,7 +18,7 @@
 <https://w3id.org/sda/1.0#contextualising> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/oa#motivation> .
 <https://w3id.org/sda/1.0#contextualising> <https://www.w3.org/2009/08/skos-reference/skos#broaderMatch> <http://www.w3.org/ns/oa#describing> .
 <https://w3id.org/sda/1.0#contextualising> <http://www.w3.org/2000/01/rdf-schema#label> "contextualising" .
-<https://w3id.org/sda/1.0#contextualising> <http://www.w3.org/2000/01/rdf-schema#comment> "Creating relationships between corpus elements and referential elements necessary or relevant for interpretation. Considered as a specific type of referring." .
+<https://w3id.org/sda/1.0#contextualising> <http://www.w3.org/2000/01/rdf-schema#comment> "Creating relationships between corpus elements and referential elements necessary or relevant for interpretation. Considered a specific type of describing." .
 <https://w3id.org/sda/1.0#describing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/oa#motivation> .
 <https://w3id.org/sda/1.0#describing> <https://www.w3.org/2009/08/skos-reference/skos#exactMatch> <http://www.w3.org/ns/oa#describing> .
 <https://w3id.org/sda/1.0#describing> <http://www.w3.org/2000/01/rdf-schema#label> "describing" .

@@ -82,7 +82,7 @@
       { "@value": "contextualising" }
     ],
     "http://www.w3.org/2000/01/rdf-schema#comment": [
-      { "@value": "Creating relationships between corpus elements and referential elements necessary or relevant for interpretation. Considered as a specific type of referring." }
+      { "@value": "Creating relationships between corpus elements and referential elements necessary or relevant for interpretation. Considered a specific type of describing." }
     ]
   },
   {
