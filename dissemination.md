@@ -71,7 +71,7 @@ Proceedings of the 24th International Society for Music Information Retrieval Co
 
 [“Beethoven in the House."](https://www.musikundmedien.hu-berlin.de/de/musikwissenschaft/Historische/gfm-tagung-2022/gfm_broschuere.pdf#page=65){:target="_blank"} Research project presentation. Christine Siegert, Andrew Hankinson, Johannes Kepper, David Lewis, Kevin Page, Lisa Rosendahl, Mark Saccomano, and Elisabete Shibata. Jahrestagung der Gesellschaft für Musikforschung, “Nach der Norm: Musikwissenschaft im 21. Jahrhundert,” Berlin, September 28-October 1, 2022.
 
-[“Beethoven’s Large Scale Works outside the Concert Hall: Towards a Digital Representation of Domestic Arrangements.”](https://convin.gr/assets/files/misc/IMS2022AB.pdf#page=98){:target="_blank"} Roundtable. Christine Siegert (organizer), Christina Bashford, Lisa Rosendahl, Elisabete Shibata, David Lewis, Andrew Hankinson, Laurent Pungin, Richard Sänger, Johannes Kepper, Mark Saccomano, and Kevin Page. 21st Quinquennial Congress of the International Musicological Society (IMS 2022), Athens, August 22-26, 2022.
+[“Beethoven’s Large Scale Works outside the Concert Hall: Towards a Digital Representation of Domestic Arrangements.”](https://convin.gr/assets/files/misc/IMS2022AB.pdf#page=98){:target="_blank"} Roundtable. Christine Siegert (organizer), Christina Bashford, Lisa Rosendahl, Elisabete Shibata, David Lewis, Andrew Hankinson, Laurent Pugin, Richard Sänger, Johannes Kepper, Mark Saccomano, and Kevin Page. 21st Quinquennial Congress of the International Musicological Society (IMS 2022), Athens, August 22-26, 2022.
 
 
 ### __Posters__
